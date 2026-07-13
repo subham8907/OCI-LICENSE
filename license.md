@@ -14,8 +14,7 @@ For the purposes of this definition, "submitted" means any form of electronic, v
 
 **"Contributor"** means the Licensor and any individual or Legal Entity whose Contribution has been accepted by the Licensor and incorporated into the Software.
 
-**"Conversion Date"** means the date and time specified in ISO 8601 format as ${YYYY-MM-DD}T00:00:00Z, on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
-
+**"Conversion Date"** means the date and time specified in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time), where ${YYYY-MM-DD} is the placeholder to be replaced with an actual calendar date as described in the Appendix, on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
 **"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
 
 For the purposes of this License, Derivative Works do not include works that remain separable from, or merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
