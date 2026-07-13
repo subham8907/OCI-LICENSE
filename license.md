@@ -9,14 +9,13 @@ Copyright © ${year} ${licensor name}
 ## DEFINITIONS
 
 **"Contribution"** means any work of authorship, including the original version of the Software and any modifications, additions, or other changes to the Software, that is intentionally submitted to the Licensor for inclusion in the Software by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.
-
 For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including, without limitation, communications on electronic mailing lists, source code repositories, source code control systems, issue tracking systems, code review systems, or other communication channels managed by, or on behalf of, the Licensor for the purpose of discussing or improving the Software, but excluding any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
 **"Contributor"** means the Licensor and any individual or Legal Entity whose Contribution has been accepted by the Licensor and incorporated into the Software.
 
 **"Conversion Date"** means the date and time specified in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time), where ${YYYY-MM-DD} is the placeholder to be replaced with an actual calendar date as described in the Appendix, on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
-**"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
 
+**"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
 For the purposes of this License, Derivative Works do not include works that remain separable from, or merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
 
 **"Legal Entity"** means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to direct or cause the direction or management of such entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
