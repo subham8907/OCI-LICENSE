@@ -13,7 +13,7 @@ For the purposes of this definition, "submitted" means any form of electronic, v
 
 **"Contributor"** means the Licensor and any individual or Legal Entity whose Contribution has been accepted by the Licensor and incorporated into the Software.
 
-**"Conversion Date"** means the date and time specified in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time), where ${YYYY-MM-DD} is the placeholder to be replaced with an actual calendar date as described in the Appendix, on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
+**"Conversion Date"** means the date and time set forth in Appendix B, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
 
 **"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
 For the purposes of this License, Derivative Works do not include works that remain separable from, or merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
@@ -30,7 +30,7 @@ For the purposes of this License, Derivative Works do not include works that rem
 
 **"Source Code"** means the form of the work that is governed by this License and that is preferred for making modifications.
 
-**"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+**"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix A below).
 
 **"You"** (or **"Your"**) means an individual or Legal Entity exercising permissions granted by this License.
 
@@ -188,7 +188,7 @@ Submission of a Contribution under Section 7 constitutes the Contributor's agree
 
 ---
 
-## APPENDIX: How to Apply This License to Your Work
+## APPENDIX A: How to Apply This License to Your Work
 
 Include a copy of this License, typically in a file named LICENSE, with Your Software.
 
@@ -197,9 +197,9 @@ To apply this License to specific files in Your Software, attach the following n
 ```
 Copyright © [yyyy] [name of copyright owner]
 
-The Conversion Date is as specified in the LICENSE file accompanying this
-Software. On and after that date, additional permissions described in
-Section 8 (Grant of Future License) of the License apply.
+The Conversion Date is as specified in Appendix B of the LICENSE file
+accompanying this Software. On and after that date, additional permissions
+described in Section 8 (Grant of Future License) of the License apply.
 
 Licensed under this License (the "License");
 you may not use this file except in compliance with the License.
@@ -217,7 +217,7 @@ Before publishing this License, replace the following placeholders:
 
 - `${year}` — the year of first publication.
 - `${licensor name}` — the name of the copyright owner or licensing entity.
-- `${YYYY-MM-DD}` — the Conversion Date in calendar date format, year-month-day (for example, 2030-01-01). Under this License, the Conversion Date becomes effective at midnight Coordinated Universal Time on that date.
+- `${YYYY-MM-DD}` in Appendix B — the Conversion Date in calendar date format, year-month-day (for example, 2030-01-01). Under this License, the Conversion Date becomes effective at midnight Coordinated Universal Time on that date.
 
 When applying the per-file notice above to individual source files, also replace:
 
@@ -228,6 +228,12 @@ When applying the per-file notice above to individual source files, also replace
 
 The following guidance is provided to help You apply this License consistently. It is explanatory only, does not form part of the operative Terms and Conditions in Sections 0 through 11 above, and does not itself create, waive, or modify any right or obligation under this License. None of the specific mechanisms suggested below (file names, notice wording, or placement) are mandatory — You may use any approach You prefer, so long as it remains clear which Conversion Date applies to which file.
 
-- **Centralized Conversion Date.** By default, the Conversion Date is not restated per file; each file instead points to the single Conversion Date set in the LICENSE file, so that changing the LICENSE file is sufficient to update the date everywhere.
-- **Per-file Conversion Date (optional).** If You prefer, You may instead state the actual Conversion Date directly in a given file (for example, "The Conversion Date for this Software is [YYYY-MM-DD]") rather than referencing the LICENSE file. If a file states an actual Conversion Date that differs from the date in the LICENSE file, the date stated in that file controls for that file.
+- **Centralized Conversion Date.** By default, the Conversion Date is not restated per file; each file instead points to the single Conversion Date set in Appendix B of the LICENSE file, so that changing the LICENSE file is sufficient to update the date everywhere.
+- **Per-file Conversion Date (optional).** If You prefer, You may instead state the actual Conversion Date directly in a given file (for example, "The Conversion Date for this Software is [YYYY-MM-DD]") rather than referencing the LICENSE file. If a file states an actual Conversion Date that differs from the date in Appendix B, the date stated in that file controls for that file.
 - **Multiple LICENSE files.** If the Software is combined, bundled, or distributed with other software made available under this License or a similar license, and that other software has its own LICENSE file with its own Conversion Date, You may rename each LICENSE file (for example, LICENSE-OCL, LICENSE-THIRDPARTY, or a name reflecting the component it covers) so that the file names no longer collide. Whatever naming or notice approach You use, it should make clear, on the face of each file, which LICENSE file's Conversion Date governs that file.
+
+## APPENDIX B: Conversion Date
+
+**Conversion Date:** ${YYYY-MM-DD}T00:00:00Z
+
+Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format (for example, 2030-01-01), on which the Conversion Date defined in the DEFINITIONS section above is to take effect. The Conversion Date becomes effective at midnight Coordinated Universal Time (00:00:00Z) on that date.
