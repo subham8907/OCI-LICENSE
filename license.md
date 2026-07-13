@@ -245,15 +245,6 @@ Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format 
 ```
 Copyright © Contributor
 ```
-
-or, optionally, with a year included:
-
-```
-Copyright © [yyyy] Contributor
-```
-
-If a year is included, replace `[yyyy]` with the year in which the Contribution was first submitted. Including the year is not mandatory. The word "Contributor" is used generically in place of the Contributor's actual name or pseudonym.
-
 **Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. Meaning, You do not have to manually add this notice into the modified Source Code or file yourself — it applies by operation of this License.
 
 This Appendix is for the convenience of applying a consistent default notice form and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11 above.
