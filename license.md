@@ -6,7 +6,7 @@
 
 Copyright © ${year} ${licensor name}
 
-*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the copyright owner or licensing entity before this License is applied to the Software.*
+*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE, that is, if they have already been replaced with an actual year and name, that means this License has already been applied to the Software, and the completed information controls.*
 
 ## DEFINITIONS
 
@@ -28,7 +28,7 @@ For the purposes of this License, Derivative Works do not include works that rem
 
 **"Object Form"** means any form of the Software resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
 
-**"Placeholder"** means a bracketed, symbol-delimited, or otherwise conspicuously marked field appearing in this License or its Appendices (including, without limitation, ${year}, ${licensor name}, ${YYYY-MM-DD}, [yyyy], and [name of copyright owner]) that is intended to be replaced with specific identifying, dated, or other factual information when this License is applied to the Software. A Placeholder does not itself state an operative term of this License; upon completion in accordance with Appendix A, the information supplied in place of a Placeholder becomes part of the notice or Appendix in which it appears for purposes of this License.
+**"Placeholder"** means a bracketed, symbol-delimited, or otherwise conspicuously marked field appearing in this License or its Appendices (including, without limitation, ${year}, ${licensor name}, ${YYYY-MM-DD}, [yyyy], and [name of copyright owner]) that is intended to be replaced with specific identifying, dated, or other factual information when this License is applied to the Software. A Placeholder does not itself state an operative term of this License; upon completion in accordance with Appendix A, the information supplied in place of a Placeholder becomes part of the notice or Appendix in which it appears for purposes of this License. If a Placeholder does not appear where this License otherwise indicates it should, that is, if it has already been replaced with actual information, that means this License has already been applied to the Software, and the completed information controls.
 
 **"Software"** means the Work and its associated documentation files that the Licensor makes available under these Terms and Conditions, as indicated by the Licensor's inclusion of these Terms and Conditions with that Work.
 
@@ -264,18 +264,18 @@ limitations under the License.
 
 Before publishing this License, replace the following placeholders:
 
-- `${year}` — the year of first publication.
-- `${licensor name}` — the name of the copyright owner or licensing entity.
-- `${YYYY-MM-DD}` in Appendix B — the Conversion Date in calendar date format, year-month-day (for example, 2030-01-01). Under this License, the Conversion Date becomes effective at midnight Coordinated Universal Time on that date.
+- `${year}`: the year of first publication.
+- `${licensor name}`: the name of the copyright owner or licensing entity.
+- `${YYYY-MM-DD}` in Appendix B: the Conversion Date in calendar date format, year-month-day (for example, 2030-01-01). Under this License, the Conversion Date becomes effective at midnight Coordinated Universal Time on that date.
 
 When applying the per-file notice above to individual source files, also replace:
 
-- `[yyyy]` — the year of first publication for that file.
-- `[name of copyright owner]` — the name of the copyright owner or licensing entity.
+- `[yyyy]`: the year of first publication for that file.
+- `[name of copyright owner]`: the name of the copyright owner or licensing entity.
 
 ### Guidance (non-binding)
 
-The following guidance is provided to help You apply this License consistently. It is explanatory only, does not form part of the operative Terms and Conditions in Sections 0 through 11 above, and does not itself create, waive, or modify any right or obligation under this License. None of the specific mechanisms suggested below (file names, notice wording, or placement) are mandatory — You may use any approach You prefer, so long as it remains clear which Conversion Date applies to which file.
+The following guidance is provided to help You apply this License consistently. It is explanatory only, does not form part of the operative Terms and Conditions in Sections 0 through 11 above, and does not itself create, waive, or modify any right or obligation under this License. None of the specific mechanisms suggested below (file names, notice wording, or placement) are mandatory; You may use any approach You prefer, so long as it remains clear which Conversion Date applies to which file.
 
 - **Centralized Conversion Date.** By default, the Conversion Date is not restated per file; each file instead points to the single Conversion Date set in Appendix B of the LICENSE file, so that changing the LICENSE file is sufficient to update the date everywhere.
 - **Per-file Conversion Date (optional).** If You prefer, You may instead state the actual Conversion Date directly in a given file (for example, "The Conversion Date for this Software is [YYYY-MM-DD]") rather than referencing the LICENSE file. If a file states an actual Conversion Date that differs from the date in Appendix B, the date stated in that file controls for that file.
@@ -292,7 +292,7 @@ Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format 
 ```
 Copyright © Contributor
 ```
-**Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. Meaning, You do not have to manually add this notice into the modified Source Code or file yourself — it applies by operation of this License.
+**Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. Meaning, You do not have to manually add this notice into the modified Source Code or file yourself; it applies by operation of this License.
 
 **Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but is not mandatory. Whether or not You add it manually, the notice form set forth in this Appendix applies to the relevant Contribution by operation of this License, as described above.
 
