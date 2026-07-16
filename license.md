@@ -269,8 +269,10 @@ Unless required by applicable law or agreed to in writing, the Software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License.
+limitations under the License
+Conversion Date: ${YYYY-MM-DD}T00:00:00Z
 ```
+Replace ${YYYY-MM-DD} with the actual calendar date, in year-month-day format (for example, 2030-01-01), on which the Conversion Date defined in the DEFINITIONS section above is to take effect. The Conversion Date becomes effective at midnight Coordinated Universal Time (00:00:00Z) on that date.
 
 Before publishing this License, replace the following placeholders:
 
