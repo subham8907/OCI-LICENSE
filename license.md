@@ -188,7 +188,9 @@ A NOTICE file created under this Section may be combined with, or kept separate 
 
 ### 9D. Accompanying Documentation
 
-You may create documentation, under any name or in any format You see fit, to distribute alongside the Software, Your Modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, explanatory materials, technical notes, FAQs, examples, tutorials, specifications, or any other information, including arbitrary, fictional, nonsensical, experimental, placeholder, or otherwise unrelated content, to the extent permitted by applicable law.
+You may create documentation, under any name and in any format You see fit, to distribute alongside the Software, Your Modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, explanatory materials, technical notes, FAQs, examples, tutorials, specifications, or any other information, including arbitrary, fictional, nonsensical, experimental, placeholder, or otherwise unrelated content, to the extent permitted by applicable law.
+
+Any violation of applicable law in connection with such documentation shall not terminate the copyright or patent licenses granted under this License. However, nothing in this Section shall prevent any Contributor from taking any legal action available under applicable law against You for such violation.
 
 Nothing in this Section obligates You to create such documentation. Its name, format, location, and content are otherwise unrestricted by this License, provided that any content required by this License to appear in the Source Code, a NOTICE file, or other materials accompanying the Software, as set forth in Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File), continues to satisfy those requirements. The documentation must not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed any content that the Licensor has not, in fact, approved or endorsed.
 
