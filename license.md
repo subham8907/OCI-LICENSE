@@ -98,6 +98,10 @@ Subject to Your continued compliance with all terms and conditions of this Licen
 
 (c) any additional or different terms You attach may impose further restrictions or conditions on recipients.
 
+(d) Each Contributor hereby grants You the right to treat a recipient's violation of any additional or different term or condition You attach under this Section as an infringement of this License, enforceable by You to the same extent as any other breach of this License. Each Contributor further grants You authority to enforce this Section, with respect to that Contributor's own Contribution, on that Contributor's behalf. This grant does not obligate any Contributor to participate in, fund, or otherwise assist Your enforcement efforts, and does not transfer or assign any Contributor's underlying copyright or patent rights to You.
+
+(e) Regardless of the foregoing, and independently of any additional or different terms attached under this Section, each Contributor retains the right to enforce any breach of any condition of this License itself, separately and independently of the infringement treatment described in clause (d). For the avoidance of doubt, a Contributor who has not attached, agreed to, or otherwise become a party to any additional or different term or condition You attach under this Section may enforce only the terms and conditions of this License itself, and may not enforce any additional or different term or condition that You alone have attached under this Section. Nothing in this Section limits, suspends, or displaces a Contributor's own right to pursue enforcement of this License with respect to that Contributor's Contribution.
+
 This Section does not expand the rights granted in Section 0 (License Grant) or Section 8 (Grant of Future License); it clarifies that You may layer additional terms of Your own atop Your exercise of those rights, so long as the conditions above are satisfied. Both You and each Contributor may rely on, and enforce, compliance with this Section as a term of this License.
 
 ## 5. Disclaimer
