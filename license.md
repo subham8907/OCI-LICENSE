@@ -20,6 +20,8 @@ For the purposes of this definition, "submitted" means any form of electronic, v
 **"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
 For the purposes of this License, Derivative Works do not include works that remain separable from, or merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
 
+**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License. For purposes of this definition, "Work" means the work of authorship, whether in Source Code or Object Form. For purposes of this definition, "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+
 **"Legal Entity"** means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to direct or cause the direction or management of such entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
 **"License"** means these Terms and Conditions.
@@ -92,9 +94,9 @@ You may add Your own copyright statement to Your modifications and may provide a
 
 Subject to Your continued compliance with all terms and conditions of this License, You may convey the Software, in whole or in part, in Source Code or Object Form, together with additional or different terms and conditions of Your own choosing (“**Your Additional Terms**”). Your Additional Terms form a separate agreement between You and each recipient to whom You directly convey the Software.
 
-(a) **No effect on this License.** Your Additional Terms do not modify, waive, or override this License, and they do not grant any rights under the copyright or patent rights of the Licensor or any other Contributor. The permissions granted to recipients under Sections 0 and 8 come solely from this License, not from You.
+(a) **No effect on this License.** Your Additional Terms do not modify, waive, or override this License, and they do not grant any rights under the copyright or patent rights of the Licensor or any other Contributor. The permissions granted to recipients under Sections 0 and 8 come solely from this License, not from You. Notwithstanding the foregoing, Your Additional Terms may restrict, condition, or narrow the decompilation and recompilation right granted under Section 8, as expressly contemplated by that Section.
 
-(b) **Compliance with this License.** You must continue to comply with this License in its entirety with respect to the Software as conveyed, including the restrictions in Section 1 (Non‑Permitted Purposes) and Section 2 (Limitations), which remain in effect prior to the Conversion Date. Your Additional Terms must not purport to permit any act that this License forbids.
+(b) **Compliance with this License.** You must continue to comply with this License in its entirety with respect to the Software as conveyed, including the restrictions in Section 1 (Non‑Permitted Purposes) and Section 2 (Limitations), which remain in effect prior to the Conversion Date. Your Additional Terms must not purport to permit any act that this License forbids.
 
 (c) **Enforcement of Your Additional Terms.** Your Additional Terms are a contract between You and the recipient. If a recipient breaches Your Additional Terms, You may enforce those terms directly against that recipient under applicable contract law. Nothing in this License is intended to give You standing to sue for copyright or patent infringement based solely on a breach of Your Additional Terms, and no Contributor grants You any authority to enforce this License on that Contributor’s behalf for such a breach.
 
@@ -132,6 +134,14 @@ If a Contributor fails to provide the notice required by the preceding paragraph
 The Licensor irrevocably grants additional permissions with respect to the Software. Except as provided in Section 7 (which makes these additional permissions effective immediately for accepted Contributions), these additional permissions become effective on the Conversion Date.
 
 On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense and sell copies of the Software, and to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
+
+On and after the Conversion Date, the license granted under Section 0 is further expanded to include the right to decompile, disassemble, reverse-engineer, or otherwise convert Object Form of the Software into Source Code, and to recompile such Source Code back into Object Form, for any purpose within the scope of Section 0. This right also includes the right to convert, transform, or translate Object Form of the Software into a different Object Form, without an intervening conversion into Source Code, for any purpose within the scope of Section 0. This decompilation and recompilation right is granted subject to, and as part of, the right to sublicense and sell copies of the Software set forth above in this Section 8.
+
+This decompilation and recompilation right does not apply to Larger Software, except that, where each component of that Larger Software is governed by a license, and none of those licenses forbids decompilation or recompilation, You may exercise this right with respect to the Software as included within that Larger Software.
+
+This decompilation and recompilation right is subject to any Additional Terms imposed under Section 4A, which may restrict, condition, or narrow decompilation or recompilation of the Software as conveyed.
+
+Any Source Code or other Object Form resulting from such decompilation, recompilation, conversion, transformation, or translation constitutes Source Code or Object Form of the Software, as applicable, for all purposes of this License. Such resulting Source Code or Object Form enjoys all rights granted under this License and remains subject to all of its terms and conditions, to the same extent as any other Source Code or Object Form of the Software, including, without limitation, the retention of notices required under Section 9 (Retention of Legal Notices).
 
 These additional permissions are subject to the following condition:
 
