@@ -187,11 +187,13 @@ A NOTICE file created under this Section may be combined with, or kept separate 
 
 ### 9D. Accompanying Documentation
 
-You may create documentation, under any name or format You see fit, to distribute alongside the Software, Your modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, or other explanatory materials.
+You may create documentation, under any name or in any format You see fit, to distribute alongside the Software, Your Modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, explanatory materials, technical notes, FAQs, examples, tutorials, specifications, or any other information, including arbitrary, fictional, nonsensical, experimental, placeholder, or otherwise unrelated content.
 
-Nothing in this Section obligates You to create such documentation, and its name, format, location, and content are otherwise unrestricted by this License, provided that any content required by this License to appear in the Source Code, a NOTICE file, or other materials accompanying the Software, as set forth in Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File), continues to satisfy those requirements, and that the documentation does not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed content that the Licensor has not, in fact, approved or endorsed.
+Nothing in this Section obligates You to create such documentation. Its name, format, location, and content are otherwise unrestricted by this License, provided that any content required by this License to appear in the Source Code, a NOTICE file, or other materials accompanying the Software, as set forth in Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File), continues to satisfy those requirements. The documentation must not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed any content that the Licensor has not, in fact, approved or endorsed.
 
-You may also include, alongside the Software, documentation authored by another person or Legal Entity, whether or not that person or Legal Entity is a Contributor, provided that You do not misrepresent its authorship or origin, and provided that including it does not relieve You of any obligation otherwise imposed on You by this License with respect to the Software or Your own Contributions.
+For the avoidance of doubt, documentation may include arbitrary text, placeholder text, sample data, test content, fictional material, gibberish, jokes, commentary, personal notes, or any other information, whether or not it relates to the Software, provided that such content does not conflict with the requirements of this License.
+
+You may also include, alongside the Software, documentation authored by another person or Legal Entity, whether or not that person or Legal Entity is a Contributor. However, doing so does not relieve You of any obligation otherwise imposed by this License with respect to the Software or Your own Contributions.
 
 ## 10. Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
