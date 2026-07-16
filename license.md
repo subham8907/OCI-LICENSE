@@ -88,6 +88,18 @@ If You redistribute any copy, modification, or Derivative Work of the Software, 
 
 You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Software otherwise complies with the conditions stated in this License. For the avoidance of doubt, until the Conversion Date, no additional or different license terms and conditions permitted under this paragraph may waive, narrow, or override the restrictions in Section 1 (Non-Permitted Purposes) or Section 2 (Limitations) as they apply to the Software, and any purported term to that effect is void as to the Software prior to the Conversion Date. On and after the Conversion Date, this paragraph does not restrict such additional or different terms, consistent with Section 8 (Grant of Future License), under which Sections 1 and 2 cease to apply.
 
+## 4A. Conveyance Under Terms of Your Choice
+
+Subject to Your continued compliance with all terms and conditions of this License, You may convey the Software, in whole or in part, in Source Code or Object Form, together with additional or different terms and conditions of Your own choosing, provided that:
+
+(a) You continue to comply with this License in its entirety with respect to the Software as conveyed, including, without limitation, the restrictions in Section 1 (Non-Permitted Purposes) and Section 2 (Limitations), which remain in effect prior to the Conversion Date notwithstanding any additional or different terms You attach;
+
+(b) You reproduce, embed, include, combine, or redistribute this License document with the Software as conveyed, in accordance with Section 9B (License Document); and
+
+(c) any additional or different terms You attach may impose further restrictions or conditions on recipients.
+
+This Section does not expand the rights granted in Section 0 (License Grant) or Section 8 (Grant of Future License); it clarifies that You may layer additional terms of Your own atop Your exercise of those rights, so long as the conditions above are satisfied. Both You and each Contributor may rely on, and enforce, compliance with this Section as a term of this License.
+
 ## 5. Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
