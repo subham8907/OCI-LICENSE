@@ -171,6 +171,20 @@ You may reproduce, embed, include, combine, or redistribute this License documen
 
 Compliance with this Section does not restrict the distribution of additional licenses alongside this License, whether as separate documents or embedded within software, provided that each license remains separately identifiable and no ambiguity is created regarding which terms govern the Software.
 
+### 9C. Creation of NOTICE File
+
+You may create a NOTICE file, under any name You see fit, for the purpose of setting out copyright notices, trademark notices, patent notices, attribution notices, statements of file origin, or any other legal or informational content You consider appropriate, whether relating to the Software, Your modifications, or any other material You distribute together with the Software.
+
+Such a NOTICE file may also set out any other legal information You determine to be necessary or appropriate for compliance with applicable law, or arising under any other applicable copyright license, patent license, or other legal instrument, including, without limitation, any contract, export control notice, privacy notice, or third-party terms of use, whether pertaining to the Software, Your modifications, or any other material You distribute together with the Software.
+
+Nothing in this Section obligates You to create such a file, and the name, format, location, and content You choose for it are otherwise unrestricted by this License, provided that:
+
+(a) any content required by this License to appear in a NOTICE file (under any name) continues to satisfy the requirements of Section 9 (Retention of Legal Notices) and Section 9A (NOTICE File); and
+
+(b) the file does not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed content that the Licensor has not, in fact, approved or endorsed.
+
+A NOTICE file created under this Section may be combined with, or kept separate from, any other notice file You maintain, and may be updated, renamed, or reorganized by You at any time, consistent with this Section and Section 9A.
+
 ## 10. Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
 This License, and the licenses granted under Section 0 (License Grant) and Section 3 (Patents), run with the copyright and patent rights in the Work and each Contribution. This License is binding upon, and inures to the benefit of, the Licensor, each Contributor, and any successor, heir, assign, or other transferee of the Licensor's or a Contributor's rights in the Work or a Contribution, and no event described in this Section diminishes, suspends, or terminates any license already granted to You under this License.
@@ -279,5 +293,7 @@ Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format 
 Copyright © Contributor
 ```
 **Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. Meaning, You do not have to manually add this notice into the modified Source Code or file yourself — it applies by operation of this License.
+
+**Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but is not mandatory. Whether or not You add it manually, the notice form set forth in this Appendix applies to the relevant Contribution by operation of this License, as described above.
 
 This Appendix is for the convenience of applying a consistent default notice form and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11 above.
