@@ -42,7 +42,7 @@ For the purposes of this License, Derivative Works do not include works that rem
 
 ## 0. License Grant
 
-Subject to Your compliance with the terms and conditions of this License, including the Limitations, Patents, Redistribution, and Trademark provisions, the Licensor hereby grants You a worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license to use, copy, modify, run, merge, publish, distribute, create Derivative Works of, publicly perform, and publicly display the Software.
+Subject to Your compliance with the terms and conditions of this License, including the Limitations, Patents, Redistribution, and Trademark provisions, the Licensor hereby grants You a worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license to exercise all rights under the Licensor's copyright and other applicable intellectual property rights in the Software that are capable of being licensed and are granted by this License, including, without limitation, the rights to use, copy, modify, run, merge, publish, distribute, create Derivative Works of, publicly perform, and publicly display the Software.
 
 Any breach of any condition of this License constitutes copyright infringement for so long as, and to the extent that, the breach persists. Such a breach does not terminate the license granted in this Section 0. If You cure the breach and return to compliance with this License, Your subsequent exercise of the rights granted in this Section 0 shall not, by reason of the cured breach, constitute infringement; however, the period during which You were not in compliance shall continue to constitute infringement notwithstanding Your later compliance. This Section is without prejudice to, and does not limit, any other right or remedy available to the Licensor or a Contributor.
 
@@ -76,12 +76,11 @@ You must not remove, modify, disable, bypass, or otherwise circumvent any licens
 
 ## 3. Patents
 
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided in this Section) patent license to use, copy, modify, run, merge, publish, distribute, publicly perform, and publicly display the Software, and to make, have made, use, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by that Contributor that are necessarily infringed by that Contributor's Contribution alone or by the combination of that Contribution with the Software to which the Contribution was accepted and incorporated.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided in this Section) patent license to exercise all rights under the patent claims licensed by that Contributor and granted by this License, including, without limitation, the rights to use, copy, modify, run, merge, publish, distribute, publicly perform, and publicly display the Software, and to make, have made, use, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by that Contributor that are necessarily infringed by that Contributor's Contribution alone or by the combination of that Contribution with the Software to which the Contribution was accepted and incorporated.
 
-The patent license granted under this Section does not include the right to sell or offer for sale the Software. Those rights are granted separately under Section 8 (Grant of Future License) and, except as otherwise provided in this License, become effective on the Conversion Date.
+The patent license granted under this Section does not include the right to sell or offer for sale the Software, or to sublicense the patent rights granted under this Section. Those rights are granted separately under Section 8 (Grant of Future License) and, except as otherwise provided in this License, become effective on the Conversion Date.
 
 If You institute patent litigation against any person or entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or a Contribution incorporated into the Software infringes a patent, then any patent licenses granted to You under this License shall terminate as of the date such litigation is filed.
-
 ## 4. Redistribution
 
 These Terms and Conditions apply to all copies of the Software and all modifications and Derivative Works thereof.
