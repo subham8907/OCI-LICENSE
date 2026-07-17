@@ -129,27 +129,27 @@ Each Contributor who modifies the Software shall include a notice, either within
 If a Contributor fails to provide the notice required by the preceding paragraph, the Licensor may add or correct such notice on the Contributor's behalf, provided that the Licensor acts in good faith and has a reasonable basis for the information included. A Contributor shall not assert any claim against the Licensor solely because the Licensor added or corrected such notice in accordance with this Section. Such action by the Licensor shall not constitute a violation or breach of this License, shall not give rise to any claim for copyright or patent infringement, and shall not terminate, suspend, limit, or otherwise affect any copyright or patent license granted under this License.
 
 
-## 8. Grant of Future License
+### 8. Grant of Future License
 
 The Licensor irrevocably grants additional permissions with respect to the Software. Except as provided in Section 7 (which makes these additional permissions effective immediately for accepted Contributions), these additional permissions become effective on the Conversion Date.
 
 On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense and sell copies of the Software, and to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
 
-On and after the Conversion Date, the license granted under Section 0 is further expanded to include the right to decompile, disassemble, reverse-engineer, or otherwise convert Object Form of the Software into Source Code, and to recompile such Source Code back into Object Form, for any purpose within the scope of Section 0. This right also includes the right to convert, transform, or translate Object Form of the Software into a different Object Form, without an intervening conversion into Source Code, for any purpose within the scope of Section 0. This decompilation and recompilation right is granted subject to, and as part of, the right to sublicense and sell copies of the Software set forth above in this Section 8.
+On and after the Conversion Date, the license granted under Section 0 is further expanded to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form of the Software into Source Code, and to recompile such Source Code back into Object Form, for any purpose within the scope of Section 0. This right also includes the right to convert, transform, or translate Object Form of the Software into a different Object Form, without an intervening conversion into Source Code, for any purpose within the scope of Section 0. This decompilation and recompilation right is granted as part of, and subject to, the right to sublicense and sell copies of the Software granted under this Section 8.
 
-This decompilation and recompilation right does not apply to Larger Software, except that, where each component of that Larger Software is governed by a license, and none of those licenses forbids decompilation or recompilation, You may exercise this right with respect to the Software as included within that Larger Software.
+This decompilation and recompilation right does not apply to Larger Software, except that, where each component of that Larger Software is governed by a license and none of those licenses prohibits decompilation or recompilation, You may exercise this right with respect to the Software as included within that Larger Software.
 
-This decompilation and recompilation right is subject to any Additional Terms imposed under Section 4A, which may restrict, condition, or narrow decompilation or recompilation of the Software as conveyed.
+This decompilation and recompilation right is subject to any Additional Terms imposed under Section 4A, which may restrict, condition, or narrow the decompilation or recompilation of the Software as conveyed.
 
-Any Source Code or other Object Form resulting from such decompilation, recompilation, conversion, transformation, or translation constitutes Source Code or Object Form of the Software, as applicable, for all purposes of this License. Such resulting Source Code or Object Form enjoys all rights granted under this License and remains subject to all of its terms and conditions, to the same extent as any other Source Code or Object Form of the Software, including, without limitation, the retention of notices required under Section 9 (Retention of Legal Notices).
+Any Source Code or other Object Form resulting from such decompilation, recompilation, conversion, transformation, or translation constitutes Source Code or Object Form of the Software, as applicable, for all purposes of this License. Such resulting Source Code or Object Form enjoys all rights granted under this License and remains subject to all of its terms and conditions to the same extent as any other Source Code or Object Form of the Software, including, without limitation, the retention of notices required under Section 9 (Retention of Legal Notices).
 
 These additional permissions are subject to the following condition:
 
-You must continue to comply with all terms and conditions of this License, except that Sections 1 (Non-Permitted Purposes) and 2 (Limitations) shall no longer apply on or after the Conversion Date.
+> **You must continue to comply with all terms and conditions of this License, except that Sections 1 (Non-Permitted Purposes) and 2 (Limitations) shall no longer apply on or after the Conversion Date.**
 
 For the avoidance of doubt, all other provisions of this License, including, without limitation, Sections 3 (Patents), 4 (Redistribution), 5 (Disclaimer), 6 (Trademarks), 7 (Submission of Contributions), and any other applicable provisions, shall remain in full force and effect after the Conversion Date.
 
-On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell and offer for sale the Software, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
+On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell and offer for sale the Software, to sublicense the patent rights granted under Section 3, and to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
 
 ## 9. Retention of Legal Notices
 
