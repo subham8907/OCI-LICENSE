@@ -56,6 +56,7 @@ A **"Non-Permitted Purpose"** includes:
 
 You may not Sell the Software. For the purposes of this Section, **"Sell"** means exercising any or all of the rights granted under this License to provide, for a fee or other consideration (including, without limitation, fees for hosting, support, consulting, or managed services related to the Software), a product or service whose value derives entirely or substantially from the functionality of the Software.
 
+
 **(b) Competing Products or Services**
 
 You may not use the Software to develop, market, provide, or support any commercial product or service that:
@@ -65,6 +66,9 @@ You may not use the Software to develop, market, provide, or support any commerc
 &nbsp;&nbsp;(ii) substitutes for any other product or service that the Licensor offers using the Software and that exists on the date the Licensor makes the Software available under this License; or
 
 &nbsp;&nbsp;(iii) offers the same or substantially similar functionality as the Software.
+
+**(c) Restriction on lease 
+you shall not lease this Software 
 
 ## 2. Limitations
 
@@ -78,7 +82,7 @@ You must not remove, modify, disable, bypass, or otherwise circumvent any licens
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided in this Section) patent license to exercise all rights under the patent claims licensed by that Contributor and granted by this License, including, without limitation, the rights to use, copy, modify, run, merge, publish, distribute, publicly perform, and publicly display the Software, and to make, have made, use, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by that Contributor that are necessarily infringed by that Contributor's Contribution alone or by the combination of that Contribution with the Software to which the Contribution was accepted and incorporated.
 
-The patent license granted under this Section does not include the right to sell or offer for sale the Software, or to sublicense the patent rights granted under this Section. Those rights are granted separately under Section 8 (Grant of Future License) and, except as otherwise provided in this License, become effective on the Conversion Date.
+The patent license granted under this Section does not include the right to sell or offer for sale the Software, or to sublicense or lease the patent rights granted under this Section. Those rights are granted separately under Section 8 (Grant of Future License) and, except as otherwise provided in this License, become effective on the Conversion Date.
 
 If You institute patent litigation against any person or entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or a Contribution incorporated into the Software infringes a patent, then any patent licenses granted to You under this License shall terminate as of the date such litigation is filed.
 ## 4. Redistribution
@@ -132,7 +136,7 @@ If a Contributor fails to provide the notice required by the preceding paragraph
 
 The Licensor irrevocably grants additional permissions with respect to the Software. Except as provided in Section 7 (which makes these additional permissions effective immediately for accepted Contributions), these additional permissions become effective on the Conversion Date.
 
-On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense and sell copies of the Software, and to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
+On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense, right to lease and sell copies of the Software, and to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
 
 On and after the Conversion Date, the license granted under Section 0 is further expanded to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form of the Software into Source Code, and to recompile such Source Code back into Object Form, for any purpose within the scope of Section 0. This right also includes the right to convert, transform, or translate Object Form of the Software into a different Object Form, without an intervening conversion into Source Code, for any purpose within the scope of Section 0. This decompilation and recompilation right is granted as part of, and subject to, the right to sublicense and sell copies of the Software granted under this Section 8.
 
@@ -148,7 +152,7 @@ These additional permissions are subject to the following condition:
 
 For the avoidance of doubt, all other provisions of this License, including, without limitation, Sections 3 (Patents), 4 (Redistribution), 5 (Disclaimer), 6 (Trademarks), 7 (Submission of Contributions), and any other applicable provisions, shall remain in full force and effect after the Conversion Date.
 
-On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell and offer for sale the Software, to sublicense the patent rights granted under Section 3, and to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
+On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell, right to lease and offer for sale the Software, to sublicense the patent rights granted under Section 3, and to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
 
 ## 9. Retention of Legal Notices
 
