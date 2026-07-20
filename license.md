@@ -22,7 +22,7 @@ For purposes of this definition, "submitted" means any form of electronic, verba
 
 For purposes of this License, Derivative Works do not include works that remain separable from, or that merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
 
-**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License. For purposes of this definition, "Work" means the work of authorship, subject to copyright or patent protection, whether in Source Code or Object Form. For purposes of this definition, "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License. For purposes of this definition, "Work" means the work of authorship, subject to copyright protection, patent protection, or both, whether in Source Code or Object Form. For purposes of this definition, "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
 
 **"Lease"** means to grant any person or Legal Entity temporary possession or use of the Software, in Source Code or Object Form, for a fee or other consideration, without transferring ownership of the copy so provided, regardless of the label given to the transaction, including, without limitation, arrangements styled as rentals, subscriptions, or time-limited licenses granted to a third party for consideration. Lease does not include Your own internal use of the Software, including use by Your employees or contractors acting on Your behalf, and does not include making the Software available as part of a product or service governed by Section 1(a) (Selling the Software), which is addressed separately by that Section.
 
@@ -76,7 +76,9 @@ You may not Lease the Software, as "Lease" is defined above.
 
 Except as expressly permitted under this License, You may create Derivative Works of the Software, but any such Derivative Work must be licensed under this License and must follow the same Conversion Date specified in Appendix B. You may not create software that is based on the Software, including software that links with the Software — whether dynamically or statically — except as permitted under this License.
 
-For purposes of this Section, "Work" means the work of authorship, subject to patent and copyright protection, whether in Source Code or Object Form. "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+For purposes of this Section, "Work" means the work of authorship, subject to patent protection, copyright protection, or both, whether in Source Code or Object Form. "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+
+This restriction shall expire as prescribed in Section 8 (Grant of Future License); that is, it shall cease to apply on and after the Conversion Date.
 
 ## 2. Limitations
 
@@ -157,7 +159,7 @@ These additional permissions are subject to the following condition:
 
 > **You must continue to comply with all terms and conditions of this License, except that Sections 1 (Non-Permitted Purposes) and 2 (Limitations) shall no longer apply on or after the Conversion Date.**
 
-For the avoidance of doubt, all other provisions of this License, including, without limitation, Sections 3 (Patents), 4 (Redistribution), 5 (Disclaimer), 6 (Trademarks), 7 (Submission of Contributions), and any other applicable provisions, shall remain in full force and effect after the Conversion Date.
+For the avoidance of doubt, all other provisions of this License, including, without limitation, Sections 3 (Patents), 4 (Redistribution), 5 (Disclaimer), 6 (Trademarks), 7 (Submission of Contributions), 9 (Retention of Legal Notices), 9A (NOTICE File), 9B (License Document), 9C (Creation of NOTICE File), 9D (Accompanying Documentation), 10 (Binding Effect; Survival of License Upon Transfer, Death, or Dissolution), 11 (Moral Rights), and any other applicable provisions, shall remain in full force and effect after the Conversion Date.
 
 On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell, the right to lease and offer for sale the Software, the right to sublicense the patent rights granted under Section 3, and the right to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
 
