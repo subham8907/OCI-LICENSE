@@ -6,25 +6,27 @@
 
 Copyright © ${year} ${licensor name}
 
-*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE, that is, if they have already been replaced with an actual year and name, that means this License has already been applied to the Software, and the completed information controls.*
+*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE — that is, if they have already been replaced with an actual year and name — that means this License has already been applied to the Software, and the completed information controls.*
 
 ## DEFINITIONS
 
 **"Contribution"** means any work of authorship, including the original version of the Software and any modifications, additions, or other changes to the Software, that is intentionally submitted to the Licensor for inclusion in the Software by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.
-For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including, without limitation, communications on electronic mailing lists, source code repositories, source code control systems, issue tracking systems, code review systems, or other communication channels managed by, or on behalf of, the Licensor for the purpose of discussing or improving the Software, but excluding any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
+For purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including, without limitation, communications on electronic mailing lists, source code repositories, source code control systems, issue tracking systems, code review systems, or other communication channels managed by, or on behalf of, the Licensor for the purpose of discussing or improving the Software, but excluding any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
 **"Contributor"** means the Licensor and any individual or Legal Entity whose Contribution has been accepted by the Licensor and incorporated into the Software.
 
 **"Conversion Date"** means the date and time set forth in Appendix B, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
 
 **"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
-For the purposes of this License, Derivative Works do not include works that remain separable from, or merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
 
-**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License. For purposes of this definition, "Work" means the work of authorship, whether in Source Code or Object Form. For purposes of this definition, "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+For purposes of this License, Derivative Works do not include works that remain separable from, or that merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
+
+**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License. For purposes of this definition, "Work" means the work of authorship, subject to copyright or patent protection, whether in Source Code or Object Form. For purposes of this definition, "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
 
 **"Lease"** means to grant any person or Legal Entity temporary possession or use of the Software, in Source Code or Object Form, for a fee or other consideration, without transferring ownership of the copy so provided, regardless of the label given to the transaction, including, without limitation, arrangements styled as rentals, subscriptions, or time-limited licenses granted to a third party for consideration. Lease does not include Your own internal use of the Software, including use by Your employees or contractors acting on Your behalf, and does not include making the Software available as part of a product or service governed by Section 1(a) (Selling the Software), which is addressed separately by that Section.
 
-**"Legal Entity"** means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to direct or cause the direction or management of such entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+**"Legal Entity"** means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For purposes of this definition, "control" means (i) the power, direct or indirect, to direct or cause the direction or management of such entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
 **"License"** means these Terms and Conditions.
 
@@ -32,13 +34,13 @@ For the purposes of this License, Derivative Works do not include works that rem
 
 **"Object Form"** means any form of the Software resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
 
-**"Placeholder"** means a bracketed, symbol-delimited, or otherwise conspicuously marked field appearing in this License or its Appendices (including, without limitation, ${year}, ${licensor name}, ${YYYY-MM-DD}, [yyyy], and [name of copyright owner]) that is intended to be replaced with specific identifying, dated, or other factual information when this License is applied to the Software. A Placeholder does not itself state an operative term of this License; upon completion in accordance with Appendix A, the information supplied in place of a Placeholder becomes part of the notice or Appendix in which it appears for purposes of this License. If a Placeholder does not appear where this License otherwise indicates it should, that is, if it has already been replaced with actual information, that means this License has already been applied to the Software, and the completed information controls.
+**"Placeholder"** means a bracketed, symbol-delimited, or otherwise conspicuously marked field appearing in this License or its Appendices (including, without limitation, ${year}, ${licensor name}, ${YYYY-MM-DD}, [yyyy], and [name of copyright owner]) that is intended to be replaced with specific identifying, dated, or other factual information when this License is applied to the Software. A Placeholder does not itself state an operative term of this License; upon completion in accordance with Appendix A, the information supplied in place of a Placeholder becomes part of the notice or Appendix in which it appears for purposes of this License. If a Placeholder does not appear where this License otherwise indicates it should — that is, if it has already been replaced with actual information — that means this License has already been applied to the Software, and the completed information controls.
 
 **"Software"** means the Work and its associated documentation files that the Licensor makes available under these Terms and Conditions, as indicated by the Licensor's inclusion of these Terms and Conditions with that Work.
 
 **"Source Code"** means the form of the work that is governed by this License and that is preferred for making modifications.
 
-**"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix A below).
+**"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in Appendix A below).
 
 **"You"** (or **"Your"**) means an individual or Legal Entity exercising permissions granted by this License.
 
@@ -56,33 +58,36 @@ A **"Non-Permitted Purpose"** includes:
 
 **(a) Selling the Software**
 
-You may not Sell the Software. For the purposes of this Section, **"Sell"** means exercising any or all of the rights granted under this License to provide, for a fee or other consideration (including, without limitation, fees for hosting, support, consulting, or managed services related to the Software), a product or service whose value derives entirely or substantially from the functionality of the Software.
+You may not Sell the Software. For purposes of this Section, **"Sell"** means exercising any or all of the rights granted under this License to provide, for a fee or other consideration (including, without limitation, fees for hosting, support, consulting, or managed services related to the Software), a product or service whose value derives entirely or substantially from the functionality of the Software.
 
 **(b) Competing Products or Services**
 
 You may not use the Software to develop, market, provide, or support any commercial product or service that:
 
-&nbsp;&nbsp;(i) substitutes for the Software;
-
-&nbsp;&nbsp;(ii) substitutes for any other product or service that the Licensor offers using the Software and that exists on the date the Licensor makes the Software available under this License; or
-
-&nbsp;&nbsp;(iii) offers the same or substantially similar functionality as the Software.
+- (i) substitutes for the Software;
+- (ii) substitutes for any other product or service that the Licensor offers using the Software and that exists on the date the Licensor makes the Software available under this License; or
+- (iii) offers the same or substantially similar functionality as the Software.
 
 **(c) Leasing the Software**
 
 You may not Lease the Software, as "Lease" is defined above.
 
+**(d) Restriction on Derivative Works**
+
+Except as expressly permitted under this License, You may create Derivative Works of the Software, but any such Derivative Work must be licensed under this License and must follow the same Conversion Date specified in Appendix B. You may not create software that is based on the Software, including software that links with the Software — whether dynamically or statically — except as permitted under this License.
+
+For purposes of this Section, "Work" means the work of authorship, subject to patent and copyright protection, whether in Source Code or Object Form. "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
+
 ## 2. Limitations
 
-You must not remove, modify, disable, bypass, or otherwise circumvent any license key functionality in the Software, or modify any portion of the Software protected by a license key in order to:
+You must not remove, modify, disable, bypass, or otherwise circumvent any license key functionality in the Software, or modify any portion of the Software protected by a license key, in order to:
 
-&nbsp;&nbsp;(i) enable access to protected functionality without a valid license key; or
-
-&nbsp;&nbsp;(ii) remove or disable the protected functionality.
+- (i) enable access to protected functionality without a valid license key; or
+- (ii) remove or disable the protected functionality.
 
 ## 3. Patents
 
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided in this Section) patent license to exercise all rights under the patent claims licensed by that Contributor and granted by this License, including, without limitation, the rights to use, copy, modify, run, merge, publish, distribute, publicly perform, and publicly display the Software, and to make, have made, use, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by that Contributor that are necessarily infringed by that Contributor's Contribution alone or by the combination of that Contribution with the Software to which the Contribution was accepted and incorporated.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided in this Section) patent license to exercise all rights under the patent claims licensed by that Contributor and granted by this License, including, without limitation, the rights to use, copy, modify, run, merge, publish, distribute, publicly perform, and publicly display the Software, and to make, have made, use, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by that Contributor that are necessarily infringed by that Contributor's Contribution alone or by the combination of that Contribution with the Software into which the Contribution was accepted and incorporated.
 
 The patent license granted under this Section does not include the right to sell or offer for sale the Software, or to sublicense or lease the patent rights granted under this Section. Those rights are granted separately under Section 8 (Grant of Future License) and, except as otherwise provided in this License, become effective on the Conversion Date.
 
@@ -92,17 +97,17 @@ If You institute patent litigation against any person or entity (including a cro
 
 These Terms and Conditions apply to all copies of the Software and all modifications and Derivative Works thereof.
 
-If You redistribute any copy, modification, or Derivative Work of the Software, You must include a copy of, or a link to, these Terms and Conditions and must not remove or alter any copyright, license, or other proprietary notices included in or provided with the Software.
+If You redistribute any copy, modification, or Derivative Work of the Software, You must include a copy of, or a link to, these Terms and Conditions, and You must not remove or alter any copyright, license, or other proprietary notices included in or provided with the Software.
 
-You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Software otherwise complies with the conditions stated in this License. For the avoidance of doubt, until the Conversion Date, no additional or different license terms and conditions permitted under this paragraph may waive, narrow, or override the restrictions in Section 1 (Non-Permitted Purposes) or Section 2 (Limitations) as they apply to the Software, and any purported term to that effect is void as to the Software prior to the Conversion Date. On and after the Conversion Date, this paragraph does not restrict such additional or different terms, consistent with Section 8 (Grant of Future License), under which Sections 1 and 2 cease to apply.
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for the use, reproduction, or distribution of Your modifications, or of any such Derivative Works as a whole, provided that Your use, reproduction, and distribution of the Software otherwise complies with the conditions stated in this License. For the avoidance of doubt, until the Conversion Date, no additional or different license terms and conditions permitted under this paragraph may waive, narrow, or override the restrictions in Section 1 (Non-Permitted Purposes) or Section 2 (Limitations) as they apply to the Software, and any purported term to that effect is void as to the Software prior to the Conversion Date. On and after the Conversion Date, this paragraph does not restrict such additional or different terms, consistent with Section 8 (Grant of Future License), under which Sections 1 and 2 cease to apply.
 
 **4A. Additional Terms You May Impose**
 
-Subject to Your continued compliance with all terms and conditions of this License, You may convey the Software, in whole or in part, in Source Code or Object Form, together with additional or different terms and conditions of Your own choosing (“**Your Additional Terms**”). Your Additional Terms form a separate agreement between You and each recipient to whom You directly convey the Software.
+Subject to Your continued compliance with all terms and conditions of this License, You may convey the Software, in whole or in part, in Source Code or Object Form, together with additional or different terms and conditions of Your own choosing ("**Your Additional Terms**"). Your Additional Terms form a separate agreement between You and each recipient to whom You directly convey the Software.
 
 (a) **No effect on this License.** Your Additional Terms do not modify, waive, or override this License, and they do not grant any rights under the copyright or patent rights of the Licensor or any other Contributor. The permissions granted to recipients under Sections 0 and 8 come solely from this License, not from You. Notwithstanding the foregoing, Your Additional Terms may restrict, condition, or narrow the decompilation and recompilation right granted under Section 8, as expressly contemplated by that Section.
 
-(b) **Compliance with this License.** You must continue to comply with this License in its entirety with respect to the Software as conveyed, including the restrictions in Section 1 (Non‑Permitted Purposes) and Section 2 (Limitations), which remain in effect prior to the Conversion Date. Your Additional Terms must not purport to permit any act that this License forbids.
+(b) **Compliance with this License.** You must continue to comply with this License in its entirety with respect to the Software as conveyed, including the restrictions in Section 1 (Non-Permitted Purposes) and Section 2 (Limitations), which remain in effect prior to the Conversion Date. Your Additional Terms must not purport to permit any act that this License forbids.
 
 (c) **Enforcement of Your Additional Terms.** Your Additional Terms are a contract between You and the recipient. If a recipient breaches Your Additional Terms, You may enforce those terms directly against that recipient under applicable contract law. Nothing in this License is intended to give You standing to sue for copyright or patent infringement based solely on a breach of Your Additional Terms, and no Contributor grants You any authority to enforce this License on that Contributor's behalf for such a breach.
 
@@ -130,7 +135,7 @@ Notwithstanding the Conversion Date specified in Section 8, each Contributor irr
 
 Notwithstanding anything to the contrary in this License, with respect to any portion of the Software for which the Licensor owns the copyright or any patent rights, the Licensor shall not be subject to the Conversion Date, Section 1 (Non-Permitted Purposes), or Section 2 (Limitations). The additional permissions described in Section 8 (Grant of Future License) apply automatically and immediately to such portions without regard to the Conversion Date. Nothing in this License limits the Licensor's right to exercise, license, sublicense, assign, sell, or otherwise exploit its own copyrights or patent rights under this License, under any other license, or on any other terms and conditions that the Licensor may choose. For the avoidance of doubt, this paragraph applies only to the Licensor's own copyrights and patent rights and does not affect the rights of any other Contributor with respect to that Contributor's Contributions.
 
-Each Contributor who modifies the Software shall include a notice, either within the modified Source Code or in a NOTICE file (under any name), identifying the portions of the Software that the Contributor has modified. This notice is required only once for each specific modified material. If such a notice already exists for that specific material, no additional notice is required. This License shall be used for the distribution of the Contribution in any medium.
+Each Contributor who modifies the Software shall include a notice, either within the modified Source Code or in a NOTICE file (under any name), identifying the portions of the Software that the Contributor has modified. This notice is required only once for each specific modified material. If such a notice already exists for that specific material, no additional notice is required. This License shall govern the distribution of the Contribution in any medium.
 
 If a Contributor fails to provide the notice required by the preceding paragraph, the Licensor may add or correct such notice on the Contributor's behalf, provided that the Licensor acts in good faith and has a reasonable basis for the information included. A Contributor shall not assert any claim against the Licensor solely because the Licensor added or corrected such notice in accordance with this Section. Such action by the Licensor shall not constitute a violation or breach of this License, shall not give rise to any claim for copyright or patent infringement, and shall not terminate, suspend, limit, or otherwise affect any copyright or patent license granted under this License.
 
@@ -138,7 +143,7 @@ If a Contributor fails to provide the notice required by the preceding paragraph
 
 The Licensor irrevocably grants additional permissions with respect to the Software. Except as provided in Section 7 (which makes these additional permissions effective immediately for accepted Contributions), these additional permissions become effective on the Conversion Date.
 
-On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense, right to lease and sell copies of the Software, and to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
+On and after the Conversion Date, the license granted under Section 0 (License Grant) is expanded to additionally include the right to sublicense, the right to lease and sell copies of the Software, and the right to permit persons to whom the Software is furnished to do so, on the same terms and subject to the same scope as set forth in Section 0.
 
 On and after the Conversion Date, the license granted under Section 0 is further expanded to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form of the Software into Source Code, and to recompile such Source Code back into Object Form, for any purpose within the scope of Section 0. This right also includes the right to convert, transform, or translate Object Form of the Software into a different Object Form, without an intervening conversion into Source Code, for any purpose within the scope of Section 0. This decompilation and recompilation right is granted as part of, and subject to, the right to sublicense and sell copies of the Software granted under this Section 8.
 
@@ -154,7 +159,7 @@ These additional permissions are subject to the following condition:
 
 For the avoidance of doubt, all other provisions of this License, including, without limitation, Sections 3 (Patents), 4 (Redistribution), 5 (Disclaimer), 6 (Trademarks), 7 (Submission of Contributions), and any other applicable provisions, shall remain in full force and effect after the Conversion Date.
 
-On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell, right to lease and offer for sale the Software, to sublicense the patent rights granted under Section 3, and to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
+On and after the Conversion Date, each Contributor's patent license granted under Section 3 is expanded to additionally include the right to sell, the right to lease and offer for sale the Software, the right to sublicense the patent rights granted under Section 3, and the right to exercise the decompilation, disassembly, reverse engineering, recompilation, conversion, transformation, and translation rights granted under this Section 8, on the same terms and subject to the same scope of licensable patent claims as set forth in Section 3.
 
 ## 9. Retention of Legal Notices
 
@@ -170,7 +175,7 @@ Each Contributor who modifies the Software shall include a notice, either in the
 
 If the Work includes a NOTICE text file (under any name) as part of its distribution, any Derivative Works that You distribute must include a readable copy of the attribution notices contained in that NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: (a) within a NOTICE text file distributed as part of the Derivative Works; (b) within the Source Code or documentation, if provided with the Derivative Works; or (c) within a display or other interface generated by the Derivative Works, if and wherever such third-party notices are normally made available to recipients. The contents of the NOTICE file are for informational purposes only and do not modify this License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying this License.
 
-If You distribute the Software in Object Form and the Work includes a NOTICE file (under any name), You may reproduce the contents of the NOTICE file (under any name) within a user interface or other interface through which recipients can reasonably access it for their convenience. Such notices need not be displayed automatically, prominently, or upon startup. If reproducing the NOTICE through such an interface is not reasonably possible, You must instead reproduce its contents in the documentation and/or other materials provided with the distribution.
+If You distribute the Software in Object Form and the Work includes a NOTICE file (under any name), You may reproduce the contents of the NOTICE file within a user interface or other interface through which recipients can reasonably access it for their convenience. Such notices need not be displayed automatically, prominently, or upon startup. If reproducing the NOTICE through such an interface is not reasonably possible, You must instead reproduce its contents in the documentation and/or other materials provided with the distribution.
 
 ## 9A. NOTICE File
 
@@ -182,7 +187,7 @@ Notwithstanding any other provision of this License, You may rename any NOTICE f
 
 (c) any notices originating from different sources remain reasonably distinguishable where necessary to avoid confusion.
 
-For the purposes of this License, any file, software, interface, documentation, or other medium satisfying the requirements of this Section shall be deemed a NOTICE file, regardless of its name, format, or manner of presentation.
+For purposes of this License, any file, software, interface, documentation, or other medium satisfying the requirements of this Section shall be deemed a NOTICE file, regardless of its name, format, or manner of presentation.
 
 ## 9B. License Document
 
@@ -194,9 +199,11 @@ You may reproduce, embed, include, combine, or redistribute this License documen
 
 (b) the text of this License is reproduced verbatim, without alteration, deletion, or addition, except for the completion of placeholders expressly designated by this License for that purpose;
 
-(c) the copyright notice appearing at the beginning of this License, Appendix B, and all other provisions of this License retain their complete, letter-for-letter integrity; and
+(c) the copyright notice appearing at the beginning of this License, Appendix B, and all other provisions of this License retain their complete, letter-for-letter integrity;
 
-(d) the manner in which this License is reproduced does not falsely suggest that its terms have been modified or that the Licensor has approved any modified version of this License.
+(d) the manner in which this License is reproduced does not falsely suggest that its terms have been modified or that the Licensor has approved any modified version of this License; and
+
+(e) if You wish to license Your own Software under this License, You are not required to use this document itself as the template; instead, You may make a separate copy of this License and update Appendix B and the copyright notice above (name and year) accordingly, but You must not alter the original copy of this License that You received.
 
 Compliance with this Section does not restrict the distribution of additional licenses alongside this License, whether as separate documents or embedded within software, provided that each license remains separately identifiable and no ambiguity is created regarding which terms govern the Software.
 
@@ -210,17 +217,17 @@ Nothing in this Section obligates You to create such a file, and the name, forma
 
 (a) any content required by this License to appear in a NOTICE file (under any name) continues to satisfy the requirements of Section 9 (Retention of Legal Notices) and Section 9A (NOTICE File); and
 
-(b) the file does not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed content that the Licensor has not, in fact, approved or endorsed.
+(b) the file does not misrepresent the scope, terms, or origin of this License, or falsely suggest that the Licensor has approved or endorsed content that the Licensor has not, in fact, approved or endorsed.
 
 A NOTICE file created under this Section may be combined with, or kept separate from, any other notice file You maintain, and may be updated, renamed, or reorganized by You at any time, consistent with this Section and Section 9A.
 
 ## 9D. Accompanying Documentation
 
-You may create documentation, under any name and in any format You see fit, to distribute alongside the Software, Your Modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, explanatory materials, technical notes, FAQs, examples, tutorials, specifications, or any other information, including arbitrary, fictional, nonsensical, experimental, placeholder, or otherwise unrelated content, to the extent permitted by applicable law.
+You may create documentation, under any name and in any format You see fit, to distribute alongside the Software, Your Modifications, or any Derivative Works, including, without limitation, user guides, installation instructions, API references, release notes, explanatory materials, technical notes, FAQs, examples, tutorials, specifications, or any other information — including arbitrary, fictional, nonsensical, experimental, placeholder, or otherwise unrelated content — to the extent permitted by applicable law.
 
-Any violation of applicable law in connection with such documentation shall not terminate the copyright or patent licenses granted under this License. However, nothing in this Section shall prevent any Contributor from taking any legal action available under applicable law against You for such violation.
+Any violation of applicable law in connection with such documentation shall not terminate the copyright or patent licenses granted under this License. However, nothing in this Section shall prevent any Contributor from taking any legal action available under applicable law against You for such a violation.
 
-Nothing in this Section obligates You to create such documentation. Its name, format, location, and content are otherwise unrestricted by this License, provided that any content required by this License to appear in the Source Code, a NOTICE file, or other materials accompanying the Software, as set forth in Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File), continues to satisfy those requirements. The documentation must not misrepresent the scope, terms, or origin of this License or falsely suggest that the Licensor has approved or endorsed any content that the Licensor has not, in fact, approved or endorsed.
+Nothing in this Section obligates You to create such documentation. Its name, format, location, and content are otherwise unrestricted by this License, provided that any content required by this License to appear in the Source Code, a NOTICE file, or other materials accompanying the Software, as set forth in Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File), continues to satisfy those requirements. The documentation must not misrepresent the scope, terms, or origin of this License, or falsely suggest that the Licensor has approved or endorsed any content that the Licensor has not, in fact, approved or endorsed.
 
 For the avoidance of doubt, documentation may include arbitrary text, placeholder text, sample data, test content, fictional material, gibberish, jokes, commentary, personal notes, or any other information, whether or not it relates to the Software, provided that such content does not conflict with the requirements of this License.
 
@@ -252,7 +259,7 @@ Notwithstanding any transfer, assignment, death, merger, dissolution, liquidatio
 
 **(f) Retention of Trademark, Patent, and Other Attribution Notices Upon Succession**
 
-The provisions of subsection (e) above shall apply equally to any trademark notice, patent notice, and any other attribution or proprietary notice appearing in the NOTICE, in Appendix A, or in the Source Code of the Software, in addition to the copyright notice. Accordingly, a successor, heir, assign, transferee, acquirer, or other party succeeding to the Licensor's or a Contributor's rights under this Section may itself update, restate, or add to any such trademark, patent, or other attribution notice to reflect its own succession to those rights, consistent with Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File). However, no such successor, heir, assign, transferee, or acquirer may demand, require, or compel You or any other recipient of the Software to alter, remove, or restate any such trademark, patent, or other attribution notice, or any NOTICE file (under any name), whether by contract, condition of transfer, or otherwise. You are under no obligation to comply with any such demand, and declining to do so shall not constitute a breach of this License. Nothing in this subsection expands or narrows the trademark rights addressed in Section 6 (Trademarks) or the patent rights addressed in Section 3 (Patents) and Section 8 (Grant of Future License); it governs only the retention and updating of notices.
+The provisions of subsection (e) above apply equally to any trademark notice, patent notice, and any other attribution or proprietary notice appearing in the NOTICE, in Appendix A, or in the Source Code of the Software, in addition to the copyright notice. Accordingly, a successor, heir, assign, transferee, acquirer, or other party succeeding to the Licensor's or a Contributor's rights under this Section may itself update, restate, or add to any such trademark, patent, or other attribution notice to reflect its own succession to those rights, consistent with Section 9 (Retention of Legal Notices), Section 9A (NOTICE File), and Section 9C (Creation of NOTICE File). However, no such successor, heir, assign, transferee, or acquirer may demand, require, or compel You or any other recipient of the Software to alter, remove, or restate any such trademark, patent, or other attribution notice, or any NOTICE file (under any name), whether by contract, condition of transfer, or otherwise. You are under no obligation to comply with any such demand, and declining to do so shall not constitute a breach of this License. Nothing in this subsection expands or narrows the trademark rights addressed in Section 6 (Trademarks) or the patent rights addressed in Section 3 (Patents) and Section 8 (Grant of Future License); it governs only the retention and updating of notices.
 
 ## 11. Moral Rights
 
@@ -274,7 +281,7 @@ The waiver in subsection (a) and the non-assertion in subsection (b) are not con
 
 **(e) Successors**
 
-Each Contributor and the Licensor intends, to the extent permitted by applicable law, for the waiver and non-assertion in this Section to bind that Contributor's or the Licensor's successors, heirs, and assigns. Where applicable law does not permit a moral rights waiver or non-assertion to bind successors, heirs, or assigns, this Section does not purport to do so.
+Each Contributor and the Licensor intend, to the extent permitted by applicable law, for the waiver and non-assertion in this Section to bind that Contributor's or the Licensor's successors, heirs, and assigns. Where applicable law does not permit a moral rights waiver or non-assertion to bind successors, heirs, or assigns, this Section does not purport to do so.
 
 **(f) Contributions**
 
@@ -290,7 +297,7 @@ Submission of a Contribution under Section 7 constitutes the Contributor's agree
 
 Include a copy of this License, typically in a file named LICENSE, with Your Software.
 
-To apply this License to specific files in Your Software, attach the following notice, replacing the fields enclosed by brackets ("[]") with Your own identifying information. Do not include the brackets. Enclose the text in the appropriate comment syntax for the file format. You may also include the file or class name and a brief description of its purpose on the same page as the copyright notice to aid identification in third-party archives.
+To apply this License to specific files in Your Software, attach the following notice, replacing the fields enclosed by brackets ("[]") with Your own identifying information. Do not include the brackets. Enclose the text in the comment syntax appropriate for the file format. You may also include the file or class name and a brief description of its purpose on the same page as the copyright notice, to aid identification in third-party archives.
 
 ```
 Copyright © [yyyy] [name of copyright owner]
@@ -308,10 +315,12 @@ Unless required by applicable law or agreed to in writing, the Software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License
+limitations under the License.
+
 Conversion Date: ${YYYY-MM-DD}T00:00:00Z
 ```
-Replace ${YYYY-MM-DD} with the actual calendar date, in year-month-day format (for example, 2030-01-01), on which the Conversion Date defined in the DEFINITIONS section above is to take effect. The Conversion Date becomes effective at midnight Coordinated Universal Time (00:00:00Z) on that date.
+
+Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format (for example, 2030-01-01), on which the Conversion Date defined in the DEFINITIONS section above is to take effect. The Conversion Date becomes effective at midnight Coordinated Universal Time (00:00:00Z) on that date.
 
 Before publishing this License, replace the following placeholders:
 
@@ -343,8 +352,9 @@ Replace `${YYYY-MM-DD}` with the actual calendar date, in year-month-day format 
 ```
 Copyright © Contributor
 ```
-**Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. Meaning, You do not have to manually add this notice into the modified Source Code or file yourself; it applies by operation of this License.
 
-**Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but is not mandatory. Whether or not You add it manually, the notice form set forth in this Appendix applies to the relevant Contribution by operation of this License, as described above.
+**Automatic application.** This notice form applies automatically, whenever applicable, without any further action by the Licensor, the Contributor, or any other party. That is, You do not have to manually add this notice into the modified Source Code or file yourself; it applies by operation of this License.
 
-This Appendix is for the convenience of applying a consistent default notice form and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11 above.
+**Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but not mandatory. Whether or not You add it manually, the notice form set forth in this Appendix applies to the relevant Contribution by operation of this License, as described above.
+
+This Appendix is provided for the convenience of applying a consistent default notice form and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11 above.
