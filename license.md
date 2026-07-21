@@ -74,12 +74,11 @@ You may not Lease the Software, as "Lease" is defined above.
 
 **(d) Restriction on Derivative Works**
 
-Except as expressly permitted under this License, You may create Derivative Works of the Software only if such Derivative Works are licensed under this License and remain subject to the same Conversion Date specified in Appendix B. You may not create, distribute, or license software under different terms and conditions that is based on the Software, including software that links to the Software, whether dynamically or statically, except where this License expressly permits such activity.
+Notwithstanding anything to the contrary in this License, except as expressly permitted under this License, You may create Derivative Works of the Software only if such Derivative Works are licensed under this License and remain subject to the same Conversion Date specified in Appendix B. You may not create, distribute, or license software under different terms and conditions that is based on the Software, including software that links to the Software, whether dynamically or statically, except where this License expressly permits such activity.
 
+For purposes of this Section, "Work" means a work of authorship that is subject to copyright protection, patent protection, or both, whether in Source Code or Object Form. "Source Code" means the form of the Work preferred for making modifications. "Object Form" means any form resulting from the mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions into other media types.
 
-For purposes of this Section, "Work" means the work of authorship, subject to patent protection, copyright protection, or both, whether in Source Code or Object Form. "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
-
-This restriction shall expire as prescribed in Section 8 (Grant of Future License); that is, it shall cease to apply on and after the Conversion Date.
+This restriction shall expire as provided in Section 8 (Grant of Future License); that is, it shall cease to apply on and after the Conversion Date.
 
 ## 2. Limitations
 
