@@ -74,7 +74,8 @@ You may not Lease the Software, as "Lease" is defined above.
 
 **(d) Restriction on Derivative Works**
 
-Except as expressly permitted under this License, You may create Derivative Works of the Software, but any such Derivative Work must be licensed under this License and must follow the same Conversion Date specified in Appendix B. You may not create software that is based on the Software, including software that links with the Software — whether dynamically or statically — except as permitted under this License.
+Except as expressly permitted under this License, You may create Derivative Works of the Software only if such Derivative Works are licensed under this License and remain subject to the same Conversion Date specified in Appendix B. You may not create, distribute, or license software under different terms and conditions that is based on the Software, including software that links to the Software, whether dynamically or statically, except where this License expressly permits such activity.
+
 
 For purposes of this Section, "Work" means the work of authorship, subject to patent protection, copyright protection, or both, whether in Source Code or Object Form. "Source Code" means the form of the work that is preferred for making modifications, and "Object Form" means any form resulting from mechanical transformation or translation of Source Code, including, without limitation, compiled object code, generated documentation, and conversions to other media types.
 
