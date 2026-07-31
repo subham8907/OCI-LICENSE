@@ -250,7 +250,7 @@ Licensor shall be licensed under this License, without additional terms. Unless
 a Contributor has separately requested to be identified by name, the default
 notice in Appendix C automatically applies to that Contribution.
 
-Each Contributor irrevocably receives the additional permissions in Section 8
+Each Contributor irrevocably grants the additional permissions in Section 8
 with respect to that Contributor's accepted Contribution immediately upon
 acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted
 Contribution.
