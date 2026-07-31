@@ -116,7 +116,7 @@ This License does not grant any rights in the trademarks, service marks, or logo
 
 Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution.
 
-Each Contributor irrevocably receives the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.
+Each Contributor irrevocably grants the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.
 
 With respect to any portion of the Software for which the Licensor owns the copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, or Section 2; Section 8's permissions apply automatically to such portions. Nothing here limits the Licensor's right to otherwise exploit its own copyrights or patents on any terms it chooses.
 
