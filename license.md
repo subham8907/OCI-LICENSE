@@ -124,7 +124,7 @@ Each Contributor irrevocably grants the additional permissions in Section 8 with
 
 With respect to any portion of the Software for which the Licensor owns the copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, or Section 2; Section 8's permissions apply automatically to such portions. Nothing here limits the Licensor's right to otherwise exploit its own copyrights or patents on any terms it chooses.
 
-Each Contributor who modifies the Software must include a notice (in the Source Code or a NOTICE file) identifying the modified portions, required only once per specific material.
+Each Contributor who modifies the Software must include a notice (in the Source Code or a NOTICE file) identifying the modified portions, together with the Contributor's name and the date of the modification, required only once per specific material. For this purpose, the Contributor's name may be a legal entity name, the Contributor's own personal legal name, or a pseudonym, subject to the default and requested-attribution provisions of Section 9.
 
 If a Contributor fails to provide this notice, the Licensor may add or correct it in good faith on a reasonable basis, without that action constituting a breach of this License or affecting any license granted under it.
 
@@ -160,7 +160,7 @@ Unless a Contributor has separately requested to be identified by name, any copy
 
 If You distribute the Software, You must include a copy of, or link to, this License with each copy.
 
-Each Contributor who modifies the Software must include a notice identifying the specific material modified, required only once per material.
+Each Contributor who modifies the Software must include a notice identifying the specific material modified, together with the Contributor's name and the date of the modification, required only once per material. For this purpose, the Contributor's name may be a legal entity name, the Contributor's own personal legal name, or a pseudonym, subject to the default and requested-attribution provisions above.
 
 If the Work includes a NOTICE file, any Derivative Works You distribute must include a readable copy of its attribution notices (excluding those not pertaining to the Derivative Works) within a NOTICE file, within the Source Code or documentation, or within a display or interface where such notices are normally made available. The NOTICE file's contents are informational only and do not modify this License. You may add Your own attribution notices alongside the NOTICE text, provided they are not construed as modifying this License.
 
