@@ -10,11 +10,11 @@ Copyright © ${year} ${licensor name}
 
 ## DEFINITIONS
 
-**"Contribution"** means any work of authorship, including the original version of the Software and any modifications, additions, or other changes to the Software, that is intentionally submitted to the Licensor for inclusion in the Software by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.
+**"Contribution"** means any original work of authorship, including any original work that forms all or part of the Software, and any modification, addition, enhancement, correction, documentation, or other change to the Software, that is intentionally submitted to the Licensor for inclusion in the Software or is intentionally created, provided, or incorporated by the Licensor for inclusion in the Software. For the avoidance of doubt, an original work incorporated into the Software is a Contribution and is not excluded merely because it was created by the Licensor or was not submitted through an external contribution process.
 
-For purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including, without limitation, communications on electronic mailing lists, source code repositories, source code control systems, issue tracking systems, code review systems, or other communication channels managed by, or on behalf of, the Licensor for the purpose of discussing or improving the Software, but excluding any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+For purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives for the purpose of proposing, discussing, contributing to, or improving the Software, including, without limitation, communications through electronic mailing lists, source code repositories, source code control systems, issue-tracking systems, code-review systems, or other communication channels managed by, or on behalf of, the Licensor. However, "submitted" does not include any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
-**"Contributor"** means the Licensor and any individual or Legal Entity whose Contribution has been accepted by the Licensor and incorporated into the Software.
+**"Contributor"** means any individual or Legal Entity, including the Licensor, that creates, authors, owns, or is authorized to submit a Contribution, and whose Contribution is accepted and incorporated into the Software. For the avoidance of doubt, a Contributor includes the Licensor or any other individual or Legal Entity whose original work, modification, addition, or other change is incorporated into the Software.
 
 **"Conversion Date"** means the date and time set forth in Appendix B, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
 
@@ -122,9 +122,9 @@ This License does not grant any rights in the trademarks, service marks, or logo
 
 Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution. This default designation governs the form of public attribution only; consistent with Appendix C, every Contributor must still be identifiable, whether by legal entity name, personal legal name, or pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License.
 
-Each Contributor irrevocably grants the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.
+**Each Contributor (other than the Licensor with respect to that Contributor’s own original work that constitutes all or part of the Software as initially made available by the Licensor) irrevocably grants the additional permissions in Section 8 with respect to that Contributor’s accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.** For the avoidance of doubt, the Licensor’s own original work that forms part of the Software when first released does not trigger this immediate grant, and that work remains subject to Sections 1 and 2 until the Conversion Date (except that the Licensor itself is never restricted by those sections, as set out below).
 
-With respect to any portion of the Software for which the Licensor owns the copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, or Section 2; Section 8's permissions apply automatically to such portions. Nothing here limits the Licensor's right to otherwise exploit its own copyrights or patents on any terms it chooses.
+**With respect to any portion of the Software for which the Licensor owns the copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, or Section 2; the Licensor may exercise all rights under Section 8 with respect to those portions at any time. This does not grant You any additional permissions beyond those in Section 0 until the Conversion Date or as otherwise provided for accepted Contributions from other Contributors.** Nothing here limits the Licensor's right to otherwise exploit its own copyrights or patents on any terms it chooses.
 
 Each Contributor who modifies the Software must include a notice (in the Source Code or a NOTICE file) identifying the modified portions, together with the Contributor's name and the date of the modification, required only once per specific material. For this purpose, the Contributor's name may be a legal entity name, the Contributor's own personal legal name, or a pseudonym, subject to the default and requested-attribution provisions of Section 9.
 
@@ -229,6 +229,7 @@ Include a copy of this License, typically in a file named LICENSE, with Your Sof
 To apply this License to specific files, attach the following notice, replacing the bracketed fields with Your own information (omit the brackets). Enclose the text in comment syntax appropriate to the file format. You may also include the file or class name and a brief description on the same page, to aid identification in third-party archives.
 
 ```
+
 Copyright © [yyyy] [name of copyright owner]
 
 The Conversion Date is as specified in Appendix B of the LICENSE file
@@ -247,6 +248,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 Conversion Date: ${YYYY-MM-DD}T00:00:00Z
+
 ```
 
 Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., 2030-01-01) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
@@ -276,7 +278,9 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., 203
 ## APPENDIX C: Default Copyright Notice for Contributions
 
 ```
+
 Copyright © Contributor
+
 ```
 
 **Automatic application.** This notice form applies automatically, without further action by the Licensor, the Contributor, or any other party.
@@ -284,3 +288,5 @@ Copyright © Contributor
 **Underlying attribution still required.** The generic designation "Contributor" in this default notice governs only the form of the notice as displayed; it does not excuse a Contributor from providing an identifiable name for legal purposes. Every Contributor must still supply, and remain identifiable by, a legal entity name, a personal legal name, or a pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License, whether or not that name is displayed in the notice itself.
 
 **Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but not mandatory. This Appendix is provided for convenience and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11.
+```
+
