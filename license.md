@@ -88,6 +88,8 @@ These Terms and Conditions apply to all copies of the Software and all modificat
 
 If You redistribute any copy, modification, or Derivative Work, You must include a copy of, or link to, this License, and must not remove or alter any copyright, license, or proprietary notices.
 
+If You modify the Software, You must include a notice (in the Source Code or a NOTICE file, which may be under any name as provided in Section 9A) identifying the modified portions, together with Your name and the date of the modification, required only once per specific material. For this purpose, Your name may be a legal entity name, Your own personal legal name, or a pseudonym.
+
 You may add Your own copyright statement and may provide additional or different license terms for Your modifications or Derivative Works, provided Your use otherwise complies with this License. Until the Conversion Date, no additional or different terms may waive, narrow, or override the restrictions in Section 1 or Section 2 as they apply to the Software; any purported term to that effect is void prior to the Conversion Date. On and after the Conversion Date, this paragraph does not restrict such additional terms, consistent with Section 8, under which Sections 1 and 2 cease to apply.
 
 **4A. Additional Terms You May Impose**
@@ -118,7 +120,7 @@ This License does not grant any rights in the trademarks, service marks, or logo
 
 ## 7. Submission of Contributions
 
-Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution.
+Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution. This default designation governs the form of public attribution only; consistent with Appendix C, every Contributor must still be identifiable, whether by legal entity name, personal legal name, or pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License.
 
 Each Contributor irrevocably grants the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.
 
@@ -278,5 +280,7 @@ Copyright © Contributor
 ```
 
 **Automatic application.** This notice form applies automatically, without further action by the Licensor, the Contributor, or any other party.
+
+**Underlying attribution still required.** The generic designation "Contributor" in this default notice governs only the form of the notice as displayed; it does not excuse a Contributor from providing an identifiable name for legal purposes. Every Contributor must still supply, and remain identifiable by, a legal entity name, a personal legal name, or a pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License, whether or not that name is displayed in the notice itself.
 
 **Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but not mandatory. This Appendix is provided for convenience and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11.
