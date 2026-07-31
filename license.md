@@ -40,6 +40,10 @@ For purposes of this License, Derivative Works do not include works that remain 
 
 **"Source Code"** means the form of the work that is governed by this License and that is preferred for making modifications.
 
+**"Technological Protection Measure"** (or **"TPM"**) means any effective technology, device, or component that, in the ordinary course of its operation, controls access to, or restricts the use of, the Software or any Third-Party Content, including license keys, activation mechanisms, encryption, digital rights management, and other access-control or copy-control measures, regardless of the form in which they are implemented.
+
+**"Third-Party Content"** means any software, data, or other material distributed with the Software that is owned by, or licensed from, a party other than the Licensor.
+
 **"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License.
 
 **"You"** (or **"Your"**) means an individual or Legal Entity exercising permissions granted by this License.
@@ -68,7 +72,7 @@ This restriction expires on and after the Conversion Date, as provided in Sectio
 
 ## 2. Limitations
 
-You must not remove, modify, disable, bypass, or otherwise circumvent any license key functionality in the Software, or modify any portion protected by a license key, in order to (i) enable access to protected functionality without a valid license key, or (ii) remove or disable the protected functionality.
+You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content distributed with the Software, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
 
 ## 3. Patents
 
