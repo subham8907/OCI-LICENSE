@@ -128,7 +128,7 @@ The Licensor irrevocably grants additional permissions with respect to the Softw
 
 On and after the Conversion Date, the license under Section 0 expands to include the right to sublicense, lease, and sell copies of the Software, and to permit others to do so.
 
-On and after the Conversion Date, the license under Section 0 further expands to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form into Source Code, and recompile it back into Object Form, or convert Object Form into a different Object Form, for any purpose within Section 0's scope. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
+On and after the Conversion Date, the license under Section 0 and Section 3 further expands to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form into Source Code, and recompile it back into Object Form, or convert Object Form into a different Object Form, for any purpose within Section 0's scope. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
 
 This decompilation right does not apply to Larger Software, except where every component of that Larger Software is under a license that does not prohibit decompilation.
 
@@ -138,7 +138,7 @@ Any Source Code or Object Form resulting from such decompilation, recompilation,
 
 These additional permissions are subject to the condition that **You must continue to comply with all terms of this License, except that Sections 1 and 2 no longer apply on or after the Conversion Date.** All other provisions — including Sections 3, 4, 5, 6, 7, 9, 9A, 9B, 9C, 9D, 10, and 11 — remain in full force after the Conversion Date.
 
-On and after the Conversion Date, each Contributor's patent license under Section 3 expands to include the right to sell, lease, offer for sale, and sublicense the patent rights, and to exercise the decompilation and related rights granted under this Section 8, on the same terms and scope as Section 3.
+On and after the Conversion Date, the patent license granted by each Contributor under Section 3 expands to include the rights to sell, lease, offer for sale, and sublicense the patent rights, together with all related rights granted under this Section 8, on the same terms and within the same scope as the patent license granted under Section 3.
 
 ## 9. Retention of Legal Notices
 
