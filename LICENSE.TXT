@@ -328,6 +328,15 @@ apply on or after the Conversion Date. All other provisions, including Sections
 3, 4, 5, 6, 7, 9, 9A, 9B, 9C, 9D, 10, and 11, remain in full force after the
 Conversion Date.
 
+Clarification Regarding Third-Party Content TPMs. Although Section 2 no longer
+applies on and after the Conversion Date, any Technological Protection Measure
+that continues to protect Third-Party Content remains in place, and this
+License does not authorize bypassing it. Bypassing such a Technological
+Protection Measure does not, by itself, constitute a breach of this License on
+or after the Conversion Date, but may still result in liability under
+applicable law, including anti-circumvention statutes, or under separate terms
+governing that Third-Party Content, independent of this License.
+
 On and after the Conversion Date, the patent license granted by each Contributor
 under Section 3 expands to include the rights to sell, lease, offer for sale,
 and sublicense the patent rights, together with all related rights granted under
