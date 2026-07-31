@@ -144,6 +144,8 @@ These additional permissions are subject to the condition that **You must contin
 
 On and after the Conversion Date, the patent license granted by each Contributor under Section 3 expands to include the rights to sell, lease, offer for sale, and sublicense the patent rights, together with all related rights granted under this Section 8, on the same terms and within the same scope as the patent license granted under Section 3.
 
+**Automatic Termination and Cure.** Notwithstanding Section 0's provision that a breach does not terminate the license granted therein, on and after the Conversion Date, any breach of any term of this License automatically terminates the rights and permissions granted under Section 0, Section 3, and this Section 8, and the period during which such breach persists constitutes copyright infringement, consistent with Section 0. If You cure the breach and return to full compliance with this License within thirty (30) days after the breach begins, the terminated rights and permissions are automatically reinstated, and the period of breach shall be deemed to have been in compliance with, and licensed under, this License. This automatic termination and cure mechanism applies only on and after the Conversion Date and does not alter the operation of Section 0 prior to the Conversion Date.
+
 ## 9. Retention of Legal Notices
 
 You must retain, in the Source Code You distribute, all copyright, patent, trademark, and attribution notices, excluding those not pertaining to any part of the Derivative Works.
