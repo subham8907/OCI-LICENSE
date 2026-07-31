@@ -6,7 +6,7 @@
 
 Copyright © ${year} ${licensor name}
 
-*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE — that is, if they have already been replaced with an actual year and name — that means this License has already been applied to the Software, and the completed information controls.*
+*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE (that is, if they have already been replaced with an actual year and name), that means this License has already been applied to the Software, and the completed information controls.*
 
 ## DEFINITIONS
 
@@ -64,13 +64,15 @@ You may not use the Software for any Non-Permitted Purpose.
 
 This restriction expires on and after the Conversion Date, as provided in Section 8 (Grant of Future License).
 
+**(e) Larger Software.** Combining or distributing the Software with other software, works, or materials that are not governed by this License, so as to form Larger Software, does not cause such other software, works, or materials to become subject to this License, provided that the Software component itself remains fully subject to this License, including this Section 1 and Section 2 prior to the Conversion Date.
+
 ## 2. Limitations
 
 You must not remove, modify, disable, bypass, or otherwise circumvent any license key functionality in the Software, or modify any portion protected by a license key, in order to (i) enable access to protected functionality without a valid license key, or (ii) remove or disable the protected functionality.
 
 ## 3. Patents
 
-Each Contributor grants You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided below) patent license to exercise all rights under the patent claims licensed by that Contributor, including to use, copy, modify, run, merge, publish, distribute, publicly perform and display, make, have made, use, import, and otherwise transfer the Software — limited to patent claims necessarily infringed by that Contributor's Contribution alone or combined with the Software into which it was incorporated.
+Each Contributor grants You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided below) patent license to exercise all rights under the patent claims licensed by that Contributor, including to use, copy, modify, run, merge, publish, distribute, publicly perform and display, make, have made, use, import, and otherwise transfer the Software, limited to patent claims necessarily infringed by that Contributor's Contribution alone or combined with the Software into which it was incorporated.
 
 This patent license does not include the right to sell or offer for sale the Software, or to sublicense or lease the patent rights. Those rights are granted separately under Section 8 and become effective on the Conversion Date.
 
@@ -114,7 +116,7 @@ This License does not grant any rights in the trademarks, service marks, or logo
 
 Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution.
 
-Each Contributor irrevocably receives the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance — so Sections 1 and 2 no longer apply to that accepted Contribution.
+Each Contributor irrevocably receives the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.
 
 With respect to any portion of the Software for which the Licensor owns the copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, or Section 2; Section 8's permissions apply automatically to such portions. Nothing here limits the Licensor's right to otherwise exploit its own copyrights or patents on any terms it chooses.
 
@@ -128,6 +130,8 @@ The Licensor irrevocably grants additional permissions with respect to the Softw
 
 On and after the Conversion Date, the license under Section 0 expands to include the right to sublicense, lease, and sell copies of the Software, and to permit others to do so.
 
+On and after the Conversion Date, the license under Section 0 and Section 3 further expands to include the right to create, combine, and distribute Larger Software incorporating the Software, for any purpose within Section 0's scope, including purposes otherwise restricted under Section 1. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
+
 On and after the Conversion Date, the license under Section 0 and Section 3 further expands to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form into Source Code, and recompile it back into Object Form, or convert Object Form into a different Object Form, for any purpose within Section 0's scope. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
 
 This decompilation right does not apply to Larger Software, except where every component of that Larger Software is under a license that does not prohibit decompilation.
@@ -136,7 +140,7 @@ This decompilation right is subject to any Additional Terms imposed under Sectio
 
 Any Source Code or Object Form resulting from such decompilation, recompilation, conversion, or translation constitutes Source Code or Object Form of the Software for all purposes of this License, and remains subject to all its terms, including the notice-retention requirements of Section 9.
 
-These additional permissions are subject to the condition that **You must continue to comply with all terms of this License, except that Sections 1 and 2 no longer apply on or after the Conversion Date.** All other provisions — including Sections 3, 4, 5, 6, 7, 9, 9A, 9B, 9C, 9D, 10, and 11 — remain in full force after the Conversion Date.
+These additional permissions are subject to the condition that **You must continue to comply with all terms of this License, except that Sections 1 and 2 no longer apply on or after the Conversion Date.** All other provisions, including Sections 3, 4, 5, 6, 7, 9, 9A, 9B, 9C, 9D, 10, and 11, remain in full force after the Conversion Date.
 
 On and after the Conversion Date, the patent license granted by each Contributor under Section 3 expands to include the rights to sell, lease, offer for sale, and sublicense the patent rights, together with all related rights granted under this Section 8, on the same terms and within the same scope as the patent license granted under Section 3.
 
@@ -170,7 +174,7 @@ You may create a NOTICE file, under any name, to set out copyright, trademark, p
 
 ## 9D. Accompanying Documentation
 
-You may create documentation, under any name and format, to distribute alongside the Software or Derivative Works, including user guides, references, release notes, examples, or any other information — including arbitrary, fictional, or unrelated content — to the extent permitted by law. Any legal violation in connection with such documentation does not terminate the licenses granted under this License, though it does not shield You from legal action for the violation itself. You are not obligated to create such documentation, and its content is otherwise unrestricted, provided required notices under Sections 9, 9A, and 9C continue to be satisfied, and the documentation does not misrepresent this License's scope or falsely suggest endorsement the Licensor did not give.
+You may create documentation, under any name and format, to distribute alongside the Software or Derivative Works, including user guides, references, release notes, examples, or any other information, including arbitrary, fictional, or unrelated content, to the extent permitted by law. Any legal violation in connection with such documentation does not terminate the licenses granted under this License, though it does not shield You from legal action for the violation itself. You are not obligated to create such documentation, and its content is otherwise unrestricted, provided required notices under Sections 9, 9A, and 9C continue to be satisfied, and the documentation does not misrepresent this License's scope or falsely suggest endorsement the Licensor did not give.
 
 ## 10. Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
