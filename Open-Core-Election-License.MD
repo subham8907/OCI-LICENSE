@@ -323,6 +323,8 @@ This Appendix C sets forth an additional permission granted by each Contributor 
 
 The content set forth below constitutes the notice that may be included in a notice file. The notice file may be created under any name and in any format or medium, provided that the content below is reproduced accurately and clearly identifies the Software to which this Appendix C applies.
 
+```
+
 This [Software Name] is originally licensed under the Apache License, Version 2.0. A copy of the Apache License is available at:
 
 http://www.apache.org/licenses/LICENSE-2.0
@@ -382,3 +384,4 @@ To the fullest extent permitted by applicable law, the waiver and non-assertion 
 **(f) Contributions.**
 
 The submission of a Contribution constitutes the Contributor's agreement to this Section with respect to that Contribution, on the same terms that apply to the Licensor.
+```
