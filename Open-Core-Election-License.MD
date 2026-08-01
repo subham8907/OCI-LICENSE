@@ -14,6 +14,9 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"Software"** means the program and related documents that are licensed under this License and comprise all Contribution(s).
 
+"Successor" means, as the context requires: (i) any transferee of copyright or patent rights described in subsection (a) below; (ii) the estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or (iii) any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below. Where this Section or the Moral Rights section below refers to a party's "successors, heirs, and assigns," that phrase refers to that party's Successor(s), together with the heirs and assigns of any such Successor.
+
+
 **"Contribution"** means the copyrightable work licensed by a particular Contributor under this License.
 
 **"Contributor"** means the individual or Legal Entity that licenses its copyrightable work under this License.
@@ -87,6 +90,8 @@ You may distribute the Software in any medium, with or without modification, whe
 ## 6. Grant of Future License
 
 On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants You the Apache License as defined in Section 0 and the additional permission in Appendix C, effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution of the Software and any purpose that is not listed are governed solely by the Apache License. You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
+
+No Successor may prevent, revoke, delay, or otherwise impair the conversion described in this Section. The occurrence of any event described in Appendix C (including a transfer of copyright or patent rights, the death of a Licensor or Contributor who is a natural person, or the merger, dissolution, bankruptcy, reorganization, or change of control of a Licensor or Contributor that is a Legal Entity) does not suspend, extend, or otherwise affect the Conversion Date. Conversion occurs automatically on the Conversion Date regardless of any such event, and no Successor may condition, renegotiate, or impose additional requirements on the license granted under this Section.
 
 For the avoidance of doubt, the additional permission in Appendix C is optional after the Conversion Date. After conversion, You may comply solely with the Apache License as defined in Section 0 without relying on the additional permission in Appendix C.
 
