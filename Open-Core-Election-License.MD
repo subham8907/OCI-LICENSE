@@ -67,6 +67,8 @@ Without limiting the other conditions of this License, the rights granted under 
 
 **(e) Circumvention of Technological Protection Measures.** You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
 
+(f) Prohibition on Sublicensing. You may not sublicense the Software.
+
 ---
 
 ## 3. No Trademark License
