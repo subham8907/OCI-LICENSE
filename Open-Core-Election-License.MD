@@ -369,20 +369,12 @@ The Apache License continues to bind the relevant entity, and its rights and obl
 A successor takes the Software subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke,
 narrow, or impose additional conditions on any license previously granted.
 
-(e) Retention of Copyright Notices or any legal Notices Upon Succession.
+(e) Retention of copyright, patent, trademark, and attribution notices  Upon Succession.
+A successor may update or add to the copyright, patent, trademark, and attribution notices in the Source form, NOTICE file, or Source code to reflect its succession, consistent with this Section and subsection (c) above.
 
-A successor may update or add to the copyright notices or any legal notices in the Software's headers,
-NOTICE file, or source code to reflect its succession,
-consistent with this Section and subsection (c) above.
-However, a successor may not require or compel You to alter, remove, or restate any notice on its behalf.
-Your refusal to comply with such a request does not constitute a breach of the Apache License. Nothing in this subsection prevents a successor from adding its own attribution notice,
-provided that doing so does not displace or remove the original notice.
+However, a successor may not require or compel You to alter, remove, or restate any notice on its behalf. Your refusal to comply with such a request does not constitute a breach of the Apache License.
 
-(f) Retention of Trademark, Patent, and Other Notices Upon Succession.
-
-Subsection (e) applies equally to trademark, patent, and other attribution notices.
-Nothing in this subsection expands or narrows the trademark rights provided under Section 6 of the Apache License or the patent rights provided under Section 3 of the Apache License.
-This subsection governs only the retention and updating of such notices.
+Nothing in this subsection prevents a successor from adding its own attribution notice, provided that such notice does not displace, modify, or remove the original notice.
 
 Moral Rights
 
