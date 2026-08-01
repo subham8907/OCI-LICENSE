@@ -32,7 +32,7 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"You"** (or **"Your"**) means the individual or Legal Entity exercising permissions granted by this License.
 
-**"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B, together with the additional permission set forth in Appendix C. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text as supplemented by Appendix C.
+"Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
 **"Conversion Date"** means the date and time set forth in Appendix A, expressed in the format `${YYYY-MM-DD}T00:00:00Z` (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License as set forth in Section 6 (Grant of Future License).
 
@@ -85,9 +85,9 @@ You may distribute the Software in any medium, with or without modification, whe
 
 ## 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants You the Apache License (as defined in Section 0, comprising Appendix B and the additional permission in Appendix C), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution of the Software and any purpose that is not listed are governed solely by the Apache License. You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
+On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants You the Apache License as defined in Section 0 and the additional permission in Appendix C), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution of the Software and any purpose that is not listed are governed solely by the Apache License. You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
 
-For the avoidance of doubt, the additional permission in Appendix C is optional after the Conversion Date. After conversion, You may comply solely with the Apache License as defined in Section 0, comprising Appendix B, without relying on the additional permission in Appendix C.
+For the avoidance of doubt, the additional permission in Appendix C is optional after the Conversion Date. After conversion, You may comply solely with the Apache License as defined in Section 0 without relying on the additional permission in Appendix C.
 
 
 ## 7. Governing Law
