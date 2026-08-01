@@ -369,9 +369,9 @@ The Apache License continues to bind the relevant entity, and its rights and obl
 A successor takes the Software subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke,
 narrow, or impose additional conditions on any license previously granted.
 
-(e) Retention of Copyright Notices Upon Succession.
+(e) Retention of Copyright Notices or any legal Notices Upon Succession.
 
-A successor may update or add to the copyright notices in the Software's headers,
+A successor may update or add to the copyright notices or any legal notices in the Software's headers,
 NOTICE file, or source code to reflect its succession,
 consistent with this Section and subsection (c) above.
 However, a successor may not require or compel You to alter, remove, or restate any notice on its behalf.
