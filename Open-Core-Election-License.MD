@@ -32,22 +32,23 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"You"** (or **"Your"**) means the individual or Legal Entity exercising permissions granted by this License.
 
-"Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
+**"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
 **"Conversion Date"** means the date and time set forth in Appendix A, expressed in the format `${YYYY-MM-DD}T00:00:00Z` (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License as set forth in Section 6 (Grant of Future License).
 
-
+---
 
 ## 1. Grant of Copyright License and Patent License
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a worldwide, royalty-free, non-exclusive, and irrevocable copyright license, effective until the Conversion Date specified in Appendix A, to reproduce, use, modify, or distribute its Contribution, with or without modification.
 
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a worldwide, royalty-free, non-exclusive, and irrevocable (except as provided in this Section) patent license, effective until the Conversion Date specified in Appendix A, to make, have made, use, import, or otherwise transfer its Contribution. This patent license extends only to those patent claims owned or controlled by such Contributor, whether now existing or acquired in the future, that are necessarily infringed by the Contributor’s Contribution alone or by the combination of that Contribution with the Software to which the Contribution was contributed. The patent license does not extend to any modification of the Contribution or to any other combination that includes the Contribution.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a worldwide, royalty-free, non-exclusive, and irrevocable (except as provided in this Section) patent license, effective until the Conversion Date specified in Appendix A, to make, have made, use, import, or otherwise transfer its Contribution. This patent license extends only to those patent claims owned or controlled by such Contributor, whether now existing or acquired in the future, that are necessarily infringed by the Contributor's Contribution alone or by the combination of that Contribution with the Software to which the Contribution was contributed. The patent license does not extend to any modification of the Contribution or to any other combination that includes the Contribution.
 
 If You or any of Your Affiliates directly or indirectly institute any patent litigation, including any cross-claim or counterclaim in a lawsuit, or engage in any other patent enforcement activity against any individual or entity alleging that the Software or any Contribution incorporated in it infringes any patent, then all patent licenses granted to You under this License with respect to the Software terminate automatically as of the date on which such litigation or activity is filed or commenced.
 
 For the avoidance of doubt, the licenses granted under this Section remain effective until the Conversion Date specified in Appendix A, unless terminated earlier in accordance with this License. As of the Conversion Date, the licenses granted under this Section are superseded by, and the rights granted under them continue without interruption under, the Apache License, in accordance with Section 6.
 
+---
 
 ## 2. Restrictions on Use
 
@@ -85,10 +86,11 @@ You may distribute the Software in any medium, with or without modification, whe
 
 ## 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants You the Apache License as defined in Section 0 and the additional permission in Appendix C), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution of the Software and any purpose that is not listed are governed solely by the Apache License. You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
+On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants You the Apache License as defined in Section 0 and the additional permission in Appendix C, effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution of the Software and any purpose that is not listed are governed solely by the Apache License. You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
 
 For the avoidance of doubt, the additional permission in Appendix C is optional after the Conversion Date. After conversion, You may comply solely with the Apache License as defined in Section 0 without relying on the additional permission in Appendix C.
 
+---
 
 ## 7. Governing Law
 
@@ -317,7 +319,8 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 ```
 
 ---
-# Appendix C: Additional Permission (Exception to Apache License, Version 2.0)
+
+## Appendix C: Additional Permission (Exception to Apache License, Version 2.0)
 
 This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, as reproduced in Appendix B. Unless the context requires otherwise, all words and expressions used in this License shall be interpreted in accordance with the Apache License as defined in Section 0. This additional permission supplements the Apache License in full, except as expressly stated below.
 
