@@ -20,6 +20,14 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"Affiliates"** means entities that control, are controlled by, or are under common control with the acting entity under this License; "control" means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital, or other securities of the controlled or commonly controlled entity.
 
+**"Derivative Works"** means any work that is based on, or derived from, the Software, including any translation, modification, adaptation, revision, or other work that, as a whole, represents an original work of authorship, but excluding works that remain separable from, or merely link to or interoperate with, the Software without incorporating its Contribution(s).
+
+**"Technological Protection Measure"** (or **"TPM"**) means any effective technology, device, or component that, in the ordinary course of its operation, controls access to, or restricts the use of, the Software or any Third-Party Content, including license keys, activation mechanisms, encryption, digital rights management, and other access-control or copy-control measures, regardless of the form in which they are implemented.
+
+**"Third-Party Content"** means any software, data, or other material, in any form, distributed, streamed, transmitted, or otherwise made available with the Software that is owned by, or licensed from, a party other than the Licensor.
+
+**"Lease"** means to grant any person or Legal Entity temporary possession or use of the Software, for a fee or other consideration, without transferring ownership of the copy so provided, regardless of the label given to the transaction. Lease does not include Your own internal use of the Software, including use by Your employees or contractors acting on Your behalf, and does not include making the Software available as part of a product or service governed by Section 2(a) (Selling the Software).
+
 **"You"** (or **"Your"**) means the individual or Legal Entity exercising permissions granted by this License.
 
 **"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B, together with the additional permission set forth in Appendix C. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text as supplemented by Appendix C.
@@ -32,11 +40,19 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import, or otherwise transfer its Contribution, where such patent license is limited only to the patent claims owned or controlled by such Contributor, now or in the future, that are necessarily infringed by its Contribution alone or by combination of the Contribution with the Software to which the Contribution was contributed. The patent license does not apply to any modification of the Contribution, or to any other combination that includes the Contribution. If You or Your Affiliates directly or indirectly institute patent litigation (including a cross-claim or counterclaim in a lawsuit) or other patent enforcement activity against any individual or entity alleging that the Software or any Contribution in it infringes patents, then any patent license granted to You under this License for the Software terminates as of the date such litigation or activity is filed or taken.
 
-## 2. Restriction on Sale
+## 2. Restrictions on Use
 
-Without limiting the other conditions of this License, the rights granted under this License do not include, and this License does not grant to You, the right to Sell the Software.
+Without limiting the other conditions of this License, the rights granted under this License do not include, and this License does not grant to You, the right to use the Software for any Non-Permitted Purpose. As used in this License, **"Non-Permitted Purpose"** means any of the following:
 
-For purposes of the foregoing, **"Sell"** means practicing any or all of the rights granted to You under this License to provide to third parties, for a fee or other consideration (including, without limitation, fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
+**(a) Selling the Software.** You may not Sell the Software. "Sell" means practicing any or all of the rights granted to You under this License to provide to third parties, for a fee or other consideration (including, without limitation, fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
+
+**(b) Competing Products or Services.** You may not use the Software to develop, market, provide, or support any commercial product or service that (i) substitutes for the Software; (ii) substitutes for any other product or service the Licensor offers using the Software as of the date the Software is made available; or (iii) offers the same or substantially similar functionality as the Software.
+
+**(c) Leasing the Software.** You may not Lease the Software.
+
+**(d) Restriction on Derivative Works.** Except as expressly permitted under this License, You may create Derivative Works of the Software only if such Derivative Works are licensed under this License and remain subject to the same Conversion Date specified in Appendix A. You may not create, distribute, or license software under different terms that is based on the Software, including software that links to the Software, except where this License expressly permits it.
+
+**(e) Circumvention of Technological Protection Measures.** You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
 
 ## 3. No Trademark License
 
@@ -294,5 +310,3 @@ http://www.apache.org/licenses/LICENSE-2.0.
 ```
 
 All other conditions of Section 4 of the Apache License, including Sections 4(a), 4(c), and 4(d), remain in effect without modification.
-
-
