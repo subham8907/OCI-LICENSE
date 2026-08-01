@@ -1,312 +1,64 @@
-# Open Core Election License
+Copyright (c) [Year] [name of copyright holder]
 
-**Abbreviation:** OCEL
+[Software Name] is licensed under the Open Core Election License (this "License"). You may use this Software according to the terms and conditions of the License.
 
-## NOTICE
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. See the License for more details.
 
-Copyright © ${year} ${licensor name}
+Your reproduction, use, modification, and distribution of the Software are subject to this License, with the following terms and conditions:
 
-*${year} and ${licensor name} are Placeholders, as defined below, and must be replaced with the actual year of first publication and the name of the Licensor before this License is applied to the Software. If these Placeholders do not appear in this NOTICE (that is, if they have already been replaced with an actual year and name), that means this License has already been applied to the Software, and the completed information controls.*
+0. Definitions
 
-## DEFINITIONS
+"Software" means the program and related documents that are licensed under this License and comprise all Contribution(s).
 
-**"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix D. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text, which is unmodified from the version published by the Apache Software Foundation.
+"Contribution" means the copyrightable work licensed by a particular Contributor under this License.
 
-**"Contribution"** means any original work of authorship, including any original work that forms all or part of the Software, and any modification, addition, enhancement, correction, documentation, or other change to the Software, that is intentionally submitted to the Licensor for inclusion in the Software or is intentionally created, provided, or incorporated by the Licensor for inclusion in the Software. For the avoidance of doubt, an original work incorporated into the Software is a Contribution and is not excluded merely because it was created by the Licensor or was not submitted through an external contribution process.
+"Contributor" means the individual or Legal Entity that licenses its copyrightable work under this License.
 
-For purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives for the purpose of proposing, discussing, contributing to, or improving the Software, including, without limitation, communications through electronic mailing lists, source code repositories, source code control systems, issue-tracking systems, code-review systems, or other communication channels managed by, or on behalf of, the Licensor. However, "submitted" does not include any communication conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+"Legal Entity" means the entity making a Contribution and all its Affiliates.
 
-**"Contributor"** means any individual or Legal Entity, including the Licensor, that creates, authors, owns, or is authorized to submit a Contribution, and whose Contribution is accepted and incorporated into the Software. For the avoidance of doubt, a Contributor includes the Licensor or any other individual or Legal Entity whose original work, modification, addition, or other change is incorporated into the Software.
+"Affiliates" means entities that control, are controlled by, or are under common control with the acting entity under this License; "control" means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital, or other securities of the controlled or commonly controlled entity.
 
-**"Conversion Date"** means the date and time set forth in Appendix B, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 8 (Grant of Future License) become effective.
+"Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
-**"Derivative Works"** means any work that is based on or derived from the Software and for which the editorial revisions, annotations, elaborations, or other modifications, taken as a whole, constitute an original work of authorship.
+"Conversion Date" means the date and time set forth in Appendix A, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 6 (Grant of Future License) become effective.
 
-For purposes of this License, Derivative Works do not include works that remain separable from, or that merely link to, dynamically load, interact with, or bind by name to the interfaces of, the Software or any Derivative Works thereof.
+1. Grant of Copyright License and Patent License
 
-**"Larger Software"** means a combination, aggregation, or distribution of the Work or the associated documentation files together with other software, works, or materials that are not governed by this License.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute its Contribution, with or without modification.
 
-**"Lease"** means to grant any person or Legal Entity temporary possession or use of the Software, in Source Code or Object Form, for a fee or other consideration, without transferring ownership of the copy so provided, regardless of the label given to the transaction. Lease does not include Your own internal use of the Software, including use by Your employees or contractors acting on Your behalf, and does not include making the Software available as part of a product or service governed by Section 1(a) (Selling the Software).
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import, or otherwise transfer its Contribution, where such patent license is limited only to the patent claims owned or controlled by such Contributor, now or in the future, that are necessarily infringed by its Contribution alone or by combination of the Contribution with the Software to which the Contribution was contributed. The patent license does not apply to any modification of the Contribution, or to any other combination that includes the Contribution. If You or Your Affiliates directly or indirectly institute patent litigation (including a cross-claim or counterclaim in a lawsuit) or other patent enforcement activity against any individual or entity alleging that the Software or any Contribution in it infringes patents, then any patent license granted to You under this License for the Software terminates as of the date such litigation or activity is filed or taken.
 
-**"Legal Entity"** means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity, where "control" means the power to direct the management of such entity, ownership of fifty percent (50%) or more of its outstanding shares, or beneficial ownership of such entity.
+2. Restriction on Sale
 
-**"License"** means these Terms and Conditions.
+Without limiting the other conditions of this License, the rights granted under this License do not include, and this License does not grant to You, the right to Sell the Software.
 
-**"Licensor"** means the copyright owner or entity authorized by the copyright owner that is granting the License. "We," "Us," and "Our" refer to the Licensor.
+For purposes of the foregoing, "Sell" means practicing any or all of the rights granted to You under this License to provide to third parties, for a fee or other consideration (including, without limitation, fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
 
-**"Object Form"** means any form of the Software resulting from mechanical transformation or translation of Source Code, including compiled object code, generated documentation, and conversions to other media types.
+3. No Trademark License
 
-**"Placeholder"** means a bracketed or symbol-delimited field in this License or its Appendices (e.g., ${year}, ${licensor name}, ${YYYY-MM-DD}, [yyyy], [name of copyright owner]) intended to be replaced with identifying, dated, or factual information when this License is applied. A Placeholder is not itself an operative term; once completed per Appendix A, the supplied information becomes part of the notice or Appendix in which it appears. If a Placeholder does not appear where expected, this License has already been applied, and the completed information controls.
+No trademark license is granted to use the trade names, trademarks, service marks, or product names of any Contributor, except as required to fulfill the notice requirements in Section 4.
 
-**"Software"** means the Work and its associated documentation files that the Licensor makes available under these Terms and Conditions.
+4. Distribution Restriction
 
-**"Source Code"** means the form of the work that is governed by this License and that is preferred for making modifications.
+You may distribute the Software in any medium, with or without modification, whether in source or executable form, provided that You provide recipients with a copy of this License and retain the copyright, patent, trademark, and disclaimer statements in the Software.
 
-**"Technological Protection Measure"** (or **"TPM"**) means any effective technology, device, or component that, in the ordinary course of its operation, controls access to, or restricts the use of, the Software or any Third-Party Content, including license keys, activation mechanisms, encryption, digital rights management, and other access-control or copy-control measures, regardless of the form in which they are implemented.
+5. Disclaimer of Warranty and Limitation of Liability
 
-**"Third-Party Content"** means any software, data, or other material, in any form, distributed, streamed, transmitted, or otherwise made available with the Software that is owned by, or licensed from, a party other than the Licensor.
+THE SOFTWARE AND THE CONTRIBUTIONS IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR OR COPYRIGHT HOLDER BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE OR THE CONTRIBUTIONS IN IT, NO MATTER HOW CAUSED OR ON WHAT LEGAL THEORY BASED, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-**"Work"** means the work of authorship, whether in Source Code or Object Form, made available under this License.
+6. Grant of Future License
 
-**"You"** (or **"Your"**) means an individual or Legal Entity exercising permissions granted by this License.
+On and after the Conversion Date set forth in Appendix A, each Contributor hereby unambiguously and irrevocably grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party.
 
-## 0. License Grant
-
-Subject to Your compliance with this License, the Licensor grants You a worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license to exercise all rights under the Licensor's copyright and other applicable intellectual property rights in the Software, including the rights to use, copy, modify, run, merge, publish, distribute, create Derivative Works of, publicly perform, and publicly display the Software.
-
-Any breach of any condition of this License constitutes copyright infringement for so long as the breach persists. Such a breach does not terminate the license granted in this Section 0. If You cure the breach and return to compliance, Your subsequent exercise of these rights shall not, by reason of the cured breach, constitute infringement; however, the period of non-compliance continues to constitute infringement notwithstanding Your later compliance.
-
-## 1. Non-Permitted Purposes
-
-You may not use the Software for any Non-Permitted Purpose.
-
-**(a) Selling the Software.** You may not Sell the Software. "Sell" means exercising rights granted under this License to provide, for a fee or other consideration, a product or service whose value derives entirely or substantially from the functionality of the Software.
-
-**(b) Competing Products or Services.** You may not use the Software to develop, market, provide, or support any commercial product or service that (i) substitutes for the Software; (ii) substitutes for any other product or service the Licensor offers using the Software as of the date the Software is made available; or (iii) offers the same or substantially similar functionality as the Software.
-
-**(c) Leasing the Software.** You may not Lease the Software.
-
-**(d) Restriction on Derivative Works.** Except as expressly permitted under this License, You may create Derivative Works of the Software only if such Derivative Works are licensed under this License and remain subject to the same Conversion Date specified in Appendix B. You may not create, distribute, or license software under different terms that is based on the Software, including software that links to the Software, except where this License expressly permits it.
-
-This restriction expires on and after the Conversion Date, as provided in Section 8 (Grant of Future License).
-
-**(e) Larger Software.** Combining or distributing the Software with other software, works, or materials that are not governed by this License, so as to form Larger Software, does not cause such other software, works, or materials to become subject to this License, provided that the Software component itself remains fully subject to this License, including this Section 1 and Section 2 prior to the Conversion Date.
-
-## 2. Limitations
-
-You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
-
-## 3. Patents
-
-Each Contributor grants You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable (except as provided below) patent license to exercise all rights under the patent claims licensed by that Contributor, including to use, copy, modify, run, merge, publish, distribute, publicly perform and display, make, have made, use, import, and otherwise transfer the Software, limited to patent claims necessarily infringed by that Contributor's Contribution alone or combined with the Software into which it was incorporated.
-
-This patent license does not include the right to sell or offer for sale the Software, or to sublicense or lease the patent rights. Those rights are granted separately under Section 8 and become effective on the Conversion Date.
-
-If You institute patent litigation against any person or entity alleging that the Software or an incorporated Contribution infringes a patent, any patent licenses granted to You under this License terminate as of the date such litigation is filed.
-
-## 4. Redistribution
-
-These Terms and Conditions apply to all copies of the Software and all modifications and Derivative Works.
-
-If You redistribute any copy, modification, or Derivative Work, You must include a copy of, or link to, this License, and must not remove or alter any copyright, license, or proprietary notices.
-
-If You modify the Software, You must include a notice (in the Source Code or a NOTICE file, which may be under any name as provided in Section 9A) identifying the modified portions, together with Your name and the date of the modification, required only once per specific material. For this purpose, Your name may be a legal entity name, Your own personal legal name, or a pseudonym.
-
-You may add Your own copyright statement and may provide additional or different license terms for Your modifications or Derivative Works, provided Your use otherwise complies with this License. Until the Conversion Date, no additional or different terms may waive, narrow, or override the restrictions in Section 1 or Section 2 as they apply to the Software; any purported term to that effect is void prior to the Conversion Date. On and after the Conversion Date, this paragraph does not restrict such additional terms, consistent with Section 8, under which Sections 1 and 2 cease to apply.
-
-**4A. Additional Terms You May Impose**
-
-Subject to Your continued compliance with this License, You may convey the Software together with additional or different terms of Your own choosing ("Your Additional Terms"), forming a separate agreement between You and each recipient.
-
-(a) **No effect on this License.** Your Additional Terms do not modify, waive, or override this License, and do not grant any rights under the Licensor's or any Contributor's copyright or patent rights. Permissions granted under Sections 0 and 8 come solely from this License. Your Additional Terms may, however, restrict, condition, or narrow the decompilation and recompilation right granted under Section 8.
-
-(b) **Compliance with this License.** You must continue to comply with this License in full, including Sections 1 and 2 prior to the Conversion Date. Your Additional Terms must not purport to permit any act this License forbids.
-
-(c) **Enforcement of Your Additional Terms.** Your Additional Terms are a contract between You and the recipient, enforceable by You under applicable contract law. Nothing here gives You standing to sue for copyright or patent infringement based solely on breach of Your Additional Terms.
-
-(d) **Enforcement of this License.** Each Contributor retains the right to enforce this License with respect to that Contributor's Contribution.
-
-(e) **Survival.** If any provision of Your Additional Terms is unenforceable, that does not affect this License or the remaining provisions of Your Additional Terms.
-
-## 5. Disclaimer
-
-THIS SOFTWARE (Software) IS PROVIDED BY THE LICENSOR (Licensor) AND CONTRIBUTORS (contributor)“AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE LICENSOR (Licensor) OR CONTRIBUTORS (contributor) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-If any portion of this Disclaimer is unenforceable under applicable law, the licenses granted under this License remain unenforceable only to the extent required by that law.
-
-## 6. Trademarks
-
-This License does not grant any rights in the trademarks, service marks, or logos of any Contributor, except as necessary to comply with the notice requirements in Section 9.
-
-## 7. Submission of Contributions
-
-Unless You state otherwise in writing, any Contribution You submit to the Licensor shall be licensed under this License, without additional terms. Unless a Contributor has separately requested to be identified by name, the default notice in Appendix C automatically applies to that Contribution. This default designation governs the form of public attribution only; consistent with Appendix C, every Contributor must still be identifiable, whether by legal entity name, personal legal name, or pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License.
-
-**Interaction with the Apache License Election.** A Contributor's election under Section 8 to exercise rights in the Software under the Apache License governs only that Contributor's own downstream use, reproduction, modification, and distribution of the Software, as provided in Section 8. That election does not, by itself, constitute a statement under this Section 7 that a Contribution the Contributor later submits to the Licensor is submitted under any terms other than this License. Absent an express statement made in writing at the time of submission, any Contribution a Contributor submits to the Licensor remains governed by this Section 7, is licensed under this License, and receives the acceleration described below upon acceptance, regardless of any election that Contributor has separately made under Section 8. A Contributor who has elected to proceed under the Apache License for their own use, and who separately wishes a Contribution to be submitted under the Apache License rather than this License, must say so expressly in writing when submitting it; the Licensor is not obligated to accept a Contribution offered on those terms, and acceptance of the Software's default terms under this Section 7 is not itself evidence of such a statement.
-
-**Each Contributor other than the Licensor irrevocably grants the additional permissions in Section 8 with respect to that Contributor's accepted Contribution immediately upon acceptance; accordingly, Sections 1 and 2 no longer apply to that accepted Contribution.** This immediate grant does not apply to, and is not triggered by, any Contribution authored, created, or otherwise originated by the Licensor, regardless of whether that Contribution forms part of the Software as initially made available or is instead added, merged, or incorporated at any later time as a new feature, enhancement, bugfix, or other improvement. For the avoidance of doubt, all of the Licensor's own original work incorporated into the Software — whenever created or added — remains subject to Sections 1 and 2, as against You, until the Conversion Date (except that the Licensor itself is never restricted by those sections, as set out below); only accepted Contributions from Contributors other than the Licensor trigger the immediate grant described in this paragraph.
-
-With respect to any portion of the Software in which the Licensor owns copyright or patent rights, the Licensor is not subject to the Conversion Date, Section 1, Section 2, or any other provision of this License. The Licensor may exercise all rights under Section 8 with respect to those portions at any time. Nothing in this paragraph grants You any additional permissions beyond those provided in Section 0 before the Conversion Date, except as otherwise provided with respect to accepted Contributions from other Contributors. Nothing in this License limits the Licensor’s right to otherwise exploit its own copyrights or patents on any terms it chooses.
-
-Each Contributor who modifies the Software must include a notice (in the Source Code or a NOTICE file) identifying the modified portions, together with the Contributor's name and the date of the modification, required only once per specific material. For this purpose, the Contributor's name may be a legal entity name, the Contributor's own personal legal name, or a pseudonym, subject to the default and requested-attribution provisions of Section 9.
-
-If a Contributor fails to provide this notice, the Licensor may add or correct it in good faith on a reasonable basis, without that action constituting a breach of this License or affecting any license granted under it.
-
-## 8. Grant of Future License
-
-The Licensor irrevocably grants additional permissions with respect to the Software, effective on the Conversion Date (except as accelerated under Section 7 for accepted Contributions).
-
-On and after the Conversion Date, the license under Section 0 expands to include the right to sublicense, lease, and sell copies of the Software, and to permit others to do so.
-
-On and after the Conversion Date, the license under Section 0 and Section 3 further expands to include the right to create, combine, and distribute Larger Software incorporating the Software, for any purpose within Section 0's scope, including purposes otherwise restricted under Section 1. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
-
-On and after the Conversion Date, the license under Section 0 and Section 3 further expands to include the right to decompile, disassemble, reverse engineer, or otherwise convert Object Form into Source Code, and recompile it back into Object Form, or convert Object Form into a different Object Form, for any purpose within Section 0's scope. This right is granted as part of, and subject to, the sublicense-and-sell right granted under this Section 8.
-
-This decompilation right does not apply to Larger Software, except where every component of that Larger Software is under a license that does not prohibit decompilation.
-
-This decompilation right is subject to any Additional Terms imposed under Section 4A that restrict, condition, or narrow it.
-
-Any Source Code or Object Form resulting from such decompilation, recompilation, conversion, or translation constitutes Source Code or Object Form of the Software for all purposes of this License, and remains subject to all its terms, including the notice-retention requirements of Section 9.
-
-These additional permissions are subject to the condition that **You must continue to comply with all terms of this License, except that Sections 1 and 2 no longer apply on or after the Conversion Date.** All other provisions, including Sections 3, 4, 5, 6, 7, 9, 9A, 9B, 9C, 9D, 10, and 11, remain in full force after the Conversion Date.
-
-**Clarification Regarding Third-Party Content TPMs.** Although Section 2 no longer applies on and after the Conversion Date, any Technological Protection Measure that continues to protect Third-Party Content remains in place, and this License does not authorize bypassing it. Bypassing such a Technological Protection Measure does not, by itself, constitute a breach of this License on or after the Conversion Date, but may still result in liability under applicable law, including anti-circumvention statutes, or under separate terms governing that Third-Party Content, independent of this License.
-
-On and after the Conversion Date, the patent license granted by each Contributor under Section 3 expands to include the rights to sell, lease, offer for sale, and sublicense the patent rights, together with all related rights granted under this Section 8, on the same terms and within the same scope as the patent license granted under Section 3.
-
-**Automatic Termination and Cure.** Notwithstanding Section 0's provision that a breach does not terminate the license granted therein, on and after the Conversion Date, any breach of any term of this License automatically terminates the rights and permissions granted under Section 0, Section 3, and this Section 8, and the period during which such breach persists constitutes copyright infringement, consistent with Section 0. If You cure the breach and return to full compliance with this License within thirty (30) days after the breach begins, the terminated rights and permissions are automatically reinstated, and the period of breach shall be deemed to have been in compliance with, and licensed under, this License. This automatic termination and cure mechanism applies only on and after the Conversion Date and does not alter the operation of Section 0 prior to the Conversion Date.
-
-**Alternative Compliance Under the Apache License.** Notwithstanding the foregoing, if, on or after the Conversion Date, You are unable or unwilling to comply with the terms of this License, You may instead elect to exercise the rights granted under Section 0, Section 3, and this Section 8 in the Software under the terms of the Apache License, as reproduced in full in Appendix D, in lieu of this License. This election is available only on and after the Conversion Date and does not apply, and confers no rights, before that date.
-
-Upon making this election, Your use, reproduction, modification, and distribution of the Software shall thereafter be governed by the Apache License in place of Sections 1 through 8 of this License, other than this paragraph and the underlying grant in Section 0. Notwithstanding the foregoing, the following provisions continue to apply to You in full notwithstanding Your election: the Clarification Regarding Third-Party Content TPMs set out earlier in this Section 8; Sections 9, 9A, 9B, 9C, and 9D (Retention of Legal Notices and the related NOTICE-file provisions); Section 10 (Binding Effect); and Section 11 (Moral Rights). Sections 9 through 9D and Section 10 survive because they establish the baseline notice, copy-of-license, and succession mechanics of this License itself, which operate independently of whichever set of substantive permissions — this License's or the Apache License's — governs Your exercise of rights at a given time. The TPM clarification survives because it is protective of You and the Apache License does not address Third-Party Content TPMs. Section 11 survives because the Apache License does not itself address moral rights, and the waiver and non-assertion in Section 11 are intended to protect Your exercise of rights in the Software regardless of which license terms govern that exercise. This election does not excuse, and has no retroactive effect on, any breach of this License that occurred before the election was made; the automatic termination, infringement, and cure provisions above continue to apply to that prior period.
-
-If You elect to proceed under the Apache License, the substantive permissions and conditions of the Apache License govern Your exercise of rights in the Software in place of Sections 1 through 8 of this License, subject to the survivals described above. Because Section 9 of this License continues to apply to You, and because Appendix D reproduces the Apache License in full, verbatim, and without modification, providing each recipient a copy of, or a link to, this License — provided that copy or link includes Appendix D intact and unaltered — satisfies the Apache License's own requirement, under its Section 4(a), that You furnish recipients a copy of the Apache License. You are not required to provide a separate, standalone copy of the Apache License apart from this License for that purpose. This does not relieve You of the Apache License's other conditions under its Section 4, including marking modified files, retaining copyright and patent notices, and carrying forward NOTICE file content, which You must continue to satisfy with respect to the Software going forward, consistent with Sections 9 through 9D of this License.
-
-This election is available to You individually and does not obligate the Licensor, any Contributor, or any other licensee to make, honor, or recognize the same election with respect to their own use of the Software; each recipient's election under this paragraph applies only to that recipient's own exercise of rights.
-
-## 9. Retention of Legal Notices
-
-You must retain, in the Source Code You distribute, all copyright, patent, trademark, and attribution notices, excluding those not pertaining to any part of the Derivative Works.
-
-Unless a Contributor has separately requested to be identified by name, any copyright notice for that Contributor's Contribution may, by default, identify them generically as "Contributor," per Appendix C. You may accommodate a request to be identified by name instead, without that constituting a breach of this License or giving rise to liability.
-
-If You distribute the Software, You must include a copy of, or link to, this License with each copy.
-
-Each Contributor who modifies the Software must include a notice identifying the specific material modified, together with the Contributor's name and the date of the modification, required only once per material. For this purpose, the Contributor's name may be a legal entity name, the Contributor's own personal legal name, or a pseudonym, subject to the default and requested-attribution provisions above.
-
-If the Work includes a NOTICE file, any Derivative Works You distribute must include a readable copy of its attribution notices (excluding those not pertaining to the Derivative Works) within a NOTICE file, within the Source Code or documentation, or within a display or interface where such notices are normally made available. The NOTICE file's contents are informational only and do not modify this License. You may add Your own attribution notices alongside the NOTICE text, provided they are not construed as modifying this License.
-
-If You distribute in Object Form, You may reproduce the NOTICE file's contents in a user interface reasonably accessible to recipients, without needing to display them automatically or prominently; otherwise reproduce them in the accompanying documentation.
-
-## 9A. NOTICE File
-
-You may rename any NOTICE file, merge it with other notice files, or embed its contents within software, documentation, or a user interface, provided that: (a) required attribution notices remain clearly identifiable and reasonably accessible; (b) required contents are not materially altered, omitted, or misleadingly presented; and (c) notices from different sources remain reasonably distinguishable where needed to avoid confusion. Any medium satisfying these requirements is deemed a NOTICE file regardless of name or format.
-
-## 9B. License Document
-
-Everyone is permitted to copy and distribute verbatim copies of this License document.
-
-You may reproduce, embed, or redistribute this License in whole and without modification, in any medium, together with other license documents, provided that: (a) it remains clearly distinguishable from other license documents; (b) its text is reproduced verbatim except for completion of designated placeholders; (c) the copyright notice, Appendix B, and all other provisions retain complete integrity; (d) its reproduction does not falsely suggest its terms have been modified or that the Licensor approved a modified version; and (e) if You wish to license Your own Software under this License, You may make a separate copy and update Appendix B and the copyright notice accordingly, without altering the original copy You received.
-
-## 9C. Creation of NOTICE File
-
-You may create a NOTICE file, under any name, to set out copyright, trademark, patent, or attribution notices, statements of origin, or any other legal or informational content relating to the Software, Your modifications, or other accompanying material, including content necessary for compliance with applicable law or other licenses (e.g., export control or privacy notices). You are not obligated to create such a file, and its name, format, and content are otherwise unrestricted, provided that (a) any content required by Section 9 or 9A continues to satisfy those Sections, and (b) the file does not misrepresent this License's scope or origin, or falsely suggest Licensor endorsement it did not give.
-
-## 9D. Accompanying Documentation
-
-You may create documentation, under any name and format, to distribute alongside the Software or Derivative Works, including user guides, references, release notes, examples, or any other information, including arbitrary, fictional, or unrelated content, to the extent permitted by law. Any legal violation in connection with such documentation does not terminate the licenses granted under this License, though it does not shield You from legal action for the violation itself. You are not obligated to create such documentation, and its content is otherwise unrestricted, provided required notices under Sections 9, 9A, and 9C continue to be satisfied, and the documentation does not misrepresent this License's scope or falsely suggest endorsement the Licensor did not give.
-
-## 10. Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
-
-This License and the licenses under Sections 0 and 3 run with the copyright and patent rights in the Work and each Contribution, and bind the Licensor, each Contributor, and their successors, heirs, and assigns. No event described below diminishes, suspends, or terminates any license already granted to You.
-
-**(a) Transfer of Rights.** A sale, assignment, or other transfer of copyright or patent rights does not terminate or impair any license already granted. A transferee takes the Work subject to previously granted rights, and succeeds to the transferring party's rights and obligations under this License.
-
-**(b) Death.** Where the Licensor or a Contributor is a natural person, their death does not terminate this License; it continues to bind, and its rights and obligations pass to, their estate, heirs, and successors.
-
-**(c) Merger, Dissolution, or Reorganization.** Where the Licensor or a Contributor is a Legal Entity, its merger, dissolution, bankruptcy, reorganization, or change of control does not terminate this License; it continues to bind, and its rights and obligations pass to, any successor or acquirer.
-
-**(d) No Renegotiation.** A successor takes the Work subject to this License as in effect at the time of the relevant event, and may not unilaterally revoke, narrow, or add conditions to any license already granted.
-
-**(e) Retention of Copyright Notice Upon Succession.** A successor may update or add to the copyright notice in the NOTICE, Appendix A, or Source Code to reflect its own succession, consistent with Sections 9 and 9C, but may not demand or compel You to alter, remove, or restate any notice on its behalf. Declining such a demand is not a breach of this License. This does not prevent a successor from adding its own attribution notice without displacing the original.
-
-**(f) Retention of Trademark, Patent, and Other Notices Upon Succession.** Subsection (e) applies equally to trademark, patent, and other attribution notices. Nothing here expands or narrows the trademark rights under Section 6 or the patent rights under Sections 3 and 8; it governs only notice retention and updating.
-
-## 11. Moral Rights
-
-**(a) Waiver Where Possible.** To the extent moral rights (attribution, integrity, publicity, privacy, or similar personality rights) subsist in the Work or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waive such rights to the extent permitted by applicable law.
-
-**(b) Non-Assertion Where Waiver Is Not Possible.** Where such a waiver is not permitted, the Contributor or Licensor instead agrees not to assert such rights against You for so long as You exercise the rights granted under this License.
-
-**(c) Scope.** This Section does not waive moral rights held against any person other than You, nor moral rights in any work other than the Work or that Contributor's own Contribution.
-
-**(d) Independence from Termination.** This waiver and non-assertion are not conditioned on, or terminated by, termination of the patent license under Section 3 or any other breach. Termination of the licenses under Sections 0 and 3 does not reinstate any moral rights claim for use occurring before termination.
-
-**(e) Successors.** This waiver and non-assertion are intended, to the extent permitted by law, to bind the relevant party's successors, heirs, and assigns.
-
-**(f) Contributions.** Submission of a Contribution under Section 7 constitutes agreement to this Section with respect to that Contribution, on the same terms as apply to the Licensor.
-
----
-
-**END OF TERMS AND CONDITIONS**
-
----
-
-## APPENDIX A: How to Apply This License to Your Work
-
-Include a copy of this License, typically in a file named LICENSE, with Your Software.
-
-To apply this License to specific files, attach the following notice, replacing the bracketed fields with Your own information (omit the brackets). Enclose the text in comment syntax appropriate to the file format. You may also include the file or class name and a brief description on the same page, to aid identification in third-party archives.
-
-```
-
-Copyright © [yyyy] [name of copyright owner]
-
-The Conversion Date is as specified in Appendix B of the LICENSE file
-accompanying this Software. On and after that date, additional permissions
-described in Section 8 (Grant of Future License) of the License apply,
-including the option described in Section 8 to instead comply with the
-Apache License, Version 2.0, reproduced in Appendix D.
-
-Licensed under this License (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License in the LICENSE file accompanying
-this Software.
-
-Unless required by applicable law or agreed to in writing, the Software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+APPENDIX A: Conversion Date
 
 Conversion Date: ${YYYY-MM-DD}T00:00:00Z
 
-```
+Replace ${YYYY-MM-DD} with the actual calendar date (year-month-day, e.g., 2030-01-01) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
 
-Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., 2030-01-01) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
+APPENDIX B: The Apache License
 
-Before publishing this License, replace:
 
-- `${year}`: the year of first publication.
-- `${licensor name}`: the name of the copyright owner or licensing entity.
-- `${YYYY-MM-DD}` in Appendix B: the Conversion Date.
-
-When applying the per-file notice, also replace `[yyyy]` and `[name of copyright owner]` accordingly.
-
-### Guidance (non-binding)
-
-This guidance helps You apply this License consistently. It is explanatory only and does not form part of the operative Terms and Conditions, nor create, waive, or modify any right or obligation. None of the specific mechanisms below are mandatory.
-
-- **Centralized Conversion Date.** By default, each file points to the single Conversion Date in Appendix B, so updating the LICENSE file updates the date everywhere.
-- **Per-file Conversion Date (optional).** You may instead state an actual Conversion Date directly in a file. If it differs from Appendix B, the file's stated date controls for that file.
-- **Multiple LICENSE files.** If the Software is bundled with other software under this or a similar license with its own LICENSE file, You may rename each LICENSE file (e.g., LICENSE-OCEL, LICENSE-THIRDPARTY) so the names do not collide, making clear which file's Conversion Date governs which files.
-- **Apache License election (Appendix D).** Appendix D reproduces the Apache License, Version 2.0 in full so that a recipient who elects, on or after the Conversion Date, to proceed under the Apache License per Section 8 has immediate access to its complete, unmodified text without needing to obtain it elsewhere. Including Appendix D does not itself trigger the election; the election is only made when a recipient affirmatively chooses it under Section 8, and only on or after the Conversion Date.
-
-## APPENDIX B: Conversion Date
-
-**Conversion Date:** ${YYYY-MM-DD}T00:00:00Z
-
-Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., 2030-01-01) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
-
-## APPENDIX C: Default Copyright Notice for Contributions
-
-```
-
-Copyright © Contributor
-
-```
-
-**Automatic application.** This notice form applies automatically, without further action by the Licensor, the Contributor, or any other party.
-
-**Underlying attribution still required.** The generic designation "Contributor" in this default notice governs only the form of the notice as displayed; it does not excuse a Contributor from providing an identifiable name for legal purposes. Every Contributor must still supply, and remain identifiable by, a legal entity name, a personal legal name, or a pseudonym, for purposes of copyright ownership, licensing, and enforcement under this License, whether or not that name is displayed in the notice itself.
-
-**Optional manual addition.** You may, if You wish, manually add this notice into the modified Source Code or a NOTICE file yourself; doing so is permitted but not mandatory. This Appendix is provided for convenience and does not itself create, waive, expand, or narrow any right or obligation set forth in Sections 0 through 11.
-
-## APPENDIX D: Alternative License (Apache License, Version 2.0)
-
-This Appendix reproduces the Apache License, Version 2.0, in full and without modification. It is provided so that a recipient who elects under Section 8, on or after the Conversion Date, to exercise rights in the Software under the Apache License instead of this License has immediate access to its complete, verbatim text. Reproduction of this text here does not itself apply the Apache License to the Software; it applies only upon a recipient's affirmative election under Section 8, and only on or after the Conversion Date. As provided in Section 8 and Section 9, a recipient making that election satisfies the Apache License's own requirement to furnish each further recipient a copy of the Apache License by providing a copy of, or a link to, this License, so long as that copy or link includes this Appendix D intact and unaltered; a separate, standalone copy of the Apache License is not required.
-
-```
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -508,4 +260,3 @@ This Appendix reproduces the Apache License, Version 2.0, in full and without mo
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-```
