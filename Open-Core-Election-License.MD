@@ -1,74 +1,81 @@
-Copyright (c) [Year] [name of copyright holder]
+# Open Core Election License (OCEL)
+
+**Copyright (c) [Year] [name of copyright holder]**
 
 [Software Name] is licensed under the Open Core Election License (this "License"). You may use this Software according to the terms and conditions of the License.
 
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. See the License for more details.
+> THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. See the License for more details.
 
 Your reproduction, use, modification, and distribution of the Software are subject to this License, with the following terms and conditions:
 
-0. Definitions
+## 0. Definitions
 
-"Software" means the program and related documents that are licensed under this License and comprise all Contribution(s).
+**"Software"** means the program and related documents that are licensed under this License and comprise all Contribution(s).
 
-"Contribution" means the copyrightable work licensed by a particular Contributor under this License.
+**"Contribution"** means the copyrightable work licensed by a particular Contributor under this License.
 
-"Contributor" means the individual or Legal Entity that licenses its copyrightable work under this License.
+**"Contributor"** means the individual or Legal Entity that licenses its copyrightable work under this License.
 
-"Legal Entity" means the entity making a Contribution and all its Affiliates.
+**"Legal Entity"** means the entity making a Contribution and all its Affiliates.
 
-"Affiliates" means entities that control, are controlled by, or are under common control with the acting entity under this License; "control" means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital, or other securities of the controlled or commonly controlled entity.
+**"Affiliates"** means entities that control, are controlled by, or are under common control with the acting entity under this License; "control" means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital, or other securities of the controlled or commonly controlled entity.
 
-"You" (or "Your") means the individual or Legal Entity exercising permissions granted by this License.
+**"You"** (or **"Your"**) means the individual or Legal Entity exercising permissions granted by this License.
 
-"Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
+**"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B, together with the additional permission set forth in Appendix C. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text as supplemented by Appendix C.
 
-"Conversion Date" means the date and time set forth in Appendix A, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License as set forth in Section 6 (Grant of Future License).
+**"Conversion Date"** means the date and time set forth in Appendix A, expressed in the format `${YYYY-MM-DD}T00:00:00Z` (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License as set forth in Section 6 (Grant of Future License).
 
-1. Grant of Copyright License and Patent License
+## 1. Grant of Copyright License and Patent License
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute its Contribution, with or without modification.
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import, or otherwise transfer its Contribution, where such patent license is limited only to the patent claims owned or controlled by such Contributor, now or in the future, that are necessarily infringed by its Contribution alone or by combination of the Contribution with the Software to which the Contribution was contributed. The patent license does not apply to any modification of the Contribution, or to any other combination that includes the Contribution. If You or Your Affiliates directly or indirectly institute patent litigation (including a cross-claim or counterclaim in a lawsuit) or other patent enforcement activity against any individual or entity alleging that the Software or any Contribution in it infringes patents, then any patent license granted to You under this License for the Software terminates as of the date such litigation or activity is filed or taken.
 
-2. Restriction on Sale
+## 2. Restriction on Sale
 
 Without limiting the other conditions of this License, the rights granted under this License do not include, and this License does not grant to You, the right to Sell the Software.
 
-For purposes of the foregoing, "Sell" means practicing any or all of the rights granted to You under this License to provide to third parties, for a fee or other consideration (including, without limitation, fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
+For purposes of the foregoing, **"Sell"** means practicing any or all of the rights granted to You under this License to provide to third parties, for a fee or other consideration (including, without limitation, fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
 
-3. No Trademark License
+## 3. No Trademark License
 
 No trademark license is granted to use the trade names, trademarks, service marks, or product names of any Contributor, except as required to fulfill the notice requirements in Section 4.
 
-4. Distribution Restriction
+## 4. Distribution Restriction
 
 You may distribute the Software in any medium, with or without modification, whether in source or executable form, provided that You provide recipients with a copy of this License and retain the copyright, patent, trademark, and disclaimer statements in the Software.
 
-5. Disclaimer of Warranty and Limitation of Liability
+## 5. Disclaimer of Warranty and Limitation of Liability
 
-THE SOFTWARE AND THE CONTRIBUTIONS IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR OR COPYRIGHT HOLDER BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE OR THE CONTRIBUTIONS IN IT, NO MATTER HOW CAUSED OR ON WHAT LEGAL THEORY BASED, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+> THE SOFTWARE AND THE CONTRIBUTIONS IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR OR COPYRIGHT HOLDER BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF, OR INABILITY TO USE, THE SOFTWARE OR THE CONTRIBUTIONS IN IT, NO MATTER HOW CAUSED OR ON WHAT LEGAL THEORY BASED, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-6. Grant of Future License
+## 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, and distribution of the Software is governed solely by the Apache License; You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
+On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants to You the Apache License (as defined in Section 0, comprising Appendix B and the additional permission in Appendix C), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, and distribution of the Software is governed solely by the Apache License; You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
 
-7. Governing Law
+## 7. Governing Law
 
 This License is governed by and construed in accordance with the laws of [Governing Jurisdiction], without regard to its conflict of laws principles.
 
-8. Severability
+## 8. Severability
 
 If any provision of this License is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.
 
-APPENDIX A: Conversion Date
+---
 
-Conversion Date: ${YYYY-MM-DD}T00:00:00Z
+## Appendix A: Conversion Date
 
-Replace ${YYYY-MM-DD} with the actual calendar date (year-month-day, e.g., 2030-01-01) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
+**Conversion Date:** `${YYYY-MM-DD}T00:00:00Z`
 
-APPENDIX B: The Apache License
+Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `2030-01-01`) on which the Conversion Date is to take effect; it becomes effective at midnight UTC (00:00:00Z) on that date.
+
+---
+
+## Appendix B: The Apache License
 
 
+```
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -270,3 +277,22 @@ APPENDIX B: The Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+```
+---
+
+## Appendix C: Additional Permission (Exception to Apache License Section 4(b))
+
+This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License reproduced in Appendix B. This additional permission supplements, and does not otherwise modify, the Apache License; the Apache License continues to apply in full except as expressly stated below.
+
+Notwithstanding Section 4(b) of the Apache License, You are not required to cause each modified file to carry a prominent notice stating that You changed that file, provided that You include, in a location reasonably likely to be seen by recipients of the Derivative Works (such as a NOTICE file, README, or comparable accompanying documentation), the following notice:
+
+```
+This [Software Name] includes material originally licensed under
+the Apache License, Version 2.0, that has been modified from the
+original. A copy of the Apache License is available at
+http://www.apache.org/licenses/LICENSE-2.0.
+```
+
+All other conditions of Section 4 of the Apache License, including Sections 4(a), 4(c), and 4(d), remain in effect without modification.
+
+
