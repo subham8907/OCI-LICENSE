@@ -47,7 +47,7 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 If You or any of Your Affiliates directly or indirectly institute any patent litigation, including any cross-claim or counterclaim in a lawsuit, or engage in any other patent enforcement activity against any individual or entity alleging that the Software or any Contribution incorporated in it infringes any patent, then all patent licenses granted to You under this License with respect to the Software terminate automatically as of the date on which such litigation or activity is filed or commenced.
 
 For the avoidance of doubt, the licenses granted under this Section remain effective until the Conversion Date specified in Appendix A, unless terminated earlier in accordance with this License. As of the Conversion Date, the licenses granted under this Section are superseded by, and the rights granted under them continue without interruption under, the Apache License, in accordance with Section 6.
----
+
 
 ## 2. Restrictions on Use
 
