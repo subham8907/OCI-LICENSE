@@ -1,8 +1,8 @@
-# Open Core Election License (OCEL)
+# Open Core License, Rev. 1.0
 
 **Copyright (c) [Year] [Name of Copyright Holder]**
 
-[Software Name] is licensed under the Open Core Election License (this "License"). You may use this Software according to the terms and conditions of the License.
+[Software Name] is licensed under the Open Core License, Rev. 1.0 (this "License"). You may use this Software according to the terms and conditions of the License.
 
 > THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. See the License for more details.
 
