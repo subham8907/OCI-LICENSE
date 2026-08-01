@@ -348,6 +348,8 @@ Definitions
 
 "Successor" means, as the context requires: (i) any transferee of copyright or patent rights described in subsection (a) below; (ii) the estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or (iii) any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below. Where this Section or the Moral Rights section below refers to a party's "successors, heirs, and assigns," that phrase refers to that party's Successor(s), together with the heirs and assigns of any such Successor.
 
+List of additional permissions
+
 Binding Effect; Survival of Licenses Upon Transfer, Death, or Dissolution
 
 The Apache License, Version 2.0, including the licenses granted under Sections 2 and 3,
