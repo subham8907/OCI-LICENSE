@@ -20,6 +20,8 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 "Affiliates" means entities that control, are controlled by, or are under common control with the acting entity under this License; "control" means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital, or other securities of the controlled or commonly controlled entity.
 
+"You" (or "Your") means the individual or Legal Entity exercising permissions granted by this License.
+
 "Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
 "Conversion Date" means the date and time set forth in Appendix A, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 6 (Grant of Future License) become effective.
@@ -50,7 +52,15 @@ THE SOFTWARE AND THE CONTRIBUTIONS IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY 
 
 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, each Contributor hereby unambiguously and irrevocably grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party.
+On and after the Conversion Date set forth in Appendix A, each Contributor hereby unambiguously and irrevocably grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party. To the extent You exercise the Software under the Apache License, the restriction on Sale set forth in Section 2 does not apply to that exercise; the Apache License otherwise governs Your rights and obligations independently of this License.
+
+7. Governing Law
+
+This License is governed by and construed in accordance with the laws of [Governing Jurisdiction], without regard to its conflict of laws principles.
+
+8. Severability
+
+If any provision of this License is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.
 
 APPENDIX A: Conversion Date
 
