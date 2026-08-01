@@ -317,19 +317,17 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 ```
 
 ---
-## Appendix C: Additional Permission (Exception to Apache License, Version 2.0)
+# Appendix C: Additional Permission (Exception to Apache License, Version 2.0)
 
-This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, as reproduced in Appendix B. This additional permission supplements the Apache License in full, except as expressly stated below.
+This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, as reproduced in Appendix B. Unless the context requires otherwise, all words and expressions used in this License shall be interpreted in accordance with the Apache License as defined in Section 0. This additional permission supplements the Apache License in full, except as expressly stated below.
 
 The content set forth below constitutes the notice that may be included in a notice file. The notice file may be created under any name and in any format or medium, provided that the content below is reproduced accurately and clearly identifies the Software to which this Appendix C applies.
 
 ```
-
 This work is originally licensed under the Apache License, Version 2.0. A copy of the Apache License is available at:
 
 http://www.apache.org/licenses/LICENSE-2.0
 
-Unless the context requires otherwise, all words and expressions used in this License shall be interpreted in accordance with the Apache License as defined in Section 0.:
 The Licensor hereby grants You an exception from the requirement to comply with Section 4(b).
 
 Binding Effect; Survival of Licenses Upon Transfer, Death, or Dissolution
