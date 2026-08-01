@@ -320,4 +320,3 @@ http://www.apache.org/licenses/LICENSE-2.0. The Licensor hereby
 grants You an exception from complying with Section 4(b).
 ```
 
-All other conditions of Section 4 of the Apache License, including Sections 4(a), 4(c), and 4(d), remain in effect without modification.
