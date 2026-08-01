@@ -320,6 +320,8 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 
 This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, reproduced in Appendix B. This additional permission supplements, and does not otherwise modify, the Apache License; the Apache License continues to apply in full except as expressly stated below.
 
+Reliance on this additional permission is optional. You may choose to rely on it, or You may instead comply with Section 4(b) of the Apache License in the manner it ordinarily requires, at Your election. Declining to rely on this additional permission does not waive it, and You may rely on it at any later time.
+
 Notwithstanding Section 4(b) of the Apache License, Version 2.0, You are not required to cause each modified file to include a prominent notice stating that You have changed that file, provided that You include, in a location reasonably likely to be seen by recipients of the Derivative Works (such as a NOTICE file, README file, or comparable accompanying documentation, regardless of its name or format), the following notice:
 
 ```
@@ -328,7 +330,8 @@ Version 2.0, which has been modified from the original. A copy of the
 Apache License is available at http://www.apache.org/licenses/LICENSE-2.0.
 
 The Licensor hereby grants You an exception from complying with
-Section 4(b).
+Section 4(b). Reliance on this exception is optional; You may instead
+comply with Section 4(b) in the ordinary manner.
 
 Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
@@ -436,7 +439,8 @@ copy of the Apache License is available at
 http://www.apache.org/licenses/LICENSE-2.0.
 
 The Licensor hereby grants You an exception from complying with
-Section 4(b).
+Section 4(b). Reliance on this exception is optional; You may instead
+comply with Section 4(b) in the ordinary manner.
 
 Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
