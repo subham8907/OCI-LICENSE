@@ -1,5 +1,3 @@
-Open Core Election License
-
 Copyright (c) [Year] [name of copyright holder]
 
 [Software Name] is licensed under the Open Core Election License (this "License"). You may use this Software according to the terms and conditions of the License.
@@ -24,7 +22,7 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 "Apache License" means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
-"Conversion Date" means the date and time set forth in Appendix A, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which the additional permissions granted under Section 6 (Grant of Future License) become effective.
+"Conversion Date" means the date and time set forth in Appendix A, expressed in the format ${YYYY-MM-DD}T00:00:00Z (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License as set forth in Section 6 (Grant of Future License).
 
 1. Grant of Copyright License and Patent License
 
@@ -52,7 +50,7 @@ THE SOFTWARE AND THE CONTRIBUTIONS IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY 
 
 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, each Contributor hereby unambiguously and irrevocably grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party. To the extent You exercise the Software under the Apache License, the restriction on Sale set forth in Section 2 does not apply to that exercise; the Apache License otherwise governs Your rights and obligations independently of this License.
+On and after the Conversion Date set forth in Appendix A, all provisions of this License automatically and irrevocably cease to apply, and each Contributor instead grants to You the license set forth in Appendix B (the Apache License), effective automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, and distribution of the Software is governed solely by the Apache License; You must provide recipients with a copy of the Apache License and otherwise comply with its terms, including its redistribution and notice requirements.
 
 7. Governing Law
 
