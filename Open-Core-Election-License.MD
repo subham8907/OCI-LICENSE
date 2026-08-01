@@ -303,10 +303,21 @@ This Appendix C sets forth an additional permission granted by each Contributor 
 Notwithstanding Section 4(b) of the Apache License, You are not required to cause each modified file to carry a prominent notice stating that You changed that file, provided that You include, in a location reasonably likely to be seen by recipients of the Derivative Works (such as a NOTICE file, README, or comparable accompanying documentation), the following notice:
 
 ```
-This [Software Name] includes material originally licensed under
-the Apache License, Version 2.0, that has been modified from the
-original. A copy of the Apache License is available at
-http://www.apache.org/licenses/LICENSE-2.0.
+This Work is originally licensed under the Apache License, Version
+2.0, which has been modified from the original. A copy of the
+Apache License is available at http://www.apache.org/licenses/LICENSE-2.0.
+The Licensor hereby grants You an exception from complying with
+Section 4(b).
+```
+
+For example, if [Software Name] were "Example Platform," the notice as it would appear in a NOTICE file or README might read:
+
+```
+This Example Platform is originally licensed under the Apache
+License, Version 2.0, which has been modified from the original. A
+copy of the Apache License is available at
+http://www.apache.org/licenses/LICENSE-2.0. The Licensor hereby
+grants You an exception from complying with Section 4(b).
 ```
 
 All other conditions of Section 4 of the Apache License, including Sections 4(a), 4(c), and 4(d), remain in effect without modification.
