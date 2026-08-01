@@ -1,3 +1,5 @@
+Open Core Election License
+
 Copyright (c) [Year] [name of copyright holder]
 
 [Software Name] is licensed under the Open Core Election License (this "License"). You may use this Software according to the terms and conditions of the License.
