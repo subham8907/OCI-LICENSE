@@ -308,9 +308,64 @@ This [Software Name] is originally licensed under the Apache License, Version
 Apache License is available at http://www.apache.org/licenses/LICENSE-2.0.
 The Licensor hereby grants You an exception from complying with
 Section 4(b).
+Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
+
+This License and the licenses under Section 1 run with the copyright and patent rights in the Software and each Contribution, and bind the Licensor, each Contributor, and their successors, heirs, and assigns. No event described below diminishes, suspends, or terminates any license already granted to You.
+
+(a) Transfer of Rights.
+
+A sale, assignment, or other transfer of copyright or patent rights does not terminate or impair any license already granted. A transferee takes the Software subject to previously granted rights, and succeeds to the transferring party's rights and obligations under this License.
+
+(b) Death.
+
+Where the Licensor or a Contributor is a natural person, their death does not terminate this License; it continues to bind, and its rights and obligations pass to, their estate, heirs, and successors.
+
+(c) Merger, Dissolution, or Reorganization.
+
+Where the Licensor or a Contributor is a Legal Entity, its merger, dissolution, bankruptcy, reorganization, or change of control does not terminate this License; it continues to bind, and its rights and obligations pass to, any successor or acquirer.
+
+(d) No Renegotiation.
+
+A successor takes the Software subject to this License as in effect at the time of the relevant event, and may not unilaterally revoke, narrow, or add conditions to any license already granted.
+
+(e) Retention of Copyright Notice Upon Succession.
+
+A successor may update or add to the copyright notice in the Software's header, NOTICE file, or source code to reflect its own succession, consistent with this Section and subsection (c) above, but may not demand or compel You to alter, remove, or restate any notice on its behalf. Declining such a demand is not a breach of this License. This does not prevent a successor from adding its own attribution notice without displacing the original.
+
+(f) Retention of Trademark, Patent, and Other Notices Upon Succession.
+
+Subsection (e) applies equally to trademark, patent, and other attribution notices. Nothing here expands or narrows the trademark rights under Section 3 or the patent rights under Section 1; it governs only notice retention and updating.
+
+
+Moral Rights
+
+(a) Waiver Where Possible.
+
+To the extent moral rights (including attribution, integrity, publicity, privacy, or similar personality rights) subsist in the Software or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waive such rights to the extent permitted by applicable law.
+
+(b) Non-Assertion Where Waiver Is Not Possible.
+
+Where such a waiver is not permitted, the Contributor or Licensor instead agrees not to assert such rights against You for so long as You exercise the rights granted under this License.
+
+(c) Scope.
+
+This Section does not waive moral rights held against any person other than You, nor moral rights in any work other than the Software or that Contributor's own Contribution.
+
+(d) Independence from Termination.
+
+This waiver and non-assertion are not conditioned on, or terminated by, termination of the patent license under Section 1 or any other breach. Termination of the licenses under Section 1 does not reinstate any moral rights claim for use occurring before termination.
+
+(e) Successors.
+
+This waiver and non-assertion are intended, to the extent permitted by law, to bind the relevant party's successors, heirs, and assigns.
+
+(f) Contributions.
+
+Submission of a Contribution constitutes agreement to this Section with respect to that Contribution, on the same terms as apply to the Licensor.
 ```
 
 For example, if [Software Name] were "Example Platform," the notice as it would appear in a NOTICE file or README might read:
+```
 This Example Platform is originally licensed under the Apache
 License, Version 2.0, which has been modified from the original. A
 copy of the Apache License is available at
@@ -319,97 +374,59 @@ http://www.apache.org/licenses/LICENSE-2.0.
 The Licensor hereby grants You an exception from complying with
 Section 4(b).
 
-## Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
+Binding Effect; Survival of License Upon Transfer, Death, or Dissolution
 
-This License and the licenses under Section 2 and Section 3 of the
-Apache License in the Software and each Contribution bind the Licensor,
-each Contributor, and their successors, heirs, and assigns. No event
-described below diminishes, suspends, or terminates any license already
-granted to You.
+This License and the licenses under Section 1 run with the copyright and patent rights in the Software and each Contribution, and bind the Licensor, each Contributor, and their successors, heirs, and assigns. No event described below diminishes, suspends, or terminates any license already granted to You.
 
-### (a) Transfer of Rights.
+(a) Transfer of Rights.
 
-A sale, assignment, or other transfer of copyright or patent rights does
-not terminate or impair any license already granted. A transferee takes
-the Software subject to previously granted rights and succeeds to the
-transferring party's rights and obligations under this License.
+A sale, assignment, or other transfer of copyright or patent rights does not terminate or impair any license already granted. A transferee takes the Software subject to previously granted rights, and succeeds to the transferring party's rights and obligations under this License.
 
-### (b) Death.
+(b) Death.
 
-Where the Licensor or a Contributor is a natural person, their death does
-not terminate this License. It continues to bind, and its rights and
-obligations pass to, their estate, heirs, and successors.
+Where the Licensor or a Contributor is a natural person, their death does not terminate this License; it continues to bind, and its rights and obligations pass to, their estate, heirs, and successors.
 
-### (c) Merger, Dissolution, or Reorganization.
+(c) Merger, Dissolution, or Reorganization.
 
-Where the Licensor or a Contributor is a Legal Entity, its merger,
-dissolution, bankruptcy, reorganization, or change of control does not
-terminate this License. It continues to bind, and its rights and
-obligations pass to, any successor or acquirer.
+Where the Licensor or a Contributor is a Legal Entity, its merger, dissolution, bankruptcy, reorganization, or change of control does not terminate this License; it continues to bind, and its rights and obligations pass to, any successor or acquirer.
 
-### (d) No Renegotiation.
+(d) No Renegotiation.
 
-A successor takes the Software subject to this License as in effect at
-the time of the relevant event and may not unilaterally revoke, narrow,
-or add conditions to any license already granted.
+A successor takes the Software subject to this License as in effect at the time of the relevant event, and may not unilaterally revoke, narrow, or add conditions to any license already granted.
 
-### (e) Retention of Copyright Notice Upon Succession.
+(e) Retention of Copyright Notice Upon Succession.
 
-A successor may update or add to the copyright notice in the Software's
-header, NOTICE file, or source code to reflect its own succession,
-consistent with this Section and subsection (c) above. However, it may
-not demand or compel You to alter, remove, or restate any notice on its
-behalf.
+A successor may update or add to the copyright notice in the Software's header, NOTICE file, or source code to reflect its own succession, consistent with this Section and subsection (c) above, but may not demand or compel You to alter, remove, or restate any notice on its behalf. Declining such a demand is not a breach of this License. This does not prevent a successor from adding its own attribution notice without displacing the original.
 
-Declining such a demand is not a breach of this License. This does not
-prevent a successor from adding its own attribution notice without
-displacing the original.
+(f) Retention of Trademark, Patent, and Other Notices Upon Succession.
 
-### (f) Retention of Trademark, Patent, and Other Notices Upon Succession.
+Subsection (e) applies equally to trademark, patent, and other attribution notices. Nothing here expands or narrows the trademark rights under Section 3 or the patent rights under Section 1; it governs only notice retention and updating.
 
-Subsection (e) applies equally to trademark, patent, and other
-attribution notices. Nothing in this Section expands or narrows the
-trademark rights under Section 3 or the patent rights under Section 1.
-It governs only notice retention and updating.
 
----
+Moral Rights
 
-# Moral Rights
+(a) Waiver Where Possible.
 
-### (a) Waiver Where Possible.
+To the extent moral rights (including attribution, integrity, publicity, privacy, or similar personality rights) subsist in the Software or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waive such rights to the extent permitted by applicable law.
 
-To the extent moral rights (including attribution, integrity, publicity,
-privacy, or similar personality rights) subsist in the Software or a
-Contribution and would otherwise be exercisable against You, each
-Contributor and the Licensor waive such rights to the extent permitted
-by applicable law.
+(b) Non-Assertion Where Waiver Is Not Possible.
 
-### (b) Non-Assertion Where Waiver Is Not Possible.
+Where such a waiver is not permitted, the Contributor or Licensor instead agrees not to assert such rights against You for so long as You exercise the rights granted under this License.
 
-Where such a waiver is not permitted, the Contributor or Licensor
-instead agrees not to assert such rights against You for so long as You
-exercise the rights granted under this License.
+(c) Scope.
 
-### (c) Scope.
+This Section does not waive moral rights held against any person other than You, nor moral rights in any work other than the Software or that Contributor's own Contribution.
 
-This Section does not waive moral rights held against any person other
-than You, nor does it waive moral rights in any work other than the
-Software or that Contributor's own Contribution.
+(d) Independence from Termination.
 
-### (d) Independence from Termination.
+This waiver and non-assertion are not conditioned on, or terminated by, termination of the patent license under Section 1 or any other breach. Termination of the licenses under Section 1 does not reinstate any moral rights claim for use occurring before termination.
 
-This waiver and non-assertion are not conditioned on, or terminated by,
-termination of the patent license under Section 1 or any other breach.
-Termination of the licenses under Section 1 does not reinstate any moral
-rights claim for use occurring before termination.
+(e) Successors.
 
-### (e) Successors.
+This waiver and non-assertion are intended, to the extent permitted by law, to bind the relevant party's successors, heirs, and assigns.
 
-This waiver and non-assertion are intended, to the extent permitted by
-law, to bind the relevant party's successors, heirs, and assigns.
+(f) Contributions.
 
-### (f) Contributions.
+Submission of a Contribution constitutes agreement to this Section with respect to that Contribution, on the same terms as apply to the Licensor.
+```
 
-Submission of a Contribution constitutes agreement to this Section with
-respect to that Contribution, on the same terms as apply to the
-Licensor.
