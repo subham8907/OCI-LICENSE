@@ -300,7 +300,7 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 
 This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License reproduced in Appendix B. This additional permission supplements, and does not otherwise modify, the Apache License; the Apache License continues to apply in full except as expressly stated below.
 
-Notwithstanding Section 4(b) of the Apache License, You are not required to cause each modified file to carry a prominent notice stating that You changed that file, provided that You include, in a location reasonably likely to be seen by recipients of the Derivative Works (such as a NOTICE file, README, or comparable accompanying documentation), the following notice:
+Notwithstanding Section 4(b) of the Apache License, You are not required to cause each modified file to include a prominent notice stating that You have changed that file, provided that You include, in a location reasonably likely to be seen by recipients of the Derivative Works (such as a NOTICE file, README file, or comparable accompanying documentation, regardless of its name or format), the following notice:
 
 ```
 This Work is originally licensed under the Apache License, Version
