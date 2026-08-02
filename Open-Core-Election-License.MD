@@ -104,7 +104,7 @@ No Successor may prevent, revoke, delay, or otherwise impair the conversion desc
 For the avoidance of doubt, the additional permission set forth in Appendix C shall be optional after the Conversion Date. After conversion, You may comply solely with the Apache License, as defined in Section 0, without relying on the additional permission set forth in Appendix C.
 
 The provisions of this Section shall apply equally to all Derivative Works and any works specified in Section 2(d) that were created before the Conversion Date set forth in Appendix A.
----
+
 
 ## 7. Governing Law
 
