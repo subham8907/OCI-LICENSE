@@ -106,13 +106,7 @@ For the avoidance of doubt, the additional permission set forth in Appendix C sh
 The provisions of this Section shall apply equally to all Derivative Works and any works specified in Section 2(d) that were created before the Conversion Date set forth in Appendix A.
 
 
-## 7. Governing Law
-
-This License is governed by and construed in accordance with the laws of the jurisdiction of the applicable Contributor, without regard to its conflict of laws principles.
-
-
-
-## 8. Severability
+## 7. Severability
 
 If any provision of this License is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.
 
