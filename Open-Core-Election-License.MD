@@ -360,13 +360,36 @@ shall be interpreted in accordance with the Apache License, Version 2.0.
 
 "Successor" means, as the context requires, any of the following:
 
-(a) Assignees and Transferees of IP Rights. Any person or Legal Entity that acquires, in whole or in part, by assignment, transfer, exclusive license, operation of law, court order, or otherwise, any copyright, patent, or other intellectual property right held by a Licensor or Contributor in or relating to the Work or a Contribution — excluding, for the avoidance of doubt, any non-exclusive licensee who acquires no greater rights than those already granted under this Agreement;
+(a) Assignees and Transferees of IP Rights. Any person or Legal
+    Entity that acquires, in whole or in part, by assignment,
+    transfer, exclusive license, operation of law, court order, or
+    otherwise, any copyright, patent, or other intellectual property
+    right held by a Licensor or Contributor in or relating to the
+    Work or a Contribution — excluding, for the avoidance of doubt,
+    any non-exclusive licensee who acquires no greater rights than
+    those already granted under this Agreement;
 
-(b) Successors of Natural Persons. If a Licensor or Contributor is a natural person, that person's estate, heirs, executors, administrators, personal representatives, guardians, conservators, trustees, beneficiaries, or other lawful successors or assigns, whether arising by will, intestate succession, trust instrument, court order, incapacity, or otherwise;
+(b) Successors of Natural Persons. If a Licensor or Contributor is a
+    natural person, that person's estate, heirs, executors,
+    administrators, personal representatives, guardians,
+    conservators, trustees, beneficiaries, or other lawful successors
+    or assigns, whether arising by will, intestate succession, trust
+    instrument, court order, incapacity, or otherwise;
 
-(c) Successors of Legal Entities. Any person or Legal Entity that succeeds to, acquires, assumes, or continues all or substantially all of the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, whether by merger, acquisition, consolidation, amalgamation, reorganization, recapitalization, conversion, division, spin-off, sale or transfer of substantially all assets, dissolution, liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by any other transaction or series of related transactions having a similar effect;
+(c) Successors of Legal Entities. Any person or Legal Entity that
+    succeeds to, acquires, assumes, or continues all or substantially
+    all of the rights, assets, obligations, business, or legal
+    interests of a Licensor or Contributor that is a Legal Entity,
+    whether by merger, acquisition, consolidation, amalgamation,
+    reorganization, recapitalization, conversion, division, spin-off,
+    sale or transfer of substantially all assets, dissolution,
+    liquidation, bankruptcy, insolvency proceeding, or Change of
+    Control, or by any other transaction or series of related
+    transactions having a similar effect;
 
-(d) Chain of Title. Any Successor (under any of the foregoing clauses) of a Successor, without limitation as to the number of intervening transfers or remoteness in time.
+(d) Chain of Title. Any Successor (under any of the foregoing
+    clauses) of a Successor, without limitation as to the number of
+    intervening transfers or remoteness in time.
 
 For purposes of this definition, "Change of Control" means any transaction or series of related transactions resulting in a person or group acquiring, directly or indirectly, the power to direct the management or policies of an entity, whether through ownership of voting securities, contract, or otherwise.
 
