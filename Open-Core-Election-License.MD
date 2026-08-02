@@ -14,15 +14,12 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"Software"** means the program and related documents that are licensed under this License and comprise all Contribution(s).
 
-"Successor" means, as the context requires, any of the following:
+**"Successor"** means, as the context requires, any of the following:
 
-(a) Assignees and Transferees of IP Rights. Any person or Legal Entity that acquires, in whole or in part, by assignment, transfer, exclusive license, operation of law, court order, or otherwise, any copyright, patent, or other intellectual property right held by a Licensor or Contributor in or relating to the Work or a Contribution — excluding, for the avoidance of doubt, any non-exclusive licensee who acquires no greater rights than those already granted under this Agreement;
-
-(b) Successors of Natural Persons. If a Licensor or Contributor is a natural person, that person's estate, heirs, executors, administrators, personal representatives, guardians, conservators, trustees, beneficiaries, or other lawful successors or assigns, whether arising by will, intestate succession, trust instrument, court order, incapacity, or otherwise;
-
-(c) Successors of Legal Entities. Any person or Legal Entity that succeeds to, acquires, assumes, or continues all or substantially all of the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, whether by merger, acquisition, consolidation, amalgamation, reorganization, recapitalization, conversion, division, spin-off, sale or transfer of substantially all assets, dissolution, liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by any other transaction or series of related transactions having a similar effect;
-
-(d) Chain of Title. Any Successor (under any of the foregoing clauses) of a Successor, without limitation as to the number of intervening transfers or remoteness in time.
+- **(a) Assignees and Transferees of IP Rights.** Any person or Legal Entity that acquires, in whole or in part, by assignment, transfer, exclusive license, operation of law, court order, or otherwise, any copyright, patent, or other intellectual property right held by a Licensor or Contributor in or relating to the Work or a Contribution — excluding, for the avoidance of doubt, any non-exclusive licensee who acquires no greater rights than those already granted under this Agreement;
+- **(b) Successors of Natural Persons.** If a Licensor or Contributor is a natural person, that person's estate, heirs, executors, administrators, personal representatives, guardians, conservators, trustees, beneficiaries, or other lawful successors or assigns, whether arising by will, intestate succession, trust instrument, court order, incapacity, or otherwise;
+- **(c) Successors of Legal Entities.** Any person or Legal Entity that succeeds to, acquires, assumes, or continues all or substantially all of the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, whether by merger, acquisition, consolidation, amalgamation, reorganization, recapitalization, conversion, division, spin-off, sale or transfer of substantially all assets, dissolution, liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by any other transaction or series of related transactions having a similar effect;
+- **(d) Chain of Title.** Any Successor (under any of the foregoing clauses) of a Successor, without limitation as to the number of intervening transfers or remoteness in time.
 
 For purposes of this definition, "Change of Control" means any transaction or series of related transactions resulting in a person or group acquiring, directly or indirectly, the power to direct the management or policies of an entity, whether through ownership of voting securities, contract, or otherwise.
 
@@ -50,8 +47,9 @@ For the avoidance of doubt, no Licensor or Contributor may avoid the obligations
 
 **"Conversion Date"** means the date and time set forth in Appendix A, expressed in the format `${YYYY-MM-DD}T00:00:00Z` (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B, together with any optional additional permissions set forth in Appendix C, as provided in Section 6 (Grant of Future License).
 
+---
 
-# 1. Grant of Copyright License and Patent License
+## 1. Grant of Copyright License and Patent License
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a worldwide, royalty-free, non-exclusive, and irrevocable copyright license, effective until the Conversion Date specified in Appendix A, to reproduce, use, modify, merge, publish, import, export, run, or otherwise transfer or distribute its Contribution, with or without modification in any medium.
 
@@ -73,12 +71,11 @@ Without limiting the other conditions of this License, the rights granted under 
 
 **(c) Leasing the Software.** You may not Lease the Software.
 
-**(d) Restriction on Derivative Works.** Except as expressly permitted under this License, You may create, distribute, or license a Derivative Work of the Software only under this License and subject to the same Conversion Date specified in Appendix A. You may not create, distribute, or license, under different terms, any software based on, derived from, incorporating, or linking to the Software. This License grants no permission to license the Software or any Derivative Work under any other terms. However, nothing in this License limits or invalidates any separate permission or license that You have independently received for material that is not governed by this License.
-The restrictions set forth in this subsection apply only when You redistribute the Software or a Derivative Work, in any medium and in any form, and do not apply to private use, private modifications, or private development that is not redistributed.
+**(d) Restriction on Derivative Works.** Except as expressly permitted under this License, You may create, distribute, or license a Derivative Work of the Software only under this License and subject to the same Conversion Date specified in Appendix A. You may not create, distribute, or license, under different terms, any software based on, derived from, incorporating, or linking to the Software. This License grants no permission to license the Software or any Derivative Work under any other terms. However, nothing in this License limits or invalidates any separate permission or license that You have independently received for material that is not governed by this License. The restrictions set forth in this subsection apply only when You redistribute the Software or a Derivative Work, in any medium and in any form, and do not apply to private use, private modifications, or private development that is not redistributed.
 
 **(e) Circumvention of Technological Protection Measures.** You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
 
-(f) Prohibition on Sublicensing. You may not sublicense the Software.Each time you convey the Software, the recipient automatically receives a license from each Contributor.
+**(f) Prohibition on Sublicensing.** You may not sublicense the Software. Each time you convey the Software, the recipient automatically receives a license from each Contributor.
 
 ---
 
@@ -100,7 +97,6 @@ You may distribute the Software in any medium, with or without modification, whe
 
 ---
 
-
 ## 6. Grant of Future License
 
 On and after the Conversion Date set forth in Appendix A, all provisions of this License shall automatically and irrevocably cease to apply, and each Contributor shall instead grant and transition You to the Apache License, as defined in Section 0, together with the additional permission set forth in Appendix C. Such grant shall take effect automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution, and any other use of the Software shall be governed solely by the Apache License. You must provide recipients with a copy of the Apache License and comply with all of its terms.
@@ -111,6 +107,7 @@ For the avoidance of doubt, the additional permission set forth in Appendix C sh
 
 The provisions of this Section shall apply equally to all Derivative Works and any works specified in Section 2(d) that were created before the Conversion Date set forth in Appendix A.
 
+---
 
 ## 7. Severability
 
@@ -129,6 +126,7 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 ## Appendix B: The Apache License
 
 The Apache License file may be created under any name and in any format or medium, provided that the content below is reproduced accurately.
+
 ```
                                  Apache License
                            Version 2.0, January 2004
@@ -337,7 +335,7 @@ The Apache License file may be created under any name and in any format or mediu
 
 ## Appendix C: Additional Permission (Exception to Apache License, Version 2.0)
 
-This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, as reproduced in Appendix B. 
+This Appendix C sets forth an additional permission granted by each Contributor with respect to the Apache License, Version 2.0, as reproduced in Appendix B.
 This additional permission supplements the Apache License in full, except as expressly stated below.
 
 The content set forth below constitutes the notice that may be included in a notice file.
