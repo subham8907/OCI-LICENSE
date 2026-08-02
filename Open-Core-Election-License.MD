@@ -344,7 +344,7 @@ The notice file may be created under any name and in any format or medium, provi
 ```
 License Exception
 
-This work is originally licensed under the Apache License, Version 2.0.
+This Work is originally licensed under the Apache License, Version 2.0.
 
 A copy of the Apache License is available at:
 
@@ -364,7 +364,7 @@ Additional Permissions and Grants
 
 1. Binding Effect; Survival of Licenses Upon Transfer, Death, or Dissolution
 
-The Apache License, Version 2.0, including the licenses granted under Sections 2 and 3, runs with the copyright and patent rights in the Software and each Contribution and binds the Licensor, each Contributor, and their respective successors, heirs, and assigns.
+The Apache License, Version 2.0, including the licenses granted under Sections 2 and 3, runs with the copyright and patent rights in the Work and each Contribution and binds the Licensor, each Contributor, and their respective successors, heirs, and assigns.
 
 None of the events described below diminishes, suspends, or terminates any license previously granted to You.
 
@@ -372,7 +372,7 @@ None of the events described below diminishes, suspends, or terminates any licen
 
 A sale, assignment, or other transfer of copyright or patent rights does not terminate or impair any license previously granted.
 
-Any transferee takes the Software subject to the rights previously granted under the Apache License and succeeds to the transferring party's rights and obligations under the Apache License.
+Any transferee takes the Work subject to the rights previously granted under the Apache License and succeeds to the transferring party's rights and obligations under the Apache License.
 
 (b) Death
 
@@ -388,7 +388,7 @@ The Apache License continues to bind the relevant entity, and its rights and obl
 
 (d) No Renegotiation
 
-A Successor takes the Software subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke, narrow, or impose additional conditions on any license previously granted.
+A Successor takes the Work subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke, narrow, or impose additional conditions on any license previously granted.
 
 (e) Retention of Copyright, Patent, Trademark, and Attribution Notices Upon Succession
 
@@ -402,7 +402,7 @@ Nothing in this subsection prevents a Successor from adding its own attribution 
 
 (a) Waiver Where Permitted
 
-To the extent that moral rights, including rights of attribution, integrity, publicity, privacy, or similar personality rights, subsist in the Software or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waives those rights to the fullest extent permitted by applicable law.
+To the extent that moral rights, including rights of attribution, integrity, publicity, privacy, or similar personality rights, subsist in the Work or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waives those rights to the fullest extent permitted by applicable law.
 
 (b) Non-Assertion Where Waiver Is Not Permitted
 
@@ -410,7 +410,7 @@ Where a waiver is not permitted by applicable law, the relevant Contributor or L
 
 (c) Scope
 
-This Section does not waive moral rights enforceable against any person other than You, nor does it waive moral rights in any work other than the Software or the relevant Contributor's own Contribution.
+This Section does not waive moral rights enforceable against any person other than You, nor does it waive moral rights in any work other than the Work or the relevant Contributor's own Contribution.
 
 (d) Independence from Termination
 
@@ -428,7 +428,7 @@ The submission of a Contribution constitutes the Contributor's agreement to this
 
 3. Exception to Section 4(b)
 
-The Licensor hereby grants You an exception from the requirement to comply with Section 4(b) of the Apache License, Version 2.0.
+The Licensor or a Contributor hereby grants You an exception from the requirement to comply with Section 4(b) of the Apache License, Version 2.0.
 
 
 ```
