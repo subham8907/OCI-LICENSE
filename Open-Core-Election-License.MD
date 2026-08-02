@@ -345,9 +345,6 @@ The notice file may be created under any name and in any format or medium, provi
 
 This Work is originally licensed under the Apache License, Version 2.0.
 
-A copy of the Apache License is available at:
-
-    http://www.apache.org/licenses/LICENSE-2.0
 
 
 --------------------------------------------------------------------------------
