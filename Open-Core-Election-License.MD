@@ -349,8 +349,6 @@ The notice file may be created under any name and in any format or medium, provi
 
 This Work is originally licensed under the Apache License, Version 2.0.
 
-This notice file may be created under any name and in any format or medium,
-provided that the content is reproduced accurately.
 
 
 --------------------------------------------------------------------------------
@@ -421,69 +419,35 @@ Intention of Additional Permissions and Grants.
 ADDITIONAL PERMISSIONS AND GRANTS
 --------------------------------------------------------------------------------
 
-1. BINDING EFFECT; SURVIVAL OF LICENSES UPON TRANSFER, DEATH, OR DISSOLUTION
+1. BINDING EFFECT; SURVIVAL UPON SUCCESSION
 --------------------------------------------------------------------------------
 
     The Apache License, Version 2.0, including the licenses granted
-    under Sections 2 and 3, runs with the copyright and patent rights
-    in the Work and each Contribution and binds the Licensor, each
-    Contributor, and their respective successors, heirs, and assigns.
+    under Sections 2 and 3, runs with the copyright, patent, and
+    other intellectual property rights in the Work and each
+    Contribution and binds each Licensor, Contributor, and Successor.
 
-    None of the events described below diminishes, suspends, or
-    terminates any license previously granted to You.
+    No transfer, succession, death, dissolution, merger, acquisition,
+    reorganization, bankruptcy, insolvency proceeding, Change of
+    Control, or other event described in the definition of
+    "Successor" diminishes, suspends, terminates, impairs, or
+    otherwise affects any license previously granted to You.
 
-    (a) Transfer of Rights
+    Each Successor takes the Work and any applicable Contribution
+    subject to the rights, permissions, licenses, and obligations
+    previously granted or imposed under the Apache License, Version
+    2.0, and this License Exception. A Successor may not unilaterally
+    revoke, narrow, condition, or impose additional restrictions on
+    any license or permission previously granted to You.
 
-        A sale, assignment, or other transfer of copyright or patent
-        rights does not terminate or impair any license previously
-        granted.
-
-        Any transferee takes the Work subject to the rights previously
-        granted under the Apache License and succeeds to the
-        transferring party's rights and obligations under the Apache
-        License.
-
-    (b) Death
-
-        Where the Licensor or a Contributor is a natural person, that
-        person's death does not terminate the Apache License.
-
-        The Apache License continues to bind the relevant party, and
-        its rights and obligations pass to that person's estate,
-        heirs, and successors.
-
-    (c) Merger, Dissolution, or Reorganization
-
-        Where the Licensor or a Contributor is a Legal Entity, its
-        merger, dissolution, bankruptcy, reorganization, or change of
-        control does not terminate the Apache License.
-
-        The Apache License continues to bind the relevant entity, and
-        its rights and obligations pass to any successor or acquirer.
-
-    (d) No Renegotiation
-
-        A Successor takes the Work subject to the Apache License as in
-        effect at the time of the relevant event and may not
-        unilaterally revoke, narrow, or impose additional conditions
-        on any license previously granted.
-
-    (e) Retention of Copyright, Patent, Trademark, and Attribution
-        Notices Upon Succession
-
-        A Successor may update or add copyright, patent, trademark, or
-        attribution notices in the Source form, NOTICE file, or Source
-        code to reflect its succession, consistent with this Section
-        and subsection (c) above.
-
-        However, a Successor may not require or compel You to alter,
-        remove, or restate any notice on its behalf. Your refusal to
-        comply with such a request does not constitute a breach of the
-        Apache License.
-
-        Nothing in this subsection prevents a Successor from adding
-        its own attribution notice, provided that the notice does not
-        displace, modify, or remove any original notice.
+    A Successor may update or add copyright, patent, trademark, or
+    attribution notices in the Source form, NOTICE file, or Source
+    code to accurately reflect its succession or ownership of
+    applicable rights. However, a Successor may not require or compel
+    You to alter, remove, or restate any existing notice on its
+    behalf. Your refusal to comply with such a request does not
+    constitute a breach of the Apache License, Version 2.0, or this
+    License Exception.
 
 
 2. MORAL RIGHTS
@@ -543,6 +507,6 @@ ADDITIONAL PERMISSIONS AND GRANTS
     the requirement to comply with Section 4(b) of the Apache License,
     Version 2.0.
 
-
 ================================================================================
 ```
+
