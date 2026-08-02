@@ -108,8 +108,7 @@ The provisions of this Section shall apply equally to all Derivative Works and a
 
 ## 7. Governing Law
 
-This License is governed by and construed in accordance with the laws of [Governing Jurisdiction], without regard to its conflict of laws principles.
-
+This License is governed by and construed in accordance with the laws of the jurisdiction of the applicable Contributor, without regard to its conflict of laws principles.
 ---
 
 ## 8. Severability
