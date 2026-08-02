@@ -361,7 +361,7 @@ Definitions
 
 3. Any person or Legal Entity that succeeds to, acquires, assumes, or continues the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, including through a merger, acquisition, consolidation, dissolution, bankruptcy, reorganization, conversion, or change of control.
 
-Intention of Additional Permissions and Grants. The permissions and grants contained in this License are intended only to supplement the Apache License, Version 2.0. To the extent that the Apache License already grants a permission or right, this License does not restate or modify that permission or right, even if this License repeats language that is already implicit or expressly provided in the Apache License, unless this License expressly provides otherwise.
+Intention of Additional Permissions and Grants. The permissions and grants contained in this License are intended only to supplement the Apache License, Version 2.0. To the extent that any permission or right is already granted by the Apache License or otherwise arises under applicable law, this License neither restates nor modifies that permission or right, even if this License repeats language reflecting it, unless this License expressly provides otherwise.
 
 Additional Permissions and Grants
 
