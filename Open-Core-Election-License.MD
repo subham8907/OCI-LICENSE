@@ -354,11 +354,11 @@ Definitions
 
 "Successor" means, as the context requires:
 
-1. Any transferee of the copyright or patent rights described in subsection (a) below;
+1. Any person or entity that acquires, by assignment, transfer, operation of law, or otherwise, any copyright or patent rights held by a Licensor or Contributor;
 
-2. The estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or
+2. The estate, heirs, personal representatives, beneficiaries, or other lawful successors of a Licensor or Contributor who is a natural person; or
 
-3. Any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below.
+3. Any person or Legal Entity that succeeds to, acquires, assumes, or continues the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, including through a merger, acquisition, consolidation, dissolution, bankruptcy, reorganization, conversion, or change of control.
 
 Additional Permissions and Grants
 
