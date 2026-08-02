@@ -344,7 +344,7 @@ The notice file may be created under any name and in any format or medium, provi
 
 ```
 ================================================================================
-                              LICENSE EXCEPTION OR ADDITIONAL PERMISSION
+                        LICENSE EXCEPTION OR ADDITIONAL PERMISSION
 ================================================================================
 
 This Work is originally licensed under the Apache License, Version 2.0.
@@ -357,6 +357,9 @@ A copy of the Apache License is available at:
 --------------------------------------------------------------------------------
 DEFINITIONS
 --------------------------------------------------------------------------------
+
+Unless the context requires otherwise, all words and expressions below
+shall be interpreted in accordance with the Apache License, Version 2.0.
 
 "Successor" means, as the context requires:
 
@@ -515,5 +518,4 @@ ADDITIONAL PERMISSIONS AND GRANTS
     Version 2.0.
 
 ================================================================================
-
 ```
