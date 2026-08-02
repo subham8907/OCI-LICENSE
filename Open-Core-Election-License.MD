@@ -43,7 +43,7 @@ Your reproduction, use, modification, and distribution of the Software are subje
 **"Apache License"** means the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B. Where this License refers to compliance with, or election of, the Apache License, it refers to that reproduced text.
 
 **"Conversion Date"** means the date and time set forth in Appendix A, expressed in the format `${YYYY-MM-DD}T00:00:00Z` (year-month-day, followed by midnight Coordinated Universal Time on that date), on and after which this License automatically converts to the Apache License, Version 2.0, as reproduced in full and verbatim in Appendix B, together with any optional additional permissions set forth in Appendix C, as provided in Section 6 (Grant of Future License).
----
+
 
 # 1. Grant of Copyright License and Patent License
 
