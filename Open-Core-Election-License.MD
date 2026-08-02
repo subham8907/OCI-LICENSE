@@ -344,7 +344,7 @@ The notice file may be created under any name and in any format or medium, provi
 
 ```
 ================================================================================
-                              LICENSE EXCEPTION
+                              LICENSE EXCEPTION OR ADDITIONAL PERMISSION
 ================================================================================
 
 This Work is originally licensed under the Apache License, Version 2.0.
@@ -376,13 +376,16 @@ DEFINITIONS
        of control.
 
 Intention of Additional Permissions and Grants.
-    The permissions and grants contained in this License are intended
-    only to supplement the Apache License, Version 2.0. To the extent
-    that any permission or right is already granted by the Apache
-    License or otherwise arises under applicable law, this License
-    neither restates nor modifies that permission or right, even if
-    this License repeats language reflecting it, unless this License
-    expressly provides otherwise.
+    The permissions and grants contained in this License Exception are
+    intended solely to supplement the Apache License, Version 2.0. To
+    the extent that any permission or right is already granted by the
+    Apache License, Version 2.0, or otherwise arises under applicable
+    law, this License Exception neither modifies nor limits that
+    permission or right, even if it repeats language reflecting it,
+    unless this License Exception expressly provides otherwise.
+    Accordingly, this License Exception grants or expands permissions
+    and rights only to the extent they are not already provided by the
+    Apache License, Version 2.0, or applicable law.
 
 
 --------------------------------------------------------------------------------
@@ -512,6 +515,5 @@ ADDITIONAL PERMISSIONS AND GRANTS
     Version 2.0.
 
 ================================================================================
-
 
 ```
