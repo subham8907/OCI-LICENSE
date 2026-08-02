@@ -543,32 +543,6 @@ ADDITIONAL PERMISSIONS AND GRANTS
     the requirement to comply with Section 4(b) of the Apache License,
     Version 2.0.
 
-3. Grants
---------------------------------------------------------------------------------
-
-      Grant of Copyright License. Subject to the terms and conditions of
-      Apache License, Version 2.0, each Contributor or Licensor hereby grants
-      to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-      Grant of Patent License. Subject to the terms and conditions of
-      Apache License, Version 2.0, each Contributor or Licensor hereby
-      grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-      irrevocable (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
 
 ================================================================================
 ```
