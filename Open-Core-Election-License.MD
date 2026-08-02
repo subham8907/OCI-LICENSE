@@ -97,14 +97,13 @@ You may distribute the Software in any medium, with or without modification, whe
 
 ## 6. Grant of Future License
 
-On and after the Conversion Date set forth in Appendix A, all provisions of this License shall automatically and irrevocably cease to apply, and each Contributor shall instead grant You the Apache License, as defined in Section 0, together with the additional permission set forth in Appendix C. Such grant shall take effect automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution, and any other use of the Software shall be governed solely by the Apache License. You must provide recipients with a copy of the Apache License and comply with all of its terms.
+On and after the Conversion Date set forth in Appendix A, all provisions of this License shall automatically and irrevocably cease to apply, and each Contributor shall instead grant and transition You to the Apache License, as defined in Section 0, together with the additional permission set forth in Appendix C. Such grant shall take effect automatically and without any further action by any party. From and after the Conversion Date, Your use, reproduction, modification, distribution, and any other use of the Software shall be governed solely by the Apache License. You must provide recipients with a copy of the Apache License and comply with all of its terms.
 
 No Successor may prevent, revoke, delay, or otherwise impair the conversion described in this Section. The occurrence of any event described in Appendix C, including a transfer of copyright or patent rights, the death of a Licensor or Contributor who is a natural person, or the merger, dissolution, bankruptcy, reorganization, or change of control of a Licensor or Contributor that is a Legal Entity, shall not suspend, extend, delay, or otherwise affect the Conversion Date. Conversion shall occur automatically on the Conversion Date regardless of any such event, and no Successor may condition, renegotiate, or impose additional requirements on the license granted under this Section.
 
 For the avoidance of doubt, the additional permission set forth in Appendix C shall be optional after the Conversion Date. After conversion, You may comply solely with the Apache License, as defined in Section 0, without relying on the additional permission set forth in Appendix C.
 
 The provisions of this Section shall apply equally to all Derivative Works and any works specified in Section 2(d) that were created before the Conversion Date set forth in Appendix A.
-
 ---
 
 ## 7. Governing Law
