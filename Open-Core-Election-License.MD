@@ -444,8 +444,8 @@ ADDITIONAL PERMISSIONS AND GRANTS
     attribution notices in the Source form, NOTICE file, or Source
     code to accurately reflect its succession or ownership of
     applicable rights. However, a Successor may not require or compel
-    You to alter, remove, or restate any existing notice on its
-    behalf. Your refusal to comply with such a request does not
+    You to alter, remove, or restate any existing notice that work
+    you received. Your refusal to comply with such a request does not
     constitute a breach of the Apache License, Version 2.0, or this
     License Exception.
 
