@@ -14,8 +14,13 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"Software"** means the program and related documents that are licensed under this License and comprise all Contribution(s).
 
-"Successor" means, as the context requires: (i) any transferee of copyright or patent rights described in subsection (a) below; (ii) the estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or (iii) any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below. Where this Section or the Moral Rights section below refers to a party's "successors, heirs, and assigns," that phrase refers to that party's Successor(s), together with the heirs and assigns of any such Successor.
+"Successor" means, as the context requires:
 
+1. Any person or entity that acquires, by assignment, transfer, operation of law, or otherwise, any copyright or patent rights held by a Licensor or Contributor;
+
+2. The estate, heirs, personal representatives, beneficiaries, or other lawful successors of a Licensor or Contributor who is a natural person; or
+
+3. Any person or Legal Entity that succeeds to, acquires, assumes, or continues the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, including through a merger, acquisition, consolidation, dissolution, bankruptcy, reorganization, conversion, or change of control.
 
 **"Contribution"** means the copyrightable work licensed by a particular Contributor under this License.
 
@@ -337,93 +342,93 @@ Unless the context requires otherwise, all words and expressions below shall be 
 The notice file may be created under any name and in any format or medium, provided that the content below is reproduced accurately and clearly identifies the Software to which this Appendix C applies.
 
 ```
+License Exception
+
 This work is originally licensed under the Apache License, Version 2.0.
+
 A copy of the Apache License is available at:
 
-http://www.apache.org/licenses/LICENSE-2.0
-
-The Licensor hereby grants You an exception from the requirement to comply with Section 4(b).
+"http://www.apache.org/licenses/LICENSE-2.0" (http://www.apache.org/licenses/LICENSE-2.0)
 
 Definitions
 
-"Successor" means, as the context requires: (i) any transferee of copyright or patent rights described in subsection (a) below; (ii) the estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or (iii) any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below. Where this Section or the Moral Rights section below refers to a party's "successors, heirs, and assigns," that phrase refers to that party's Successor(s), together with the heirs and assigns of any such Successor.
+"Successor" means, as the context requires:
 
-List of additional permissions and grants
+1. Any transferee of the copyright or patent rights described in subsection (a) below;
 
-Binding Effect; Survival of Licenses Upon Transfer, Death, or Dissolution
+2. The estate, heirs, or other successors of a Licensor or Contributor who is a natural person, as described in subsection (b) below; or
 
-The Apache License, Version 2.0, including the licenses granted under Sections 2 and 3,
-runs with the copyright and patent rights in the Software and each Contribution and binds
-the Licensor, each Contributor, and their respective successors, heirs, and assigns.
+3. Any successor or acquirer of a Licensor or Contributor that is a Legal Entity, arising from a merger, dissolution, bankruptcy, reorganization, or change of control, as described in subsection (c) below.
+
+Additional Permissions and Grants
+
+1. Binding Effect; Survival of Licenses Upon Transfer, Death, or Dissolution
+
+The Apache License, Version 2.0, including the licenses granted under Sections 2 and 3, runs with the copyright and patent rights in the Software and each Contribution and binds the Licensor, each Contributor, and their respective successors, heirs, and assigns.
+
 None of the events described below diminishes, suspends, or terminates any license previously granted to You.
 
-(a) Transfer of Rights.
+(a) Transfer of Rights
 
 A sale, assignment, or other transfer of copyright or patent rights does not terminate or impair any license previously granted.
-Any transferee takes the Software subject to the rights previously granted
-under the Apache License and succeeds to the transferring party's rights and
-obligations under the Apache License.
 
-(b) Death.
+Any transferee takes the Software subject to the rights previously granted under the Apache License and succeeds to the transferring party's rights and obligations under the Apache License.
 
-Where the Licensor or a Contributor is a natural person,
-that person's death does not terminate the Apache License.
-The Apache License continues to bind the relevant party,
-and its rights and obligations pass to that person's estate, heirs, and successors.
+(b) Death
 
-(c) Merger, Dissolution, or Reorganization.
+Where the Licensor or a Contributor is a natural person, that person's death does not terminate the Apache License.
 
-Where the Licensor or a Contributor is a Legal Entity,
-its merger, dissolution, bankruptcy, reorganization, or change of control does not terminate the Apache License.
+The Apache License continues to bind the relevant party, and its rights and obligations pass to that person's estate, heirs, and successors.
+
+(c) Merger, Dissolution, or Reorganization
+
+Where the Licensor or a Contributor is a Legal Entity, its merger, dissolution, bankruptcy, reorganization, or change of control does not terminate the Apache License.
+
 The Apache License continues to bind the relevant entity, and its rights and obligations pass to any successor or acquirer.
 
-(d) No Renegotiation.
+(d) No Renegotiation
 
-A successor takes the Software subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke,
-narrow, or impose additional conditions on any license previously granted.
+A Successor takes the Software subject to the Apache License as in effect at the time of the relevant event and may not unilaterally revoke, narrow, or impose additional conditions on any license previously granted.
 
-(e) Retention of copyright, patent, trademark, and attribution notices  Upon Succession.
-A successor may update or add to the copyright, patent, trademark, and attribution notices in the Source form, NOTICE file, or Source code to reflect its succession, consistent with this Section and subsection (c) above.
+(e) Retention of Copyright, Patent, Trademark, and Attribution Notices Upon Succession
 
-However, a successor may not require or compel You to alter, remove, or restate any notice on its behalf. Your refusal to comply with such a request does not constitute a breach of the Apache License.
+A Successor may update or add copyright, patent, trademark, or attribution notices in the Source form, NOTICE file, or Source code to reflect its succession, consistent with this Section and subsection (c) above.
 
-Nothing in this subsection prevents a successor from adding its own attribution notice, provided that such notice does not displace, modify, or remove the original notice.
+However, a Successor may not require or compel You to alter, remove, or restate any notice on its behalf. Your refusal to comply with such a request does not constitute a breach of the Apache License.
 
-Moral Rights
+Nothing in this subsection prevents a Successor from adding its own attribution notice, provided that the notice does not displace, modify, or remove any original notice.
 
-(a) Waiver Where Permitted.
+2. Moral Rights
 
-To the extent that moral rights, including rights of attribution, integrity, publicity, privacy, or similar personality rights,
-subsist in the Software or a Contribution and would otherwise be exercisable against You,
-each Contributor and the Licensor waives those rights to the fullest extent permitted by applicable law.
+(a) Waiver Where Permitted
 
-(b) Non-Assertion Where Waiver Is Not Permitted.
+To the extent that moral rights, including rights of attribution, integrity, publicity, privacy, or similar personality rights, subsist in the Software or a Contribution and would otherwise be exercisable against You, each Contributor and the Licensor waives those rights to the fullest extent permitted by applicable law.
 
-Where a waiver is not permitted by applicable law,
-the relevant Contributor or Licensor instead agrees not to assert those rights against
-You for so long as You exercise the rights granted under the Apache License.
+(b) Non-Assertion Where Waiver Is Not Permitted
 
-(c) Scope.
+Where a waiver is not permitted by applicable law, the relevant Contributor or Licensor instead agrees not to assert those rights against You for so long as You exercise the rights granted under the Apache License.
 
-This Section does not waive moral rights enforceable against any person other than You,
-nor does it waive moral rights in any work other than the Software
-or the relevant Contributor's own Contribution.
+(c) Scope
 
-(d) Independence from Termination.
+This Section does not waive moral rights enforceable against any person other than You, nor does it waive moral rights in any work other than the Software or the relevant Contributor's own Contribution.
 
-The waiver and non-assertion set forth in this Section are not conditioned upon,
-and are not terminated by, the termination of the patent license under Section 3 of the Apache License or by any other breach of the Apache License.
-The termination of the licenses granted under Section 3 of the Apache License does not reinstate any moral rights claim with respect to use occurring before such termination.
+(d) Independence from Termination
 
-(e) Successors.
+The waiver and non-assertion set forth in this Section are not conditioned upon, and do not terminate as a result of, the termination of the patent license under Section 3 of the Apache License or any other breach of the Apache License.
 
-To the fullest extent permitted by applicable law,
-the waiver and non-assertion set forth in this Section are intended to bind
-the relevant party's successors, heirs, and assigns.
+The termination of the licenses granted under Section 3 of the Apache License does not reinstate any moral rights claim with respect to uses occurring before that termination.
 
-(f) Contributions.
+(e) Successors
 
-The submission of a Contribution constitutes the Contributor's agreement
-to this Section with respect to that Contribution,
-on the same terms that apply to the Licensor.
+To the fullest extent permitted by applicable law, the waiver and non-assertion set forth in this Section are intended to bind the relevant party's successors, heirs, and assigns.
+
+(f) Contributions
+
+The submission of a Contribution constitutes the Contributor's agreement to this Section with respect to that Contribution, on the same terms that apply to the Licensor.
+
+3. Exception to Section 4(b)
+
+The Licensor hereby grants You an exception from the requirement to comply with Section 4(b) of the Apache License, Version 2.0.
+
+
 ```
