@@ -4,7 +4,7 @@
 
 [Software Name] is licensed under the Open Core License, Rev. 1.0 (this "License"). You may use this Software according to the terms and conditions of the License.
 
-> THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. See the License for more details.
+> THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 
 Your reproduction, use, modification, and distribution of the Software are subject to this License, with the following terms and conditions.
 
