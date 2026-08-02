@@ -441,13 +441,14 @@ ADDITIONAL PERMISSIONS AND GRANTS
     any license or permission previously granted to You.
 
     A Successor may update or add copyright, patent, trademark, or
-    attribution notices in the Source form, NOTICE file, or Source
-    code to accurately reflect its succession or ownership of
-    applicable rights. However, a Successor may not require or compel
-    You to alter, remove, or restate any existing notice that work
-    you received. Your refusal to comply with such a request does not
-    constitute a breach of the Apache License, Version 2.0, or this
-    License Exception.
+    attribution notices in the Work, any Derivative Works, or the
+    NOTICE text file to accurately reflect its succession to, or
+    ownership of, the applicable rights. However, a Successor may not
+    require or compel You to alter, remove, or restate any existing
+    notice in the Work or any Derivative Works that You received.
+    Your refusal to comply with such a request does not constitute a
+    breach of the Apache License, Version 2.0, or this License
+    Exception.
 
 
 2. MORAL RIGHTS
@@ -455,49 +456,51 @@ ADDITIONAL PERMISSIONS AND GRANTS
 
     (a) Waiver Where Permitted
 
-        To the extent that moral rights, including rights of
-        attribution, integrity, publicity, privacy, or similar
-        personality rights, subsist in the Work or a Contribution and
-        would otherwise be exercisable against You, each Contributor
-        and the Licensor waives those rights to the fullest extent
+        To the extent that any moral rights, rights of attribution or
+        integrity, rights of publicity or privacy, or similar
+        personality rights subsist in the Work or a Contribution and
+        would otherwise be exercisable against You, each Licensor and
+        Contributor waives those rights to the fullest extent
         permitted by applicable law.
 
     (b) Non-Assertion Where Waiver Is Not Permitted
 
-        Where a waiver is not permitted by applicable law, the
-        relevant Contributor or Licensor instead agrees not to assert
-        those rights against You for so long as You exercise the
-        rights granted under the Apache License.
+        To the extent that any such right cannot be waived under
+        applicable law, the relevant Licensor or Contributor agrees
+        not to assert that right against You for so long as You
+        exercise the rights granted under the Apache License, Version
+        2.0, and comply with its applicable terms.
 
     (c) Scope
 
-        This Section does not waive moral rights enforceable against
-        any person other than You, nor does it waive moral rights in
-        any work other than the Work or the relevant Contributor's own
-        Contribution.
+        The waiver and non-assertion under this Section apply only
+        with respect to the Work and the relevant Contributor's own
+        Contribution, as applicable, and only in relation to You.
+        Nothing in this Section waives or limits any right with
+        respect to a person other than You or with respect to a work
+        other than the Work or the relevant Contribution.
 
-    (d) Independence from Termination
+    (d) Independence from License Termination
 
-        The waiver and non-assertion set forth in this Section are not
-        conditioned upon, and do not terminate as a result of, the
-        termination of the patent license under Section 3 of the
-        Apache License or any other breach of the Apache License.
+        The waiver and non-assertion under this Section are
+        independent of, and are not conditioned upon, the continued
+        effectiveness of any patent license granted under Section 3
+        of the Apache License, Version 2.0. The termination of a
+        patent license under Section 3, or any other termination or
+        breach under the Apache License, Version 2.0, does not
+        reinstate or revive any moral-rights claim with respect to
+        uses occurring before that termination.
 
-        The termination of the licenses granted under Section 3 of the
-        Apache License does not reinstate any moral rights claim with
-        respect to uses occurring before that termination.
-
-    (e) Successors
+    (e) Binding Effect Upon Succession
 
         To the fullest extent permitted by applicable law, the waiver
-        and non-assertion set forth in this Section are intended to
-        bind the relevant party's successors, heirs, and assigns.
+        and non-assertion under this Section bind each relevant
+        Licensor's or Contributor's Successors.
 
     (f) Contributions
 
-        The submission of a Contribution constitutes the Contributor's
-        agreement to this Section with respect to that Contribution,
-        on the same terms that apply to the Licensor.
+        By submitting a Contribution, each Contributor agrees to be
+        bound by this Section with respect to that Contribution.
 
 
 3. EXCEPTION TO SECTION 4(b)
@@ -509,4 +512,3 @@ ADDITIONAL PERMISSIONS AND GRANTS
 
 ================================================================================
 ```
-
