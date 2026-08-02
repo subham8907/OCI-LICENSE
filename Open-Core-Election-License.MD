@@ -349,6 +349,8 @@ The notice file may be created under any name and in any format or medium, provi
 
 This Work is originally licensed under the Apache License, Version 2.0.
 
+This notice file may be created under any name and in any format or medium,
+provided that the content is reproduced accurately.
 
 
 --------------------------------------------------------------------------------
