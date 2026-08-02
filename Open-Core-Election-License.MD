@@ -93,7 +93,6 @@ You may distribute the Software in any medium, with or without modification, whe
 
 ---
 
-## 6. Grant of Future License
 
 ## 6. Grant of Future License
 
