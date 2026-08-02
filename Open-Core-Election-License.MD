@@ -122,7 +122,7 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 
 ## Appendix B: The Apache License
 
-The Apache License file may be created under any name and in any format or medium, provided that the content below is reproduced accurately and clearly identifies the Software to which this Appendix B applies.
+The Apache License file may be created under any name and in any format or medium, provided that the content below is reproduced accurately.
 ```
                                  Apache License
                            Version 2.0, January 2004
@@ -336,7 +336,7 @@ This additional permission supplements the Apache License in full, except as exp
 
 The content set forth below constitutes the notice that may be included in a notice file.
 Unless the context requires otherwise, all words and expressions below shall be interpreted in accordance with the Apache License as defined in Section 0.
-The notice file may be created under any name and in any format or medium, provided that the content below is reproduced accurately and clearly identifies the Software to which this Appendix C applies.
+The notice file may be created under any name and in any format or medium, provided that the content below is reproduced accurately.
 
 ```
 ================================================================================
