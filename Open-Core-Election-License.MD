@@ -391,9 +391,16 @@ shall be interpreted in accordance with the Apache License, Version 2.0.
     clauses) of a Successor, without limitation as to the number of
     intervening transfers or remoteness in time.
 
-For purposes of this definition, "Change of Control" means any transaction or series of related transactions resulting in a person or group acquiring, directly or indirectly, the power to direct the management or policies of an entity, whether through ownership of voting securities, contract, or otherwise.
+For purposes of this definition, "Change of Control" means any
+transaction or series of related transactions resulting in a person
+or group acquiring, directly or indirectly, the power to direct the
+management or policies of an entity, whether through ownership of
+voting securities, contract, or otherwise.
 
-For the avoidance of doubt, no Licensor or Contributor may avoid the obligations of this Agreement by structuring a transaction so as to fall outside the foregoing definition where the substance of the transaction is a transfer described in this definition.
+For the avoidance of doubt, no Licensor or Contributor may avoid the
+obligations of this Agreement by structuring a transaction so as to
+fall outside the foregoing definition where the substance of the
+transaction is a transfer described in this definition.
 
 Intention of Additional Permissions and Grants.
     The permissions and grants contained in this License Exception are
