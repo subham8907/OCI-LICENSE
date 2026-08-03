@@ -531,4 +531,12 @@ ADDITIONAL PERMISSIONS AND GRANTS
 
 ================================================================================
 
+4. Severability
+--------------------------------------------------------------------------------
+
+If any provision of this License is held to be invalid or unenforceable,
+that provision will be enforced to the maximum extent permissible,
+and the remaining provisions will remain in full force and effect.
+--------------------------------------------------------------------------------
+
 ```
