@@ -458,7 +458,8 @@ ADDITIONAL PERMISSIONS AND GRANTS
         If the Licensor, a Contributor, or any Successor attempts to
         terminate the Apache License, Version 2.0, or any additional
         permission granted under this Exception by exercising any
-        statutory right, then, at the moment such termination is
+        statutory right when license exception  and Apache License, Version 2.0
+        is not voilated , then, at the moment such termination is
         attempted, the Licensor or Contributor shall be deemed to
         have regranted the Apache License, Version 2.0, and any
         additional permissions granted under this Exception. Such
