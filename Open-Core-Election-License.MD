@@ -502,6 +502,21 @@ ADDITIONAL PERMISSIONS AND GRANTS
         By submitting a Contribution, each Contributor agrees to be
         bound by this Section with respect to that Contribution.
 
+    (g) Attempted Statutory Termination
+
+        If the Licensor, a Contributor, or any Successor attempts to
+        terminate the Apache License, Version 2.0, or any additional
+        permission granted under this Exception by exercising any
+        statutory right, then, at the moment such termination is
+        attempted, the Licensor or Contributor shall be deemed to
+        have regranted the Apache License, Version 2.0, and any
+        additional permissions granted under this Exception. Such
+        regrant shall be effective as of the last day on which the
+        Contributor or Licensor was alive, or the day immediately
+        preceding the attempted termination. Any such attempt to
+        terminate shall constitute a formal expression of intent and
+        shall be interpreted as a formal will.
+
 
 3. EXCEPTION TO SECTION 4(b)
 --------------------------------------------------------------------------------
