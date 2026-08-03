@@ -453,7 +453,9 @@ ADDITIONAL PERMISSIONS AND GRANTS
 
      Attempted Statutory Termination
 
-       Subject to terms and conditions of this additional permissions granted under license exception and Apache License, Version 2.0 If the Licensor, a Contributor, or any Successor attempts to
+        Subject to terms and conditions of this additional permissions
+        granted under license exception  and Apache License, Version 2.0 
+        If the Licensor, a Contributor, or any Successor attempts to
         terminate the Apache License, Version 2.0, or any additional
         permission granted under this Exception by exercising any
         statutory right, then, at the moment such termination is
