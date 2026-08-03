@@ -464,10 +464,7 @@ ADDITIONAL PERMISSIONS AND GRANTS
         additional permissions granted under this Exception. Such
         regrant shall be effective as of the last day on which the
         Contributor or Licensor was alive, or the day immediately
-        preceding the attempted termination. Any such attempt to
-        terminate shall constitute a formal expression of intent and
-        shall be interpreted as a formal will.
-
+        preceding the attempted termination. 
 
 
 
