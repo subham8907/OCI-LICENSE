@@ -349,6 +349,18 @@ The notice file may be created under any name and in any format or medium, provi
 
 This Work is licensed under the Apache License, Version 2.0.
 
+Intention of Additional Permissions and Grants.
+    The permissions and grants contained in this License Exception are
+    intended solely to supplement the Apache License, Version 2.0. To
+    the extent that any permission or right is already granted by the
+    Apache License, Version 2.0, or otherwise arises under applicable
+    law, this License Exception neither modifies nor limits that
+    permission or right, even if it repeats language reflecting it,
+    unless this License Exception expressly provides otherwise.
+    Accordingly, this License Exception grants or expands permissions
+    and rights only to the extent they are not already provided by the
+    Apache License, Version 2.0, or applicable law.
+
 
 --------------------------------------------------------------------------------
 DEFINITIONS
@@ -417,18 +429,6 @@ For the avoidance of doubt, no Licensor or Contributor may avoid the
 obligations of this Agreement by structuring a transaction so as to
 fall outside the foregoing definition where the substance of the
 transaction is a transfer described in this definition.
-
-Intention of Additional Permissions and Grants.
-    The permissions and grants contained in this License Exception are
-    intended solely to supplement the Apache License, Version 2.0. To
-    the extent that any permission or right is already granted by the
-    Apache License, Version 2.0, or otherwise arises under applicable
-    law, this License Exception neither modifies nor limits that
-    permission or right, even if it repeats language reflecting it,
-    unless this License Exception expressly provides otherwise.
-    Accordingly, this License Exception grants or expands permissions
-    and rights only to the extent they are not already provided by the
-    Apache License, Version 2.0, or applicable law.
 
 
 --------------------------------------------------------------------------------
