@@ -347,7 +347,7 @@ The notice file may be created under any name and in any format or medium, provi
                         LICENSE EXCEPTION OR ADDITIONAL PERMISSION
 ================================================================================
 
-This Work is originally licensed under the Apache License, Version 2.0.
+This Work is licensed under the Apache License, Version 2.0.
 
 
 
@@ -451,21 +451,22 @@ ADDITIONAL PERMISSIONS AND GRANTS
     Exception.
 
 
-     Attempted Statutory Termination
+    Attempted Statutory Termination
 
-        Subject to terms and conditions of this additional permissions
-        granted under license exception  and Apache License, Version 2.0 
-        If the Licensor, a Contributor, or any Successor attempts to
-        terminate the Apache License, Version 2.0, or any additional
-        permission granted under this Exception by exercising any
-        statutory right when license exception  and Apache License, Version 2.0
-        is not voilated , then, at the moment such termination is
+        Subject to the terms and conditions of this additional
+        permission granted under this License Exception and the
+        Apache License, Version 2.0, if the Licensor, a Contributor,
+        or any Successor attempts to terminate the Apache License,
+        Version 2.0, or any additional permission granted under this
+        Exception, by exercising any statutory right, when this
+        License Exception and the Apache License, Version 2.0, have
+        not been violated, then, at the moment such termination is
         attempted, the Licensor or Contributor shall be deemed to
         have regranted the Apache License, Version 2.0, and any
         additional permissions granted under this Exception. Such
         regrant shall be effective as of the last day on which the
         Contributor or Licensor was alive, or the day immediately
-        preceding the attempted termination. 
+        preceding the attempted termination.
 
 
 
@@ -520,7 +521,7 @@ ADDITIONAL PERMISSIONS AND GRANTS
         By submitting a Contribution, each Contributor agrees to be
         bound by this Section with respect to that Contribution.
 
-    
+
 3. EXCEPTION TO SECTION 4(b)
 --------------------------------------------------------------------------------
 
@@ -529,4 +530,5 @@ ADDITIONAL PERMISSIONS AND GRANTS
     Version 2.0.
 
 ================================================================================
+
 ```
