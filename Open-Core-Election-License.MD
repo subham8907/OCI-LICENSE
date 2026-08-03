@@ -364,6 +364,16 @@ Incorporation of Apache License, Version 2.0 Definitions.
     Apache License, Version 2.0, and are incorporated herein by this
     reference as though set forth in full.
 
+"License Exception" means this instrument, entitled "License Exception
+or Additional Permission," together with all of its terms, Sections,
+and provisions, as it may be incorporated with, attached to, or
+referenced by the Work.
+
+"Additional Permission" means any permission, grant, waiver,
+non-assertion, exception, or other right set forth in this License
+Exception that supplements, and does not replace, the Apache License,
+Version 2.0.
+
 "Successor" means, as the context requires, any of the following:
 
 (a) Assignees and Transferees of IP Rights. Any person or Legal
@@ -588,5 +598,4 @@ ADDITIONAL PERMISSIONS AND GRANTS
     Contributions.
 
 ================================================================================
-
 ```
