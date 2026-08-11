@@ -126,7 +126,7 @@ You must not knowingly, or after exercising reasonable due diligence have reason
 
 A failure to prevent an unauthorized third party from independently redistributing a copy shall not, by itself, constitute a breach of this License, provided that you exercised the reasonable due diligence and reasonable preventive measures required by this Section and did not knowingly facilitate or authorize the prohibited distribution.
 
-For avoidance of doudt if third party distribute infringed copy they shall responsible and treated as infigment 
+For the avoidance of doubt, where a third party independently distributes, transfers, transmits, or otherwise makes available an affected copy in a jurisdiction in which such distribution, transfer, transmission, or making available would constitute an infringement or violation of this License, that third party shall be solely responsible for such conduct and shall be treated as having committed the applicable infringement or breach. Such conduct shall not, by itself, constitute a breach of this License by you, provided that you did not knowingly authorize, facilitate, or participate in such distribution and complied with the reasonable due diligence and preventive measures required under this Section.
 
 
 ## Appendix A: Conversion Date
