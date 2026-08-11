@@ -125,7 +125,8 @@ Where reasonably practicable, you shall also take reasonable technical, contract
 You must not knowingly, or after exercising reasonable due diligence have reason to know, directly or indirectly distribute, transfer, transmit, or otherwise make available an affected copy into a jurisdiction where such distribution would constitute an infringement or violation of this License.
 
 A failure to prevent an unauthorized third party from independently redistributing a copy shall not, by itself, constitute a breach of this License, provided that you exercised the reasonable due diligence and reasonable preventive measures required by this Section and did not knowingly facilitate or authorize the prohibited distribution.
----
+
+
 
 ## Appendix A: Conversion Date
 
