@@ -113,6 +113,18 @@ The provisions of this Section shall apply equally to all Derivative Works and a
 
 If any provision of this License is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.
 
+
+## 8. Jurisdictional Exceptions and Distribution Restrictions
+
+If any provision of this License is subject to a specific exception, limitation, or treatment as non-infringing under the applicable law of the jurisdiction in which you are located, you shall not be held liable for exercising the rights covered by that exception within that jurisdiction. However, if the same conduct or exercise of rights would constitute an infringement or breach of this License in another jurisdiction, your right to distribute the affected copy or copies shall be limited to your jurisdiction.
+
+You shall exercise reasonable due diligence before directly or indirectly distributing, transferring, transmitting, or otherwise making available any affected copy or copies outside your jurisdiction, including taking reasonable steps to determine whether such distribution would constitute an infringement or violation of this License in the destination jurisdiction.
+
+Where reasonably practicable, you shall also take reasonable technical, contractual, organizational, or other appropriate measures to prevent an affected copy from being distributed, transferred, transmitted, or otherwise made available outside the jurisdiction in which its distribution is permitted. Such measures may include reasonable access controls, geographic restrictions, distribution notices, contractual restrictions, or other measures appropriate to the circumstances.
+
+You must not knowingly, or after exercising reasonable due diligence have reason to know, directly or indirectly distribute, transfer, transmit, or otherwise make available an affected copy into a jurisdiction where such distribution would constitute an infringement or violation of this License.
+
+A failure to prevent an unauthorized third party from independently redistributing a copy shall not, by itself, constitute a breach of this License, provided that you exercised the reasonable due diligence and reasonable preventive measures required by this Section and did not knowingly facilitate or authorize the prohibited distribution.
 ---
 
 ## Appendix A: Conversion Date
