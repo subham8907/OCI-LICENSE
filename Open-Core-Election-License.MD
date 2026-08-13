@@ -16,14 +16,14 @@ Your reproduction, use, modification, and distribution of the Software are subje
 
 **"Successor"** means, as the context requires, any of the following:
 
-- **(a) Assignees and Transferees of IP Rights.** Any person or Legal Entity that acquires, in whole or in part, by assignment, transfer, exclusive license, operation of law, court order, or otherwise, any copyright, patent, or other intellectual property right held by a Licensor or Contributor in or relating to the Work or a Contribution — excluding, for the avoidance of doubt, any non-exclusive licensee who acquires no greater rights than those already granted under this Agreement;
+- **(a) Assignees and Transferees of IP Rights.** Any person or Legal Entity that acquires, in whole or in part, by assignment, transfer, exclusive license, operation of law, court order, or otherwise, any copyright, patent, or other intellectual property right held by a Licensor or Contributor in or relating to the Work or a Contribution — excluding, for the avoidance of doubt, any non-exclusive licensee who acquires no greater rights than those already granted under this License;
 - **(b) Successors of Natural Persons.** If a Licensor or Contributor is a natural person, that person's estate, heirs, executors, administrators, personal representatives, guardians, conservators, trustees, beneficiaries, or other lawful successors or assigns, whether arising by will, intestate succession, trust instrument, court order, incapacity, or otherwise;
 - **(c) Successors of Legal Entities.** Any person or Legal Entity that succeeds to, acquires, assumes, or continues all or substantially all of the rights, assets, obligations, business, or legal interests of a Licensor or Contributor that is a Legal Entity, whether by merger, acquisition, consolidation, amalgamation, reorganization, recapitalization, conversion, division, spin-off, sale or transfer of substantially all assets, dissolution, liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by any other transaction or series of related transactions having a similar effect;
 - **(d) Chain of Title.** Any Successor (under any of the foregoing clauses) of a Successor, without limitation as to the number of intervening transfers or remoteness in time.
 
 For purposes of this definition, "Change of Control" means any transaction or series of related transactions resulting in a person or group acquiring, directly or indirectly, the power to direct the management or policies of an entity, whether through ownership of voting securities, contract, or otherwise.
 
-For the avoidance of doubt, no Licensor or Contributor may avoid the obligations of this Agreement by structuring a transaction so as to fall outside the foregoing definition where the substance of the transaction is a transfer described in this definition.
+For the avoidance of doubt, no Licensor or Contributor may avoid the obligations of this License by structuring a transaction so as to fall outside the foregoing definition where the substance of the transaction is a transfer described in this definition.
 
 **"Contribution"** means the copyrightable work licensed by a particular Contributor under this License.
 
@@ -75,7 +75,7 @@ Without limiting the other conditions of this License, the rights granted under 
 
 **(e) Circumvention of Technological Protection Measures.** You must not remove, modify, disable, bypass, or otherwise circumvent any Technological Protection Measure implemented on the Software, in any form, including any Technological Protection Measure protecting Third-Party Content, or modify any portion of the Software or Third-Party Content protected by a Technological Protection Measure, in order to (i) enable access to protected functionality without authorization, or (ii) remove or disable the protected functionality. This includes, without limitation, any license key functionality in the Software.
 
-**(f) Prohibition on Sublicensing.** You may not sublicense the Software. Each time you convey the Software, the recipient automatically receives a license from each Contributor.
+**(f) Prohibition on Sublicensing.** You may not sublicense the Software. Each time You convey the Software, the recipient automatically receives a license from each Contributor.
 
 ---
 
@@ -116,17 +116,17 @@ If any provision of this License is held to be invalid or unenforceable, that pr
 
 ## 8. Jurisdictional Exceptions and Distribution Restrictions
 
-If any provision of this License is subject to a specific exception, limitation, or treatment as non-infringing under the applicable law of the jurisdiction in which you are located, you shall not be held liable for exercising the rights covered by that exception within that jurisdiction. However, if the same conduct or exercise of rights would constitute an infringement or breach of this License in another jurisdiction, your right to distribute the affected copy or copies shall be limited to your jurisdiction.
+If any provision of this License is subject to a specific exception, limitation, or treatment as non-infringing under the applicable law of the jurisdiction in which You are located, You shall not be held liable for exercising the rights covered by that exception within that jurisdiction. However, if the same conduct or exercise of rights would constitute an infringement or breach of this License in another jurisdiction, Your right to distribute the affected copy or copies shall be limited to Your jurisdiction.
 
-You shall exercise reasonable due diligence before directly or indirectly distributing, transferring, transmitting, or otherwise making available any affected copy or copies outside your jurisdiction, including taking reasonable steps to determine whether such distribution would constitute an infringement or violation of this License in the destination jurisdiction.
+You shall exercise reasonable due diligence before directly or indirectly distributing, transferring, transmitting, or otherwise making available any affected copy or copies outside Your jurisdiction, including taking reasonable steps to determine whether such distribution would constitute an infringement or violation of this License in the destination jurisdiction.
 
-Where reasonably practicable, you shall also take reasonable technical, contractual, organizational, or other appropriate measures to prevent an affected copy from being distributed, transferred, transmitted, or otherwise made available outside the jurisdiction in which its distribution is permitted. Such measures may include reasonable access controls, geographic restrictions, distribution notices, contractual restrictions, or other measures appropriate to the circumstances.
+Where reasonably practicable, You shall also take reasonable technical, contractual, organizational, or other appropriate measures to prevent an affected copy from being distributed, transferred, transmitted, or otherwise made available outside the jurisdiction in which its distribution is permitted. Such measures may include reasonable access controls, geographic restrictions, distribution notices, contractual restrictions, or other measures appropriate to the circumstances.
 
 You must not knowingly, or after exercising reasonable due diligence have reason to know, directly or indirectly distribute, transfer, transmit, or otherwise make available an affected copy into a jurisdiction where such distribution would constitute an infringement or violation of this License.
 
-A failure to prevent an unauthorized third party from independently redistributing a copy shall not, by itself, constitute a breach of this License, provided that you exercised the reasonable due diligence and reasonable preventive measures required by this Section and did not knowingly facilitate or authorize the prohibited distribution.
+A failure to prevent an unauthorized third party from independently redistributing a copy shall not, by itself, constitute a breach of this License, provided that You exercised the reasonable due diligence and reasonable preventive measures required by this Section and did not knowingly facilitate or authorize the prohibited distribution.
 
-For the avoidance of doubt, where a third party independently distributes, transfers, transmits, or otherwise makes available an affected copy in a jurisdiction in which such distribution, transfer, transmission, or making available would constitute an infringement or violation of this License, that third party shall be solely responsible for such conduct and shall be treated as having committed the applicable infringement or breach. Such conduct shall not, by itself, constitute a breach of this License by you, provided that you did not knowingly authorize, facilitate, or participate in such distribution and complied with the reasonable due diligence and preventive measures required under this Section.
+For the avoidance of doubt, where a third party independently distributes, transfers, transmits, or otherwise makes available an affected copy in a jurisdiction in which such distribution, transfer, transmission, or making available would constitute an infringement or violation of this License, that third party shall be solely responsible for such conduct and shall be treated as having committed the applicable infringement or breach. Such conduct shall not, by itself, constitute a breach of this License by You, provided that You did not knowingly authorize, facilitate, or participate in such distribution and complied with the reasonable due diligence and preventive measures required under this Section.
 
 
 ## Appendix A: Conversion Date
@@ -142,6 +142,8 @@ Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `20
 The Apache License file may be created under any name and in any format or medium, provided that the content below is reproduced accurately.
 
 ```
+
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -343,6 +345,7 @@ The Apache License file may be created under any name and in any format or mediu
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
 ```
 
 ---
@@ -623,7 +626,7 @@ ADDITIONAL PERMISSIONS AND GRANTS
         (including a cross-claim or counterclaim in a lawsuit),
         alleging that the Work or a Contribution incorporated within
         the Work constitutes direct or contributory infringement of
-        any Design Right, then any Design Rights licenses granted to
+        any Design Rights, then any Design Rights licenses granted to
         You under this License for that Work shall terminate as of
         the date such litigation is filed.
 
