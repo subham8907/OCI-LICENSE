@@ -133,6 +133,8 @@ For the avoidance of doubt, where a third party independently distributes, trans
 
 **Conversion Date:** `${YYYY-MM-DD}T00:00:00Z`
 
+The Conversion Date takes effect at midnight Coordinated Universal Time (00:00:00Z) on DATE MONTH-NAME YEAR.
+
 Replace `${YYYY-MM-DD}` with the actual calendar date (year-month-day, e.g., `2030-01-01`) on which the Conversion Date is to take effect. It becomes effective at midnight UTC (00:00:00Z) on that date.
 
 ---
