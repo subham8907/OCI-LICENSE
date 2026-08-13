@@ -455,6 +455,8 @@ without limitation, Industrial Designs and Layout-Designs
 (Topographies) of Integrated Circuits, but excluding copyright,
 patent, and trademark rights.
 
+"Documentation" means schematic diagrams, designs, circuit or circuit board layouts, mechanical drawings, flow charts and descriptive text, and other explanatory material that is explicitly stated as being made available under the conditions of this Licence. The Documentation may be in any medium, including but not limited to computer files and representations on paper, film, or any other media.
+
 --------------------------------------------------------------------------------
 ADDITIONAL PERMISSIONS AND GRANTS
 --------------------------------------------------------------------------------
@@ -616,13 +618,14 @@ ADDITIONAL PERMISSIONS AND GRANTS
         worldwide, non-exclusive, no-charge, royalty-free, and
         irrevocable (except as stated in this Section) license under
         such Design Rights to make, have made, use, offer to sell,
-        sell, import, and otherwise transfer the Work, where such
+        sell, import, and otherwise transfer the Work, use same and substantial 
+       where such
         license applies only to those design claims licensable by
         such Contributor that are necessarily infringed by their
         Contribution(s) alone or by the combination of their
         Contribution(s) with the Work to which such Contribution(s)
         was submitted. For a physical or tangible Work, disclosure by
-        the Source form is satisfied through documentation describing
+        the Source form is satisfied through Documentation describing
         the design in sufficient detail to make and use it. If You
         institute design infringement litigation against any entity
         (including a cross-claim or counterclaim in a lawsuit),
