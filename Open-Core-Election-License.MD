@@ -606,22 +606,26 @@ ADDITIONAL PERMISSIONS AND GRANTS
         of this License Exception and the Apache License, Version
         2.0, each Contributor hereby grants to You, to the extent of
         such Contributor's Design Rights embodied in the Work and
-        governed by this License Exception and the Apache License,
-        Version 2.0, a perpetual, worldwide, non-exclusive, no-charge,
-        royalty-free, and irrevocable (except as stated in this
-        Section) license under such Design Rights to make, have made,
-        use, offer to sell, sell, import, and otherwise transfer the
-        Work, where such license applies only to those design claims
-        licensable by such Contributor that are necessarily infringed
-        by their Contribution(s) alone or by the combination of their
+        disclosed by the Source form and governed by this License
+        Exception and the Apache License, Version 2.0, a perpetual,
+        worldwide, non-exclusive, no-charge, royalty-free, and
+        irrevocable (except as stated in this Section) license under
+        such Design Rights to make, have made, use, offer to sell,
+        sell, import, and otherwise transfer the Work, where such
+        license applies only to those design claims licensable by
+        such Contributor that are necessarily infringed by their
+        Contribution(s) alone or by the combination of their
         Contribution(s) with the Work to which such Contribution(s)
-        was submitted. If You institute design infringement litigation
-        against any entity (including a cross-claim or counterclaim in
-        a lawsuit), alleging that the Work or a Contribution
-        incorporated within the Work constitutes direct or
-        contributory infringement of any Design Right, then any Design
-        Rights licenses granted to You under this License for that
-        Work shall terminate as of the date such litigation is filed.
+        was submitted. For a physical or tangible Work, disclosure by
+        the Source form is satisfied through documentation describing
+        the design in sufficient detail to make and use it. If You
+        institute design infringement litigation against any entity
+        (including a cross-claim or counterclaim in a lawsuit),
+        alleging that the Work or a Contribution incorporated within
+        the Work constitutes direct or contributory infringement of
+        any Design Right, then any Design Rights licenses granted to
+        You under this License for that Work shall terminate as of
+        the date such litigation is filed.
 
 
 6. SUBMISSION OF CONTRIBUTIONS
