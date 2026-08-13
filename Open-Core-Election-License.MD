@@ -409,7 +409,7 @@ Version 2.0.
     right held by a Licensor or Contributor in or relating to the
     Work or a Contribution — excluding, for the avoidance of doubt,
     any non-exclusive licensee who acquires no greater rights than
-    those already granted under this Agreement;
+    those already granted under this License Exception;
 
 (b) Successors of Natural Persons. If a Licensor or Contributor is a
     natural person, that person's estate, heirs, executors,
@@ -440,9 +440,32 @@ management or policies of an entity, whether through ownership of
 voting securities, contract, or otherwise.
 
 For the avoidance of doubt, no Licensor or Contributor may avoid the
-obligations of this Agreement by structuring a transaction so as to
-fall outside the foregoing definition where the substance of the
-transaction is a transfer described in this definition.
+obligations of this License Exception by structuring a transaction so
+as to fall outside the foregoing definition where the substance of
+the transaction is a transfer described in this definition.
+
+
+"Design" means only the features of shape, configuration, pattern,
+ornament, or composition of lines or colours applied to any article —
+whether in two-dimensional or three-dimensional form, or in both — by
+any industrial process or means, manual, mechanical, or chemical,
+applied separately or in combination, which, in the finished article,
+appeal to and are judged solely by the eye. It does not include any
+mode or principle of construction, or anything that is in substance
+merely a mechanical device. It also does not include a trade mark —
+that is, a mark used or proposed to be used in relation to goods to
+indicate, or so as to indicate, a connection in the course of trade
+between the goods and a particular person entitled to use the mark —
+whether as its owner or as a permitted or registered user, whether or
+not the identity of that person is disclosed, and including a
+certification mark registered as such. Nor does it include a property
+mark — that is, a mark used to denote that movable property belongs
+to a particular person. Nor does it include an artistic work — that
+is, a painting, sculpture, drawing (including a diagram, map, chart,
+or plan), engraving, or photograph, whether or not it possesses
+artistic quality — a work of architecture, meaning any building or
+structure having artistic character or design, or any model of such a
+building or structure — and any other work of artistic craftsmanship.
 
 
 --------------------------------------------------------------------------------
@@ -554,16 +577,15 @@ ADDITIONAL PERMISSIONS AND GRANTS
 --------------------------------------------------------------------------------
 
     The Licensor or a Contributor hereby grants You an exception from
-    the requirement to comply with Section 4(b) of the Apache License,
-    Version 2.0.
+    the requirement to comply with Section 4(b) of the Apache
+    License, Version 2.0.
 
 
---------------------------------------------------------------------------------
 4. SEVERABILITY
 --------------------------------------------------------------------------------
 
-    If any provision of this License is held to be invalid or
-    unenforceable, that provision will be enforced to the maximum
+    If any provision of this License Exception is held to be invalid
+    or unenforceable, that provision will be enforced to the maximum
     extent permissible, and the remaining provisions will remain in
     full force and effect.
 
@@ -575,10 +597,10 @@ ADDITIONAL PERMISSIONS AND GRANTS
         conditions of this License Exception and the Apache License,
         Version 2.0, each Contributor hereby grants to You a
         perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-        irrevocable copyright license to reproduce, prepare Derivative
-        Works of, publicly display, publicly perform, sublicense, and
-        distribute the Work and such Derivative Works in Source or
-        Object form.
+        irrevocable copyright license to reproduce, prepare
+        Derivative Works of, publicly display, publicly perform,
+        sublicense, and distribute the Work and such Derivative Works
+        in Source or Object form.
 
     (b) Grant of Patent License. Subject to the terms and conditions
         of this License Exception and the Apache License, Version
@@ -597,6 +619,15 @@ ADDITIONAL PERMISSIONS AND GRANTS
         or contributory patent infringement, then any patent licenses
         granted to You under this License for that Work shall
         terminate as of the date such litigation is filed.
+
+    (c) Grant of Design Rights. Subject to the terms and conditions
+        of this License Exception and the Apache License, Version
+        2.0, each Contributor hereby grants to You, to the extent of
+        such Contributor's Design Rights embodied in the Work, a
+        perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+        and irrevocable license to make, have made, use, offer for
+        sale, sell, import, reproduce, and distribute the Work and
+        Derivative Works thereof.
 
 
 6. SUBMISSION OF CONTRIBUTIONS
