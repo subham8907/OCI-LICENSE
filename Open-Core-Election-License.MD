@@ -445,28 +445,9 @@ as to fall outside the foregoing definition where the substance of
 the transaction is a transfer described in this definition.
 
 
-"Design" means only the features of shape, configuration, pattern,
-ornament, or composition of lines or colours applied to any article —
-whether in two-dimensional or three-dimensional form, or in both — by
-any industrial process or means, manual, mechanical, or chemical,
-applied separately or in combination, which, in the finished article,
-appeal to and are judged solely by the eye. It does not include any
-mode or principle of construction, or anything that is in substance
-merely a mechanical device. It also does not include a trade mark —
-that is, a mark used or proposed to be used in relation to goods to
-indicate, or so as to indicate, a connection in the course of trade
-between the goods and a particular person entitled to use the mark —
-whether as its owner or as a permitted or registered user, whether or
-not the identity of that person is disclosed, and including a
-certification mark registered as such. Nor does it include a property
-mark — that is, a mark used to denote that movable property belongs
-to a particular person. Nor does it include an artistic work — that
-is, a painting, sculpture, drawing (including a diagram, map, chart,
-or plan), engraving, or photograph, whether or not it possesses
-artistic quality — a work of architecture, meaning any building or
-structure having artistic character or design, or any model of such a
-building or structure — and any other work of artistic craftsmanship.
-
+  “Design” means any intellectual property right that grants an exclusive or monopoly
+  right in respect of a design, but excludes any right arising under
+  copyright, patent, or trademark law.
 
 --------------------------------------------------------------------------------
 ADDITIONAL PERMISSIONS AND GRANTS
