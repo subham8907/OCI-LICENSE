@@ -444,10 +444,10 @@ obligations of this License Exception by structuring a transaction so
 as to fall outside the foregoing definition where the substance of
 the transaction is a transfer described in this definition.
 
-
-  “Design” means any intellectual property right that grants an exclusive or monopoly
-  right in respect of a design, but excludes any right arising under
-  copyright, patent, or trademark law.
+  “Design” means any intellectual property right that grants an
+   exclusive or monopoly right in respect of a design, including, without limitation,
+   Industrial Designs and Layout-Designs (Topographies) of Integrated Circuits,
+   but excluding copyright, patent,and trademark rights.
 
 --------------------------------------------------------------------------------
 ADDITIONAL PERMISSIONS AND GRANTS
