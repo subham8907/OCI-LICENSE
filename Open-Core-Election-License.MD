@@ -444,10 +444,11 @@ obligations of this License Exception by structuring a transaction so
 as to fall outside the foregoing definition where the substance of
 the transaction is a transfer described in this definition.
 
-  “Design” means any intellectual property right that grants an
-   exclusive or monopoly right in respect of a design, including, without limitation,
-   Industrial Designs and Layout-Designs (Topographies) of Integrated Circuits,
-   but excluding copyright, patent,and trademark rights.
+"Design" means any intellectual property right that grants an
+exclusive or monopoly right in respect of a design, including,
+without limitation, Industrial Designs and Layout-Designs
+(Topographies) of Integrated Circuits, but excluding copyright,
+patent, and trademark rights.
 
 --------------------------------------------------------------------------------
 ADDITIONAL PERMISSIONS AND GRANTS
@@ -604,11 +605,23 @@ ADDITIONAL PERMISSIONS AND GRANTS
     (c) Grant of Design Rights. Subject to the terms and conditions
         of this License Exception and the Apache License, Version
         2.0, each Contributor hereby grants to You, to the extent of
-        such Contributor's Design Rights embodied in the Work, a
-        perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-        and irrevocable license to make, have made, use, offer for
-        sale, sell, import, reproduce, and distribute the Work and
-        Derivative Works thereof.
+        such Contributor's Design Rights embodied in the Work and
+        governed by this License Exception and the Apache License,
+        Version 2.0, a perpetual, worldwide, non-exclusive, no-charge,
+        royalty-free, and irrevocable (except as stated in this
+        Section) license under such Design Rights to make, have made,
+        use, offer to sell, sell, import, and otherwise transfer the
+        Work, where such license applies only to those design claims
+        licensable by such Contributor that are necessarily infringed
+        by their Contribution(s) alone or by the combination of their
+        Contribution(s) with the Work to which such Contribution(s)
+        was submitted. If You institute design infringement litigation
+        against any entity (including a cross-claim or counterclaim in
+        a lawsuit), alleging that the Work or a Contribution
+        incorporated within the Work constitutes direct or
+        contributory infringement of any Design Right, then any Design
+        Rights licenses granted to You under this License for that
+        Work shall terminate as of the date such litigation is filed.
 
 
 6. SUBMISSION OF CONTRIBUTIONS
