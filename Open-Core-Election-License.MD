@@ -412,7 +412,7 @@ Version 2.0.
     transfer, exclusive license, operation of law, court order, or
     otherwise, any copyright, patent, or other intellectual property
     right held by a Licensor or Contributor in or relating to the
-    Work or a Contribution — excluding, for the avoidance of doubt,
+    Work or a Contribution â€” excluding, for the avoidance of doubt,
     any non-exclusive licensee who acquires no greater rights than
     those already granted under this License Exception;
 
@@ -455,8 +455,6 @@ without limitation, Industrial Designs and Layout-Designs
 (Topographies) of Integrated Circuits, but excluding copyright,
 patent, and trademark rights.
 
-"Documentation" means schematic diagrams, designs, circuit or circuit board layouts, mechanical drawings, flow charts and descriptive text, and other explanatory material that is explicitly stated as being made available under the conditions of this Licence. The Documentation may be in any medium, including but not limited to computer files and representations on paper, film, or any other media.
-
 --------------------------------------------------------------------------------
 ADDITIONAL PERMISSIONS AND GRANTS
 --------------------------------------------------------------------------------
@@ -492,22 +490,35 @@ ADDITIONAL PERMISSIONS AND GRANTS
     breach of the Apache License, Version 2.0, or this License
     Exception.
 
-    Attempted Statutory Termination
-
+    Attempted Statutory Termination.
         Subject to the terms and conditions of this additional
         permission granted under this License Exception and the
         Apache License, Version 2.0, if the Licensor, a Contributor,
         or any Successor attempts to terminate the Apache License,
         Version 2.0, or any additional permission granted under this
-        Exception, by exercising any statutory right, when this
-        License Exception and the Apache License, Version 2.0, have
-        not been violated, then, at the moment such termination is
-        attempted, the Licensor or Contributor shall be deemed to
+        License Exception, by exercising any statutory right, when
+        this License Exception and the Apache License, Version 2.0,
+        have not been violated, then, at the moment such termination
+        is attempted, the Licensor or Contributor shall be deemed to
         have regranted the Apache License, Version 2.0, and any
-        additional permissions granted under this Exception. Such
-        regrant shall be effective as of the last day on which the
-        Contributor or Licensor was alive, or the day immediately
+        additional permissions granted under this License Exception.
+        Such regrant shall be effective as of the last day on which
+        the Licensor or Contributor was alive, or the day immediately
         preceding the attempted termination.
+
+    Territorial Effect of Statutory Termination.
+        Subject to the terms and conditions of this License Exception
+        and the Apache License, Version 2.0, if the Apache License,
+        Version 2.0, and this License Exception are both terminated by
+        operation of a statutory right, and that statutory right
+        arises under the applicable law of a specific territory, such
+        termination shall be effective only with respect to that
+        specific territory, and only where a Contributor has invoked
+        the applicable law of that specific territory. Such
+        termination shall not affect, and shall not be construed to
+        affect, the validity, effectiveness, or continuity of the
+        Apache License, Version 2.0, or this License Exception in any
+        other territory.
 
 
 2. MORAL RIGHTS
@@ -582,58 +593,62 @@ ADDITIONAL PERMISSIONS AND GRANTS
 5. GRANTS
 --------------------------------------------------------------------------------
 
-    (a) Grant of Copyright License. Subject to the terms and
-        conditions of this License Exception and the Apache License,
-        Version 2.0, each Contributor hereby grants to You a
-        perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-        irrevocable copyright license to reproduce, prepare
-        Derivative Works of, publicly display, publicly perform,
-        sublicense, and distribute the Work and such Derivative Works
-        in Source or Object form.
+    (a) Grant of Copyright License.
 
-    (b) Grant of Patent License. Subject to the terms and conditions
-        of this License Exception and the Apache License, Version
-        2.0, each Contributor hereby grants to You a perpetual,
-        worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-        (except as stated in this section) patent license to make,
-        have made, use, offer to sell, sell, import, and otherwise
-        transfer the Work, where such license applies only to those
-        patent claims licensable by such Contributor that are
-        necessarily infringed by their Contribution(s) alone or by
-        combination of their Contribution(s) with the Work to which
-        such Contribution(s) was submitted. If You institute patent
-        litigation against any entity (including a cross-claim or
-        counterclaim in a lawsuit) alleging that the Work or a
-        Contribution incorporated within the Work constitutes direct
-        or contributory patent infringement, then any patent licenses
-        granted to You under this License for that Work shall
-        terminate as of the date such litigation is filed.
+        Subject to the terms and conditions of this License Exception
+        and the Apache License, Version 2.0, each Contributor hereby
+        grants to You a perpetual, worldwide, non-exclusive,
+        no-charge, royalty-free, irrevocable copyright license to
+        reproduce, prepare Derivative Works of, publicly display,
+        publicly perform, sublicense, and distribute the Work and
+        such Derivative Works in Source or Object form.
 
-    (c) Grant of Design Rights. Subject to the terms and conditions
-        of this License Exception and the Apache License, Version
-        2.0, each Contributor hereby grants to You, to the extent of
-        such Contributor's Design Rights embodied in the Work and
-        disclosed by the Source form and governed by this License
-        Exception and the Apache License, Version 2.0, a perpetual,
-        worldwide, non-exclusive, no-charge, royalty-free, and
-        irrevocable (except as stated in this Section) license under
-        such Design Rights to make, have made, use, offer to sell,
-        sell, import, and otherwise transfer the Work, use same and substantial 
-       where such
-        license applies only to those design claims licensable by
-        such Contributor that are necessarily infringed by their
-        Contribution(s) alone or by the combination of their
+    (b) Grant of Patent License.
+
+        Subject to the terms and conditions of this License Exception
+        and the Apache License, Version 2.0, each Contributor hereby
+        grants to You a perpetual, worldwide, non-exclusive,
+        no-charge, royalty-free, irrevocable (except as stated in
+        this Section) patent license to make, have made, use, offer
+        to sell, sell, import, and otherwise transfer the Work, where
+        such license applies only to those patent claims licensable
+        by such Contributor that are necessarily infringed by their
+        Contribution(s) alone or by combination of their
         Contribution(s) with the Work to which such Contribution(s)
-        was submitted. For a physical or tangible Work, disclosure by
-        the Source form is satisfied through Documentation describing
-        the design in sufficient detail to make and use it. If You
-        institute design infringement litigation against any entity
-        (including a cross-claim or counterclaim in a lawsuit),
+        was submitted. If You institute patent litigation against any
+        entity (including a cross-claim or counterclaim in a lawsuit)
         alleging that the Work or a Contribution incorporated within
-        the Work constitutes direct or contributory infringement of
-        any Design Rights, then any Design Rights licenses granted to
-        You under this License for that Work shall terminate as of
-        the date such litigation is filed.
+        the Work constitutes direct or contributory patent
+        infringement, then any patent licenses granted to You under
+        this License for that Work shall terminate as of the date
+        such litigation is filed.
+
+    (c) Grant of Design Rights.
+
+        Subject to the terms and conditions of this License Exception
+        and the Apache License, Version 2.0, each Contributor hereby
+        grants to You, to the extent of such Contributor's Design
+        Rights embodied in the Work and disclosed by the Source form
+        and governed by this License Exception and the Apache
+        License, Version 2.0, a perpetual, worldwide, non-exclusive,
+        no-charge, royalty-free, and irrevocable (except as stated in
+        this Section) license under such Design Rights to make, have
+        made, use, offer to sell, sell, import, and otherwise
+        transfer the Work, where such license applies only to those
+        design claims licensable by such Contributor that are
+        necessarily infringed by their Contribution(s) alone or by
+        the combination of their Contribution(s) with the Work to
+        which such Contribution(s) was submitted. For a physical or
+        tangible Work, disclosure by the Source form is satisfied
+        through documentation describing the design in sufficient
+        detail to make and use it. If You institute design
+        infringement litigation against any entity (including a
+        cross-claim or counterclaim in a lawsuit) alleging that the
+        Work or a Contribution incorporated within the Work
+        constitutes direct or contributory infringement of any Design
+        Rights, then any Design Rights licenses granted to You under
+        this License for that Work shall terminate as of the date
+        such litigation is filed.
 
 
 6. SUBMISSION OF CONTRIBUTIONS
@@ -647,6 +662,19 @@ ADDITIONAL PERMISSIONS AND GRANTS
     herein shall supersede or modify the terms of any separate license
     agreement You may have executed with Licensor regarding such
     Contributions.
+
+
+7. FONT EMBEDDING EXCEPTION
+--------------------------------------------------------------------------------
+
+    As a special exception, if You create a document that uses this
+    font, and embed this font or unaltered or altered portions of
+    this font into the document, that font does not, by itself, cause
+    the resulting document to be covered by this License Exception or
+    the Apache License, Version 2.0. This exception does not,
+    however, invalidate any other reasons why the document might be
+    covered by this License Exception or the Apache License, Version
+    2.0.
 
 ================================================================================
 ```
