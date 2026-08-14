@@ -467,6 +467,12 @@ ADDITIONAL PERMISSIONS AND GRANTS
     other intellectual property rights in the Work and each
     Contribution and binds each Licensor, Contributor, and Successor.
 
+     
+    The License Exception, including the grants granted
+    under Sections 5a, 5b and 5c, runs with the copyright, patent, design 
+    and other intellectual property rights in the Work and each
+    Contribution and binds each Licensor, Contributor, and Successor.
+
     No transfer, succession, death, dissolution, merger, acquisition,
     reorganization, bankruptcy, insolvency proceeding, Change of
     Control, or other event described in the definition of
